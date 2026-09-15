@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-09-15T11:22:42.895743Z",
+  "collectedAt": "2026-09-15T13:24:14.080493Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-14T09:22:42.895743Z",
+  "windowStart": "2026-09-14T11:24:14.080493Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 8,
+  "videoCount": 10,
   "videos": [
     {
       "channel": "Huberman Lab",
@@ -49,6 +49,28 @@
       "durationSeconds": 2668,
       "duration": "44:28",
       "description": "github code: https://github.com/sourangshupal/crusoe-cloud-video-demo\nManaging GPU infrastructure shouldn't slow down AI development. In this video, I demonstrate how to build a complete LLM fine-tuning and deployment pipeline using Crusoe Intelligence Foundry, from dataset preparation to production inference—all without provisioning or managing GPUs.\n\nUsing a synthetic financial PII dataset, we fine-tune Qwen3 8B, compare it against Llama 3.3 70B, and deploy the resulting model to a dedicated production endpoint using Crusoe's managed AI platform.\n\nWhat you'll learn\n\n✅ Understand Crusoe Cloud and Crusoe Intelligence Foundry\n✅ Prepare a Hugging Face dataset for supervised fine-tuning\n✅ Fine-tune Qwen3 8B using Serverless Fine-Tuning\n✅ Monitor training jobs and model metrics\n✅ Run Serverless Inference using an OpenAI-compatible API\n✅ Deploy a fine-tuned model with Self-Serve Deployments\n✅ Compare dedicated deployments vs serverless inference\n✅ Download LoRA adapter weights for complete portability\n✅ Evaluate model performance using Detection F1 and Typed F1\n\nTechnologies Covered\n\n* Crusoe Intelligence Foundry\n* Crusoe Cloud\n* Serverless Fine-Tuning\n* Serverless Inference\n* Self-Serve Deployments\n* Qwen3 8B\n* Llama 3.3 70B\n* LoRA Fine-Tuning\n* Hugging Face Datasets\n* OpenAI Python SDK\n* Production LLM Deployment\n\nThis tutorial is ideal for AI Engineers, Machine Learning Engineers, Data Scientists, and developers looking to build production-ready LLM applications without the complexity of managing GPU infrastructure.\n\n📌 Sponsor: Crusoe Cloud\n\n📌 Disclosure: This video is sponsored by Crusoe Cloud. All opinions and the hands-on demonstration are my own.\n\n👍 If you enjoyed this tutorial, don't forget to Like, Share, and Subscribe for more videos on LLMs, AI Engineering, MLOps, Fine-Tuning, and Generative AI.\n\n#CrusoeCloud #CrusoeIntelligenceFoundry #FineTuning #LLM #OpenSourceAI #Qwen3 #Llama #GenerativeAI #MLOps #MachineLearning #AIEngineering"
+    },
+    {
+      "channel": "AI with Thiru",
+      "priority": "high",
+      "videoId": "krWfqTMpT5M",
+      "publishedAt": "2026-09-15T13:13:05Z",
+      "title": "Transformer Architecture Explained | LLM From Scratch (Part -2)",
+      "url": "https://www.youtube.com/watch?v=krWfqTMpT5M",
+      "durationSeconds": 2701,
+      "duration": "45:01",
+      "description": "In this video, we break down the Transformer Architecture from the fundamentals, including how Attention, Self-Attention, Multi-Head Attention, Positional Encoding, Encoder, Decoder, and Feed-Forward Networks work together to build modern AI models.\n\nWhat You'll Learn\nWhat is a Transformer?\nWhy were Transformers introduced?\nTransformer architecture explained\nSelf-Attention mechanism\nQuery, Key & Value\nScaled Dot-Product Attention\nMulti-Head Attention\nPositional Encoding\nEncoder & Decoder architecture\nFeed-Forward Neural Networks\nResidual Connections & Layer Normalization\nHow Transformers process text\nHow Transformers became the foundation of modern LLMs\nConnection between Transformers and models like ChatGPT\n\nIf you're learning Machine Learning, Deep Learning, NLP, Generative AI, or LLMs, understanding Transformers is essential.\n\nSubscribe to AI with Thiru for practical AI, ML, Deep Learning, NLP, LLMs, AI Agents and the latest AI technologies. \n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\n1:1 Mentorship : https://topmate.io/thirumurugan_r/\n\nGitHub: https://github.com/Thirumurugan240/GPT2_Model_Build.git\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nWatch the full masterclass to learn how to build safer and more reliable AI applications.\n\n#Transformer #Transformers #DeepLearning #MachineLearning #NLP #LLM #GenerativeAI #ArtificialIntelligence #ChatGPT #AttentionMechanism #SelfAttention #DeepLearningTamil #AITamil #AIwithThiru"
+    },
+    {
+      "channel": "The AI Dude - Tamil",
+      "priority": "high",
+      "videoId": "wV-W6PcXX54",
+      "publishedAt": "2026-09-15T13:23:38Z",
+      "title": "ChatGPT Masterclass 2026 (தமிழில்)",
+      "url": "https://www.youtube.com/watch?v=wV-W6PcXX54",
+      "durationSeconds": 2477,
+      "duration": "41:17",
+      "description": "Join our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil\n📸 Instagram –   / the_ai_dude\n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nChatGPT Masterclass 2026 in Tamil\n\nWant to master ChatGPT from beginner to advanced? In this complete Tamil ChatGPT Masterclass, I’ll show you how to use ChatGPT practically for your daily work, learning, coding, content creation, research, productivity, and automation.\n\nWhat You’ll Learn\n\nWe’ll start with the ChatGPT basics and gradually move into advanced features and practical workflows. The focus is not just on understanding features — you’ll learn how to actually use ChatGPT in real-world scenarios.\n\nMaster ChatGPT Features\n\nLearn how to use ChatGPT, Projects, Deep Research, Custom GPTs, file analysis, image generation, web search, memory, advanced prompting, and other powerful ChatGPT capabilities effectively.\n\nChatGPT for Real-World Work\n\nSee practical examples of using ChatGPT for content creation, coding, research, business, productivity, brainstorming, learning, problem-solving, and everyday tasks.\n\nAI Automation & Advanced Workflows\n\nGo beyond basic prompting and understand how ChatGPT can become part of your AI workflows and automation systems. Learn how to combine context, prompts, tools, and AI capabilities to get significantly better results.\n\nBeginner to Advanced\n\nEven if you're completely new to AI, you can follow this masterclass step by step. By the end, you'll have a much clearer understanding of how to use ChatGPT effectively in 2026.\n\nLearn → Build → Automate → Grow \n\n#chatgpt  #chatgpttamil  #ChatGPTMasterclass #chatgpt2026 #gpt #chatgptprompts  #aitamilcomedynews  #artificialintelligence #chatgptmarketing   #generativeai  #chatgpttutorial  #aiautomation  #promptengineering"
     },
     {
       "channel": "Think School",
