@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-09-15T09:29:13.520643Z",
+  "collectedAt": "2026-09-15T11:22:42.895743Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-14T07:29:13.520643Z",
+  "windowStart": "2026-09-14T09:22:42.895743Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 7,
+  "videoCount": 8,
   "videos": [
     {
       "channel": "Huberman Lab",
@@ -38,6 +38,17 @@
       "durationSeconds": 767,
       "duration": "12:47",
       "description": "Join our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil\n📸 Instagram –   / the_ai_dude\n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nBest Image Prompt Structure\n\nSIP (Style, Intent, Parameter)\n\nSTYLE – Visual Direction\n\n1. Minimalist\n2. Swiss\n3. Editorial\n4. Brutalist\n5. Premium, Cinematic\n\n\nINTENT – Tell AI what to design\n\nBold\nTrust\nUrgency\nFuturistic\nLuxury\nCuriosity\n\n\nPARAMETER\n\nLayout\nTypography\nColors\nSpacing\nSubject\nAspect Ratio\n\n\nANTI-SLOP\n\n1. No Gradients\n2. No Neon Glow\n3. No 3D Text\n4. No Floating Particles\n5. No Generic Futuristic Elements\n6. No Random Icons\n7. No Excessive Shadows\n8. No Unnecessary Decoration\n9. No Clutter\n10. No Fake UI\n11. No Stock-Poster Aesthetic\n\n\nSIP = Style + Intent + Parameter\n\nSimple formula:\n\n[STYLE] + [INTENT] + [PARAMETERS] + [ANTI-SLOP]\n\nUse this framework to create cleaner, intentional and professional AI-generated images instead of generic AI-looking designs."
+    },
+    {
+      "channel": "Krish Naik",
+      "priority": "high",
+      "videoId": "doyFsDnsnQQ",
+      "publishedAt": "2026-09-15T11:19:45Z",
+      "title": "Fine-Tune, Deploy & Serve Open LLMs with Crusoe Intelligence Foundry",
+      "url": "https://www.youtube.com/watch?v=doyFsDnsnQQ",
+      "durationSeconds": 2668,
+      "duration": "44:28",
+      "description": "github code: https://github.com/sourangshupal/crusoe-cloud-video-demo\nManaging GPU infrastructure shouldn't slow down AI development. In this video, I demonstrate how to build a complete LLM fine-tuning and deployment pipeline using Crusoe Intelligence Foundry, from dataset preparation to production inference—all without provisioning or managing GPUs.\n\nUsing a synthetic financial PII dataset, we fine-tune Qwen3 8B, compare it against Llama 3.3 70B, and deploy the resulting model to a dedicated production endpoint using Crusoe's managed AI platform.\n\nWhat you'll learn\n\n✅ Understand Crusoe Cloud and Crusoe Intelligence Foundry\n✅ Prepare a Hugging Face dataset for supervised fine-tuning\n✅ Fine-tune Qwen3 8B using Serverless Fine-Tuning\n✅ Monitor training jobs and model metrics\n✅ Run Serverless Inference using an OpenAI-compatible API\n✅ Deploy a fine-tuned model with Self-Serve Deployments\n✅ Compare dedicated deployments vs serverless inference\n✅ Download LoRA adapter weights for complete portability\n✅ Evaluate model performance using Detection F1 and Typed F1\n\nTechnologies Covered\n\n* Crusoe Intelligence Foundry\n* Crusoe Cloud\n* Serverless Fine-Tuning\n* Serverless Inference\n* Self-Serve Deployments\n* Qwen3 8B\n* Llama 3.3 70B\n* LoRA Fine-Tuning\n* Hugging Face Datasets\n* OpenAI Python SDK\n* Production LLM Deployment\n\nThis tutorial is ideal for AI Engineers, Machine Learning Engineers, Data Scientists, and developers looking to build production-ready LLM applications without the complexity of managing GPU infrastructure.\n\n📌 Sponsor: Crusoe Cloud\n\n📌 Disclosure: This video is sponsored by Crusoe Cloud. All opinions and the hands-on demonstration are my own.\n\n👍 If you enjoyed this tutorial, don't forget to Like, Share, and Subscribe for more videos on LLMs, AI Engineering, MLOps, Fine-Tuning, and Generative AI.\n\n#CrusoeCloud #CrusoeIntelligenceFoundry #FineTuning #LLM #OpenSourceAI #Qwen3 #Llama #GenerativeAI #MLOps #MachineLearning #AIEngineering"
     },
     {
       "channel": "Think School",
