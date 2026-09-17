@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-09-17T09:23:38.294212Z",
+  "collectedAt": "2026-09-17T11:22:29.984243Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-16T07:23:38.294212Z",
+  "windowStart": "2026-09-16T09:22:29.984243Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 7,
+  "videoCount": 8,
   "videos": [
     {
       "channel": "Tech With Tim",
@@ -27,6 +27,17 @@
       "durationSeconds": 678,
       "duration": "11:18",
       "description": "Join our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil\n📸 Instagram –   / the_ai_dude\n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nGoogle Stitch AI  Turn Your Ideas Into UI\n\nGoogle Stitch is an AI powered UI design tool that helps you transform simple ideas and natural-language prompts into user interfaces. Instead of designing everything from scratch, you can describe your idea and quickly generate a visual interface for websites and applications.\n\nPrompt  UI with Google Stitch\n\nIn this video, we’ll explore Google Stitch step by step and understand how the Prompt  UI workflow works. We’ll start with a simple prompt, generate an interface, and see how AI converts our requirements into a complete UI design.\n\nCustomize & Improve Your UI\n\nWe’ll explore how to refine the generated designs by changing layouts, typography, components, images, and the overall visual direction. You can continuously iterate on your prompts and improve the interface until it matches your idea.\n\nReal World Google Stitch Use Cases\n\nWe’ll use Google Stitch for practical examples such as landing pages, SaaS dashboards, web apps, mobile app interfaces, MVPs, and rapid prototypes. This makes it useful for developers, designers, freelancers, founders, and anyone building digital products.\n\nAI UI Design & Vibe Coding\n\nFinally, we’ll see how Google Stitch, AI UI generation, Vibe Coding, and AI-assisted development can work together. The goal is to create a faster workflow from Idea ,Prompt ,Design UI and understand how AI can accelerate the overall product-building process.\n\n#googlestitch  #GoogleStitchAI #uidesign  #ai  #aitools  #PromptToUI #vibecoding  #webdesigner  #googleai  #tamil #stitch #stitchtricks"
+    },
+    {
+      "channel": "Krish Naik",
+      "priority": "high",
+      "videoId": "F5IOkeyK9ng",
+      "publishedAt": "2026-09-17T10:05:02Z",
+      "title": "Traditional SDLC Is Changing: Welcome to Vibe Coding & Agentic Engineering",
+      "url": "https://www.youtube.com/watch?v=F5IOkeyK9ng",
+      "durationSeconds": 1513,
+      "duration": "25:13",
+      "description": "Join our AI FDE Bootcamp Enrollment link:\nhttps://www.krishnaik.in/liveclass2/Forward_Deployed_Engineer?id=14\n\nReach out to Krish Naik's counselling team on 📞 +919111533440 or +918484837781 in case of any queries we are there to help you out.\n\nBuild Production-Ready Enterprise AI Systems\n\nMaster the skills to become an AI Forward Deployed Engineer—from software engineering and AWS deployment to RAG, Knowledge Graphs, Multimodal AI, Agentic AI, enterprise integrations, security, and observability\n\nBuild real-world enterprise AI solutions using LangGraph, MCP, FastAPI, Docker, AWS, Neo4j, Pinecone, and more with two end-to-end enterprise capstone projects.\n\nPrerequisites: Basic knowledge of Python, SQL, APIs, and Git with a strong problem-solving mindset. No prior experience in GenAI, RAG, Agents, Cloud, or DevOps is required.\n\nLearn. Build. Deploy. Secure. Scale AI for the enterprise."
     },
     {
       "channel": "Think School",
