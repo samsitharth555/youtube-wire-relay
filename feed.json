@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-09-17T11:22:29.984243Z",
+  "collectedAt": "2026-09-17T13:24:10.723289Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-16T09:22:29.984243Z",
+  "windowStart": "2026-09-16T11:24:10.723289Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 8,
+  "videoCount": 10,
   "videos": [
     {
       "channel": "Tech With Tim",
@@ -40,11 +40,33 @@
       "description": "Join our AI FDE Bootcamp Enrollment link:\nhttps://www.krishnaik.in/liveclass2/Forward_Deployed_Engineer?id=14\n\nReach out to Krish Naik's counselling team on 📞 +919111533440 or +918484837781 in case of any queries we are there to help you out.\n\nBuild Production-Ready Enterprise AI Systems\n\nMaster the skills to become an AI Forward Deployed Engineer—from software engineering and AWS deployment to RAG, Knowledge Graphs, Multimodal AI, Agentic AI, enterprise integrations, security, and observability\n\nBuild real-world enterprise AI solutions using LangGraph, MCP, FastAPI, Docker, AWS, Neo4j, Pinecone, and more with two end-to-end enterprise capstone projects.\n\nPrerequisites: Basic knowledge of Python, SQL, APIs, and Git with a strong problem-solving mindset. No prior experience in GenAI, RAG, Agents, Cloud, or DevOps is required.\n\nLearn. Build. Deploy. Secure. Scale AI for the enterprise."
     },
     {
+      "channel": "Huberman Lab",
+      "priority": "high",
+      "videoId": "VjaPWC4VPPU",
+      "publishedAt": "2026-09-17T12:00:35Z",
+      "title": "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin",
+      "url": "https://www.youtube.com/watch?v=VjaPWC4VPPU",
+      "durationSeconds": 1891,
+      "duration": "31:31",
+      "description": "In this Huberman Lab Essentials episode, my guest is Dr. Andy Galpin, PhD, an exercise physiologist. We revisit the first episode of his Huberman Lab Guest Series to discuss the nine major components of physical fitness and how to assess your abilities. We explain practical tests for movement quality, power, strength, muscle mass and endurance, including grip strength, push-ups and VO2 max. We also discuss how to organize fitness testing, track progress and identify which areas to prioritize in your training to support long-term health and performance.\n\nShow notes: https://go.hubermanlab.com/7sgI40w\n\nHuberman Lab\nWebsite: https://www.hubermanlab.com \nInstagram: https://www.instagram.com/hubermanlab \nThreads: https://www.threads.net/@hubermanlab\nX: https://x.com/hubermanlab \nFacebook: https://www.facebook.com/hubermanlab \nTikTok: https://www.tiktok.com/@hubermanlab \nLinkedIn: https://www.linkedin.com/in/andrew-huberman\n\nDr. Andy Galpin\nX: https://www.instagram.com/drandygalpin\nInstagram: https://www.instagram.com/drandygalpin\nFacebook: https://www.facebook.com/andy.galpin.1\nLinkedIn: https://www.linkedin.com/in/andy-galpin-a90a2b262\nThreads: https://www.threads.com/@drandygalpin\nTikTok: https://www.tiktok.com/@drandygalpin\n\nTimestamps\n00:00:00 Andy Galpin\n00:00:44 Fitness Goals, Appearance & Performance\n00:02:32 Nine Components of Physical Fitness\n00:06:03 Movement Skill, Tool: Assessing Movement Quality\n00:09:53 Speed Testing\n00:10:15 Power, Tool: Standing Broad Jump\n00:11:36 Grip Strength, Dynamometers & Dead Hangs\n00:13:35 Lower Body Strength, Leg Extensions & Squat Holds\n00:16:10 Safe Testing, Technique & Consistent Warm-Ups\n00:17:08 Muscle Mass, Body Composition & Fat-Free Mass Index\n00:19:14 Muscular Endurance, Planks & Push-Ups\n00:20:44 Anaerobic Capacity, Maximum Effort Tests\n00:22:18 Maximum Heart Rate & Heart Rate Recovery\n00:23:33 VO2 Max, Running & Walking Tests\n00:25:19 Long-Duration Endurance, Steady-State Exercise & Nasal Breathing\n00:26:20 Testing Frequency, Test Order & Training Priorities\n00:30:38 Acknowledgements\n\n#hubermanlab #hubermanlabpodcast \n\nDisclaimer & Disclosures: https://www.hubermanlab.com/disclaimer"
+    },
+    {
+      "channel": "The AI Dude - Tamil",
+      "priority": "high",
+      "videoId": "kflxSTB02F4",
+      "publishedAt": "2026-09-17T13:22:57Z",
+      "title": "Build Websites 10X Faster with Google Antigravity (தமிழில்)",
+      "url": "https://www.youtube.com/watch?v=kflxSTB02F4",
+      "durationSeconds": 810,
+      "duration": "13:30",
+      "description": "Join our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil\n📸 Instagram –   / the_ai_dude\n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\n\nBuild Websites 10X Faster with Google Antigravity\n\nIn this video, I’ll show you how Google Antigravity can help you build websites faster using an AI-powered development workflow.\n\nIdea to Website in Minutes\n\nTurn a simple idea or prompt into a working website without spending hours writing everything manually.\n\nAI Powered Web Development\n\nUse AI to speed up coding, UI creation, debugging, modifications, and other repetitive web development tasks.\n\nPrompt → Build → Deploy → Live\n\nSee the complete practical workflow from giving your initial prompt to building, improving, deploying, and taking your website live.\n\nVibe Coding with Google Antigravity\n\nExperience a new way of building websites where you focus on what you want to create while AI helps accelerate the implementation.\n\nBuild Faster, Ship Faster\n\nWhether you’re a developer, freelancer, creator, or beginner, this video shows how AI coding tools can help you move from an idea to a live website much faster.\n\n#googleantigravity  #googleai  #aicoding  #vibecoding  #webdevelopment  #aiwebsitebuilder  #buildwithai  #codingwithai  #aitools  #aitools2026  #WebDevelopment2026 #generativeai  #aideveloper  #aitamilcomedynews  #TheAIDude"
+    },
+    {
       "channel": "Think School",
       "priority": "medium",
       "videoId": "PK4Ty_cyCMI",
       "publishedAt": "2026-09-16T12:09:44Z",
-      "title": "Putin’s Warning to the World? | The Arctic Gamble That Could Reshape World Power",
+      "title": "Putin’s Endgame for Global Trade? | How the Melting Arctic Could Shift Power Toward Russia",
       "url": "https://www.youtube.com/watch?v=PK4Ty_cyCMI",
       "durationSeconds": 873,
       "duration": "14:33",
