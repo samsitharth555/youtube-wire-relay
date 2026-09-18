@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-09-18T13:21:46.138116Z",
+  "collectedAt": "2026-09-18T15:22:18.591586Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-17T11:21:46.138116Z",
+  "windowStart": "2026-09-17T13:22:18.591586Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 7,
   "videos": [
-    {
-      "channel": "Huberman Lab",
-      "priority": "high",
-      "videoId": "VjaPWC4VPPU",
-      "publishedAt": "2026-09-17T12:00:35Z",
-      "title": "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin",
-      "url": "https://www.youtube.com/watch?v=VjaPWC4VPPU",
-      "durationSeconds": 1891,
-      "duration": "31:31",
-      "description": "In this Huberman Lab Essentials episode, my guest is Dr. Andy Galpin, PhD, an exercise physiologist. We revisit the first episode of his Huberman Lab Guest Series to discuss the nine major components of physical fitness and how to assess your abilities. We explain practical tests for movement quality, power, strength, muscle mass and endurance, including grip strength, push-ups and VO2 max. We also discuss how to organize fitness testing, track progress and identify which areas to prioritize in your training to support long-term health and performance.\n\nShow notes: https://go.hubermanlab.com/7sgI40w\n\nHuberman Lab\nWebsite: https://www.hubermanlab.com \nInstagram: https://www.instagram.com/hubermanlab \nThreads: https://www.threads.net/@hubermanlab\nX: https://x.com/hubermanlab \nFacebook: https://www.facebook.com/hubermanlab \nTikTok: https://www.tiktok.com/@hubermanlab \nLinkedIn: https://www.linkedin.com/in/andrew-huberman\n\nDr. Andy Galpin\nX: https://www.instagram.com/drandygalpin\nInstagram: https://www.instagram.com/drandygalpin\nFacebook: https://www.facebook.com/andy.galpin.1\nLinkedIn: https://www.linkedin.com/in/andy-galpin-a90a2b262\nThreads: https://www.threads.com/@drandygalpin\nTikTok: https://www.tiktok.com/@drandygalpin\n\nTimestamps\n00:00:00 Andy Galpin\n00:00:44 Fitness Goals, Appearance & Performance\n00:02:32 Nine Components of Physical Fitness\n00:06:03 Movement Skill, Tool: Assessing Movement Quality\n00:09:53 Speed Testing\n00:10:15 Power, Tool: Standing Broad Jump\n00:11:36 Grip Strength, Dynamometers & Dead Hangs\n00:13:35 Lower Body Strength, Leg Extensions & Squat Holds\n00:16:10 Safe Testing, Technique & Consistent Warm-Ups\n00:17:08 Muscle Mass, Body Composition & Fat-Free Mass Index\n00:19:14 Muscular Endurance, Planks & Push-Ups\n00:20:44 Anaerobic Capacity, Maximum Effort Tests\n00:22:18 Maximum Heart Rate & Heart Rate Recovery\n00:23:33 VO2 Max, Running & Walking Tests\n00:25:19 Long-Duration Endurance, Steady-State Exercise & Nasal Breathing\n00:26:20 Testing Frequency, Test Order & Training Priorities\n00:30:38 Acknowledgements\n\n#hubermanlab #hubermanlabpodcast \n\nDisclaimer & Disclosures: https://www.hubermanlab.com/disclaimer"
-    },
     {
       "channel": "The AI Dude - Tamil",
       "priority": "high",
@@ -62,11 +51,22 @@
       "description": "In this complete TensorFlow Masterclass, we go step-by-step through the fundamentals of TensorFlow and build the foundation you need to start developing Machine Learning and Deep Learning models with Python.\n\nWhether you're a beginner, ML enthusiast, AI student, or developer, this masterclass will help you understand how TensorFlow works and how to use it for real Deep Learning projects.\n\nWhat You'll Learn:\n\n00:00 – 01:47 | What You'll Learn in This Video\n01:47 – 20:00 | Introduction to TensorFlow\n20:00 – 34:21 | Tensor Basics\n34:21 – 49:31 | Indexing & Slicing\n49:31 – 01:06:00 | Building a Data Pipeline\n01:06:00 – 01:30:16 | Working with a Real Dataset\n01:30:16 – 01:30:42 | Conclusion\n\nWho is this video for?\n• Beginners learning TensorFlow\n• Python developers entering AI/ML\n• Machine Learning students\n• Deep Learning enthusiasts\n• AI/ML engineers\n• College students preparing for AI/ML careers\n\n\nIf you're learning Machine Learning, Deep Learning, NLP, Generative AI, or LLMs, understanding Transformers is essential.\n\nSubscribe to AI with Thiru for practical AI, ML, Deep Learning, NLP, LLMs, AI Agents and the latest AI technologies. \n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMembership for Core AI: https://topmate.io/thirumurugan_r\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nGitHub: https://github.com/Thirumurugan240/TensorFlow_Masterclass.git\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nWatch the full masterclass to learn how to build safer and more reliable AI applications.\n\n#TensorFlow #DeepLearning #MachineLearning #Python #AI#AIwithThiru"
     },
     {
+      "channel": "Dr. Sahar Yousef",
+      "priority": "high",
+      "videoId": "iXdb4vK49wU",
+      "publishedAt": "2026-09-18T14:00:40Z",
+      "title": "If You're Feeling Overwhelmed Watch This",
+      "url": "https://www.youtube.com/watch?v=iXdb4vK49wU",
+      "durationSeconds": 196,
+      "duration": "3:16",
+      "description": "Let this be the last video you watch right now. \n\nYou did not open this app for fun. Something is sitting on you: stress, a worry, plain exhaustion. So your brain reached for the fastest relief it knows, the phone, a modern digital pacifier. And here is the trap: the scroll distracts you FROM the feeling, but it never deals with the feeling. Twenty minutes later the worry is still there, and now your mind is drained on top of it. You paid the energy and kept the problem. And this video is the opposite of a doomscroll. A few minutes to shrink the worry back to its real size, and four quiet words for when it feels too heavy to carry.\n\n--\nI'm Dr. Sahar Yousef, a cognitive neuroscientist and MBA Faculty at UC Berkeley, where I run the Becoming Superhuman Lab. My goal is to make neuroscience accessible and actionable for anyone looking for better ways of living and working. Everything on this channel is built on the realities of how your brain and body actually work.\n\nFIND ME ONLINE:\nWebsite: https://www.saharyousef.com/\nInstagram:   / drsaharyousef  \nLinkedIn: linkedin.com/in/saharyousef\nBecoming Superhuman Lab: https://www.becomingsuperhuman.science/ (edited)"
+    },
+    {
       "channel": "Raj Shamani",
       "priority": "medium",
       "videoId": "WnYgRL456ps",
       "publishedAt": "2026-09-17T15:39:15Z",
-      "title": "How To Read People, Spot Lies & Reveal Their Secrets | Evy Poumpouras | FO563 Raj Shamani",
+      "title": "Former Secret Service Agent: How Presidents Are Protected | Evy Poumpouras | FO563 Raj Shamani",
       "url": "https://www.youtube.com/watch?v=WnYgRL456ps",
       "durationSeconds": 7073,
       "duration": "1:57:53",
