@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-09-18T11:21:36.857315Z",
+  "collectedAt": "2026-09-18T13:21:46.138116Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-17T09:21:36.857315Z",
+  "windowStart": "2026-09-17T11:21:46.138116Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 7,
   "videos": [
-    {
-      "channel": "Krish Naik",
-      "priority": "high",
-      "videoId": "F5IOkeyK9ng",
-      "publishedAt": "2026-09-17T10:05:02Z",
-      "title": "Traditional SDLC Is Changing: Welcome to Vibe Coding & Agentic Engineering",
-      "url": "https://www.youtube.com/watch?v=F5IOkeyK9ng",
-      "durationSeconds": 1513,
-      "duration": "25:13",
-      "description": "Join our AI FDE Bootcamp Enrollment link:\nhttps://www.krishnaik.in/liveclass2/Forward_Deployed_Engineer?id=14\n\nReach out to Krish Naik's counselling team on 📞 +919111533440 or +918484837781 in case of any queries we are there to help you out.\n\nBuild Production-Ready Enterprise AI Systems\n\nMaster the skills to become an AI Forward Deployed Engineer—from software engineering and AWS deployment to RAG, Knowledge Graphs, Multimodal AI, Agentic AI, enterprise integrations, security, and observability\n\nBuild real-world enterprise AI solutions using LangGraph, MCP, FastAPI, Docker, AWS, Neo4j, Pinecone, and more with two end-to-end enterprise capstone projects.\n\nPrerequisites: Basic knowledge of Python, SQL, APIs, and Git with a strong problem-solving mindset. No prior experience in GenAI, RAG, Agents, Cloud, or DevOps is required.\n\nLearn. Build. Deploy. Secure. Scale AI for the enterprise."
-    },
     {
       "channel": "Huberman Lab",
       "priority": "high",
@@ -60,6 +49,17 @@
       "durationSeconds": 2189,
       "duration": "36:29",
       "description": "YC works with thousands of founders every year, which gives us an early look at how startups are changing. Right now, the shift is striking: startups are moving from bits to atoms, nearly one in five YC companies has a solo founder, and companies are reaching meaningful revenue faster than ever.\n\nIn this episode of The Lightcone, Garry, Jared, Diana, and Harj dig into what’s driving these changes and what they mean for founders. \n\nThey discuss how AI is making it possible for smaller teams to take on more ambitious problems, why experienced founders are having a resurgence, and why knowing what to build is becoming more important than simply knowing how to build it.\n\nChapters:\n00:00 — Intro\n01:06 — Startups Are Moving From Bits to Atoms\n03:29 — Why AI Is Making Hard Tech Easier\n05:21 — Defense, Manufacturing, and the Return of Hard Tech\n09:48 — AI Compute Is Becoming a Physical Infrastructure Problem\n12:34 — Robotics Is Approaching Its ChatGPT Moment\n15:40 — Software Isn’t Dead. It’s Becoming the Harness\n17:59 — Why AI Startups Are Growing Faster\n22:52 — The Hidden Boom in Data and RL Environments\n27:08 — Why Robotics Will Need Specialized Models\n29:38 — The Rise of the Solo Founder\n32:54 — Why Experienced Founders Are Back\n34:59 — What Founders Should Do Right Now\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs"
+    },
+    {
+      "channel": "AI with Thiru",
+      "priority": "high",
+      "videoId": "dENTmnOKYXg",
+      "publishedAt": "2026-09-18T12:40:18Z",
+      "title": "TensorFlow for Beginners | Complete Masterclass (Part 1) | Build Neural Networks from Scratch",
+      "url": "https://www.youtube.com/watch?v=dENTmnOKYXg",
+      "durationSeconds": 5443,
+      "duration": "1:30:43",
+      "description": "In this complete TensorFlow Masterclass, we go step-by-step through the fundamentals of TensorFlow and build the foundation you need to start developing Machine Learning and Deep Learning models with Python.\n\nWhether you're a beginner, ML enthusiast, AI student, or developer, this masterclass will help you understand how TensorFlow works and how to use it for real Deep Learning projects.\n\nWhat You'll Learn:\n\n00:00 – 01:47 | What You'll Learn in This Video\n01:47 – 20:00 | Introduction to TensorFlow\n20:00 – 34:21 | Tensor Basics\n34:21 – 49:31 | Indexing & Slicing\n49:31 – 01:06:00 | Building a Data Pipeline\n01:06:00 – 01:30:16 | Working with a Real Dataset\n01:30:16 – 01:30:42 | Conclusion\n\nWho is this video for?\n• Beginners learning TensorFlow\n• Python developers entering AI/ML\n• Machine Learning students\n• Deep Learning enthusiasts\n• AI/ML engineers\n• College students preparing for AI/ML careers\n\n\nIf you're learning Machine Learning, Deep Learning, NLP, Generative AI, or LLMs, understanding Transformers is essential.\n\nSubscribe to AI with Thiru for practical AI, ML, Deep Learning, NLP, LLMs, AI Agents and the latest AI technologies. \n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMembership for Core AI: https://topmate.io/thirumurugan_r\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nGitHub: https://github.com/Thirumurugan240/TensorFlow_Masterclass.git\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nWatch the full masterclass to learn how to build safer and more reliable AI applications.\n\n#TensorFlow #DeepLearning #MachineLearning #Python #AI#AIwithThiru"
     },
     {
       "channel": "Raj Shamani",
