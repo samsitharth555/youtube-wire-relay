@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-09-19T11:20:23.927438Z",
+  "collectedAt": "2026-09-19T13:21:18.371697Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-18T09:20:23.927438Z",
+  "windowStart": "2026-09-18T11:21:18.371697Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 5,
+  "videoCount": 7,
   "videos": [
     {
       "channel": "AI with Thiru",
@@ -22,7 +22,7 @@
       "priority": "high",
       "videoId": "iXdb4vK49wU",
       "publishedAt": "2026-09-18T14:00:40Z",
-      "title": "If You're Feeling Overwhelmed Watch This",
+      "title": "This Will Find You When You Need it Most",
       "url": "https://www.youtube.com/watch?v=iXdb4vK49wU",
       "durationSeconds": 196,
       "duration": "3:16",
@@ -38,6 +38,17 @@
       "durationSeconds": 510,
       "duration": "8:30",
       "description": "Join our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil\n📸 Instagram –   / the_ai_dude\n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nHiggsfield API – One API for AI Videos\n\nHiggsfield API brings AI video generation into a programmable workflow, making it easier to connect video creation with your apps, automations, agents, and content pipelines. In this video, we explore how the Higgsfield API works and how you can use it for AI video generation.\n\nImage to AI Video with API\n\nLearn how to turn an image or prompt into an AI generated video using an API based workflow. We’ll look at the complete process from sending the input and triggering generation to receiving the final video output.\n\n Automate AI Video Generation\n\nInstead of manually creating every video, you can integrate AI video generation into automated workflows. This opens possibilities for bulk content creation, social media workflows, marketing automation, and other repeatable video-generation tasks.\n\n Build AI Agents & Applications\n\nThe API approach makes it possible to connect AI video generation with AI agents, automation platforms, Python applications, web apps, and Micro SaaS products. This lets developers build video generation directly into their own products and workflows.\n\n From Idea → API → AI Video\n\nIn this video, we’ll bring everything together into a practical workflow: Idea → Prompt/Image → API → Generation → AI Video. If you're a developer, AI builder, content creator, or automation enthusiast, this will give you a practical starting point for building with the Higgsfield API.\n\n#higgsfieldai  #higgsfieldai  #HiggsfieldAPI #aivideo  #aivideogeneration  #aivideogenerator  #imagetovideo  #imagetovideoai  #aiautomation  #aiagents  #generativeai  #aitools  #aitools2026  #aicontentcreation  #aiworkflow #aigenerated"
+    },
+    {
+      "channel": "Tech With Tim",
+      "priority": "high",
+      "videoId": "1PdgNyOy20w",
+      "publishedAt": "2026-09-19T13:00:13Z",
+      "title": "Is Software Engineering Dying in 2026? (What the Data Actually Says)",
+      "url": "https://www.youtube.com/watch?v=1PdgNyOy20w",
+      "durationSeconds": 738,
+      "duration": "12:18",
+      "description": "My top pick course to add AI to your software engineering stack:\nDataCamp AI Engineer for Developers Track - https://datacamp.pxf.io/7X0edO\nSave 25% off DataCamp here - https://datacamp.pxf.io/m4yRNZ  \n\nJunior developer job postings are down 60–70% since 2022. At the same time, the Bureau of Labor Statistics is projecting strong growth for software developers over the next decade — about five times the average across all industries. Both numbers are true. In this video I explain why, and tell you exactly what to focus on right now.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n⏳ Timestamps ⏳\n00:00 | The Data\n02:24 | Systems not Code\n04:15 | Using AI Tools Professionally\n05:23 | Agentic AI Layer\n06:44 | How to Learn This\n08:32 | Proof You Can Ship\n09:48 | What to Ignore\n\nHashtags\n#SoftwareEngineering #TechCareer #AIJobs\n\nUAE Media License Number: 3635141"
     },
     {
       "channel": "Dr David Jockers",
@@ -60,6 +71,17 @@
       "durationSeconds": 1031,
       "duration": "17:11",
       "description": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is described as one of the most forward thinkers in business. He acutely recognizes trends and patterns early to help others understand how shifts in consumer attention impact the realities of the business world today. Gary's approach sits at the intersection of business and pop culture. He keenly understands how to bring brand relevance to the forefront. He is a prolific angel investor with early investments in companies like Facebook, Twitter, Tumblr, Venmo, Snapchat, Coinbase, and Uber.\n\nGary is an entrepreneur at heart – he builds businesses. Today, he helps Fortune 1000 brands leverage consumer attention through his full-service advertising agency, VaynerMedia, which has offices in New York, Los Angeles, Chicago, Miami, Toronto, Mexico City, London, Amsterdam, Sydney, Singapore, Tokyo, Bangkok, Delhi, and Kuala Lumpur. VaynerMedia is part of the VaynerX holding company, which also includes Gallery Media Group, The Sasha Group, VaynerSpeakers, and Tingley Lane Trading. Gary is the Co-Founder of VaynerSports, VCR Group, VaynerWatt, ArtOfficial, Resy, and Empathy Wines. He guided Resy and Empathy to successful exits -- which he later sold to American Express and Constellation Brands, respectively. He also owns a Major League Pickleball team called the 5s, is part owner of a Big3 basketball team, and is an investor in the revival of the SlamBall League.\n\nIn 2021, Gary created VeeFriends, an entertainment company that has become a rising powerhouse in modern entertainment and collectibles. Often described as Pokemon meets Sesame Street, the company leverages stories, games, events, collectibles, and technology to scale its character universe. Vaynerchuk also has negotiated partnerships with brand powerhouses such as Crocs, Fanatics, Macy’s/Toys “R” Us, Mattel’s UNO, Mattel’s Masters of the Universe, Moonbug Entertainment, Reebok, Squishmallows, Topps, and more.\n\nGary is also the founder and creator of VeeCon – a contemporary super conference that converges business and pop culture with innovation and technology. He is a six-time New York Times bestselling author, with titles including Crush It!, Jab, Jab, Jab, Right Hook, Twelve and a Half and Day Trading Attention. In addition to running multiple businesses, Gary documents his daily life as a CEO through his social media channels, which have more than 45 million followers and garner more than 300 million monthly impressions/views across all platforms. His podcast, \"The GaryVee Audio Experience,\" ranks among the top podcasts globally.\n\nGary serves on the board of MikMak, Bojangles Restaurants, Global Citizen Forum, The Paley Center, and Pencils of Promise. He is also a longtime Well Member of charity: water.\n\nGary's life ambition is to buy the New York Jets."
+    },
+    {
+      "channel": "Dr David Jockers",
+      "priority": "low",
+      "videoId": "4jbuLIMH1VM",
+      "publishedAt": "2026-09-19T12:10:33Z",
+      "title": "7 Biblical Wellness Habits That Reverse Aging After 50",
+      "url": "https://www.youtube.com/watch?v=4jbuLIMH1VM",
+      "durationSeconds": 1710,
+      "duration": "28:30",
+      "description": "✅Free 7 Day Fat Burning QuickStart Guide:  https://shorturl.at/5uQvV\n✅Get Your $49 Bottle of Fresh Pressed Olive Oil For $1 Here: DrJockersOliveOil.com\n✅Cortisol Defense:  https://store.drjockers.com/products/cortisol-defense\n✅Brain Calm Magnesium:  https://shorturl.at/YusZs\nUse Code Jockers10 to save 10%\n\nI didn't come to this as a believer in \"Bible science.\" I came to it as a skeptic. I'd built my whole practice around fasting from the research, and then one night I read Daniel chapter 1 as a doctor and realized I was looking at a controlled clinical trial written 2,600 years ago. \n\nSo I went looking for what else was in there, and I found seven habits… every one of them written down literally, every one of them backed by research today. Not one is a food, a supplement, or anything you have to buy. \n\nAnd one of them has evidence behind it stronger than obesity or exercise as a predictor of how long you live. \n\n00:00 📖 Caleb, Moses & Ancient Anti-Aging Wisdom\n00:35 🔬 How I Found a Clinical Trial in Daniel\n02:32 ☀️ Habit 1: Rise Before Dawn & Go Outside\n04:44 🫒 Habit 2: Anoint Your Skin With Oil\n09:00 🙏 Habit 3: Pause Before the First Bite\n12:11 🍽️ Habit 4: Eat With Other People\n17:44 ⏳ Habit 5: Fasting the Biblical Way\n19:53 🛑 Habit 6: Keeping the Sabbath\n22:00 💬 Habit 7: Giving Thanks\n24:50 🌍 Why These Habits Quietly Disappeared\n27:41 🎯 Where to Start & Final Thoughts\n\n✅ Subscribe to my Channel:  https://www.youtube.com/djockers\n\n✅ Listen to my Podcast on Apple, and leave a review! \nApple Podcast - https://podcasts.apple.com/us/podcast/dr-jockers-functional-nutrition/id1497791107\n\n✅ Watch on Spotify: https://open.spotify.com/show/37gaDSJMuE9fKo2PRZrSkw\n\n\nIMPORTANT: Some product links are affiliate links which means if you buy something we’ll receive a small commission.\n\nAFFILIATE DISCLAIMER: Please see the link for our disclaimer policy for all of our videos on the Dr. Jockers YouTube Channel and Dr. Jockers Functional Nutrition Podcast. Thank you for supporting the channel!\n-- https://drjockers.com/drjockers-com-affiliate-disclosure/"
     }
   ]
 }
