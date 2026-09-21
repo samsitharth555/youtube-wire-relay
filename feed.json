@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-09-21T09:23:50.277510Z",
+  "collectedAt": "2026-09-21T11:22:41.137769Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-20T07:23:50.277510Z",
+  "windowStart": "2026-09-20T09:22:41.137769Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 2,
+  "videoCount": 3,
   "videos": [
     {
       "channel": "The AI Dude - Tamil",
@@ -16,6 +16,17 @@
       "durationSeconds": 352,
       "duration": "5:52",
       "description": "Deep Learning free course to start ai journey\n\nGenAI 101 - https://www.deeplearning.ai/courses/generative-ai-for-everyone\n\nPython using AI - https://www.deeplearning.ai/courses/ai-python-for-beginners\n\nEnthiran வெறும் Sci-Fi Movie இல்ல… AI-ஐ புரிஞ்சிக்க ஒரு நல்ல Starting Point! \nஇந்த video-ல Enthiran (Robot) movie-ஐ AI perspective-ல பார்க்கப் போறோம். Artificial Intelligence எப்படி work ஆகுது, ஒரு AI system எப்படி learn பண்ணும், Human Intelligence vs Artificial Intelligence என்ன difference, AI எங்கே போயிட்டு இருக்கு போன்ற concepts-ஐ simple #aiagents #agenticai  Tamil-ல discuss பண்ணியிருக்கேன்.\n\n\nஇந்த Video-ல என்ன பார்க்கப் போறோம்?\nEnthiran movie concepts-ஐ real-world AI-உடன் connect பண்ணி, AI என்றால் என்ன, Machine Learning, Deep Learning, Generative AI, AI Agents போன்ற concepts எப்படி ஒன்றோட ஒன்று connect ஆகுது என்பதை beginner-friendly ஆக பார்க்கலாம்.\n🚀 AI கத்துக்க எங்கிருந்து Start பண்ணலாம்?\nAI-க்கு புதுசா இருக்கீங்கனா எல்லாத்தையும் ஒரே நேரத்தில் கத்துக்க முயற்சி பண்ண வேண்டாம். AI Fundamentals → Machine Learning → Deep Learning → Generative AI → AI Agents என்று step-by-step போகலாம்.\nStructured learning-க்கு video-ல DeepLearning.AI courses-ஐயும் reference பண்ணியிருக்கேன்.\n#generativeai #ai #aiautomation #aiengineering #claudecode #aicoding #claude"
+    },
+    {
+      "channel": "Krish Naik",
+      "priority": "high",
+      "videoId": "2vYV4K1RQ1w",
+      "publishedAt": "2026-09-21T10:21:13Z",
+      "title": "Will Jev Raplace LLM's? What is Jev From TypeSafe AI",
+      "url": "https://www.youtube.com/watch?v=2vYV4K1RQ1w",
+      "durationSeconds": 1407,
+      "duration": "23:27",
+      "description": "Join our AI FDE Bootcamp Enrollment link:\nhttps://www.krishnaik.in/liveclass2/Forward_Deployed_Engineer?id=14\n\nReach out to Krish Naik's counselling team on 📞 +919111533440 or +918484837781 in case of any queries we are there to help you out.\n\nBuild Production-Ready Enterprise AI Systems\n\nMaster the skills to become an AI Forward Deployed Engineer—from software engineering and AWS deployment to RAG, Knowledge Graphs, Multimodal AI, Agentic AI, enterprise integrations, security, and observability\n\nBuild real-world enterprise AI solutions using LangGraph, MCP, FastAPI, Docker, AWS, Neo4j, Pinecone, and more with two end-to-end enterprise capstone projects.\n\nPrerequisites: Basic knowledge of Python, SQL, APIs, and Git with a strong problem-solving mindset. No prior experience in GenAI, RAG, Agents, Cloud, or DevOps is required.\n\nLearn. Build. Deploy. Secure. Scale AI for the enterprise."
     },
     {
       "channel": "The Diary Of A CEO",
