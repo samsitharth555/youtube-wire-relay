@@ -1,7 +1,7 @@
 {
-  "collectedAt": "2026-09-22T03:22:49.267451Z",
+  "collectedAt": "2026-09-22T05:21:29.325657Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-21T01:22:49.267451Z",
+  "windowStart": "2026-09-21T03:21:29.325657Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 9,
@@ -11,7 +11,7 @@
       "priority": "high",
       "videoId": "2vYV4K1RQ1w",
       "publishedAt": "2026-09-21T10:21:13Z",
-      "title": "Will Jev Raplace LLM's? What is Jev From TypeSafe AI",
+      "title": "Will Jev Replace LLM's? What is Jev From TypeSafe AI",
       "url": "https://www.youtube.com/watch?v=2vYV4K1RQ1w",
       "durationSeconds": 1407,
       "duration": "23:27",
