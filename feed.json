@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-09-22T11:22:03.973647Z",
+  "collectedAt": "2026-09-22T13:23:40.091666Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-21T09:22:03.973647Z",
+  "windowStart": "2026-09-21T11:23:40.091666Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 8,
   "videos": [
-    {
-      "channel": "Krish Naik",
-      "priority": "high",
-      "videoId": "2vYV4K1RQ1w",
-      "publishedAt": "2026-09-21T10:21:13Z",
-      "title": "Will Jev Replace LLM's? What is Jev From TypeSafe AI",
-      "url": "https://www.youtube.com/watch?v=2vYV4K1RQ1w",
-      "durationSeconds": 1407,
-      "duration": "23:27",
-      "description": "Join our AI FDE Bootcamp Enrollment link:\nhttps://www.krishnaik.in/liveclass2/Forward_Deployed_Engineer?id=14\n\nReach out to Krish Naik's counselling team on 📞 +919111533440 or +918484837781 in case of any queries we are there to help you out.\n\nBuild Production-Ready Enterprise AI Systems\n\nMaster the skills to become an AI Forward Deployed Engineer—from software engineering and AWS deployment to RAG, Knowledge Graphs, Multimodal AI, Agentic AI, enterprise integrations, security, and observability\n\nBuild real-world enterprise AI solutions using LangGraph, MCP, FastAPI, Docker, AWS, Neo4j, Pinecone, and more with two end-to-end enterprise capstone projects.\n\nPrerequisites: Basic knowledge of Python, SQL, APIs, and Git with a strong problem-solving mindset. No prior experience in GenAI, RAG, Agents, Cloud, or DevOps is required.\n\nLearn. Build. Deploy. Secure. Scale AI for the enterprise."
-    },
     {
       "channel": "Huberman Lab",
       "priority": "high",
@@ -60,6 +49,17 @@
       "durationSeconds": 1019,
       "duration": "16:59",
       "description": "Try Granola, the AI notepad I use for every meeting (100% off your first month): https://go.granola.ai/timothy-ruscica \n\nBy the end of this video you'll understand local AI better than 95% of the people using it every day. I cover what it actually is, the hardware that matters, the best models worth running right now, and three real-world setups from cheap to high-end — with actual token speeds for each one.\n\nAnd I'll be straight with you: for most people, cloud models still make more sense. I'll tell you exactly who should go local and who shouldn't.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nTry Granola, the AI notepad I use for every meeting (100% off your first month): https://go.granola.ai/timothy-ruscica \nGet 10% off with code TECHWITHTIM\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:32 | What Local Means\n03:16 | Granola AI Notepad\n04:20 | What Models to Use\n08:18 | Hardware Specs\n10:40 | Three Setup Options\n15:28 | Local AI Tools\n\nHashtags\n#LocalAI #RunAILocally #LocalLLM\n\nUAE Media License Number: 3635141"
+    },
+    {
+      "channel": "AI with Thiru",
+      "priority": "high",
+      "videoId": "0vBlNFHaj4I",
+      "publishedAt": "2026-09-22T13:21:43Z",
+      "title": "இது தெரியாம AI Agent Learn பண்ணாதீங்க | Agents - Graphs - Loops",
+      "url": "https://www.youtube.com/watch?v=0vBlNFHaj4I",
+      "durationSeconds": 933,
+      "duration": "15:33",
+      "description": "AI Agents, Loops, and Graphs - are they really the same thing? 🤔\n\nIn this video, I break down the difference between AI Agents, Loops, and Graph-based AI systems in simple terms, with practical examples.\n\nYou'll understand when to use an Agent, when a simple Loop is enough, and when a Graph-based workflow makes more sense.\n\n🔥 In this video:\n\nWhat is an AI Agent?\nWhat is an AI Loop?\nWhat is a Graph?\nAgent vs Loop vs Graph\nHow their execution patterns differ\nWhen should you use each approach?\nReal-world AI workflow examples\nHow to choose the right architecture for your AI application\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMembership for Core AI: https://topmate.io/thirumurugan_r\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nAI agents, AI agent vs loop, agents vs loops, agents vs graphs, loops vs graphs, AI loops, AI graphs, AI agent architecture, agentic AI, agentic systems, AI workflow, AI workflow architecture, LLM agents, AI engineering, AI automation, LangGraph, LangGraph tutorial, graph based AI, AI agent explained, AI agents explained, agent architecture, LLM workflow, AI development, AI developer, generative AI, AI with Thiru\n\n#AIAgents #AgenticAI #AIEngineering #LangGraph #LLM #GenerativeAI #AIAutomation #AIWorkflow #AIWithThiru"
     },
     {
       "channel": "Ali Abdaal",
