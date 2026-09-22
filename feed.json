@@ -1,7 +1,7 @@
 {
-  "collectedAt": "2026-09-22T01:20:24.457044Z",
+  "collectedAt": "2026-09-22T03:22:49.267451Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-20T23:20:24.457044Z",
+  "windowStart": "2026-09-21T01:22:49.267451Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 9,
@@ -99,7 +99,7 @@
       "priority": "low",
       "videoId": "1PNqoHNJwew",
       "publishedAt": "2026-09-21T15:30:28Z",
-      "title": "The Parenting Habits You MUST Stop Before Age 14 (According to Science) | Dr. Daniel Amen",
+      "title": "What Every Parent Should Fix While They Still Can (According to Science) | Dr. Daniel Amen",
       "url": "https://www.youtube.com/watch?v=1PNqoHNJwew",
       "durationSeconds": 2090,
       "duration": "34:50",
