@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-09-23T15:23:31.038038Z",
+  "collectedAt": "2026-09-23T17:22:52.417173Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-22T13:23:31.038038Z",
+  "windowStart": "2026-09-22T15:22:52.417173Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 6,
+  "videoCount": 8,
   "videos": [
-    {
-      "channel": "The AI Dude - Tamil",
-      "priority": "high",
-      "videoId": "KCOLXGGVK7s",
-      "publishedAt": "2026-09-22T14:55:30Z",
-      "title": "AI Pattasu Kadai 💥 | Freelancing-ல சம்பாதிக்கலாம்! (தமிழில்)",
-      "url": "https://www.youtube.com/watch?v=KCOLXGGVK7s",
-      "durationSeconds": 850,
-      "duration": "14:10",
-      "description": "Hostinger : https://www.hostg.xyz/SHK3t\nAIDUDE - 10% - 12MONTHS\nAIDUDE15 - 15% - 24MONTHS\n\nForm Link : https://business.aidudetamil.com/\n\nJoin our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nHow to Make Freelancing Projects & Earn Money Using AI \n\nWant to start freelancing and make money using AI? In this video, I’ll explain a practical approach to finding real-world problems, converting them into freelancing projects, and using AI tools to build solutions faster. Instead of simply learning AI tools, the goal is to turn your skills into something businesses and clients are willing to pay for.\n\nFind Freelancing Projects Using AI\n\nFinding the right project is one of the biggest challenges when starting freelancing. I’ll show you how to identify business problems, research potential opportunities, generate project ideas using AI, and understand what kind of AI solutions you can offer to clients.\n\nBuild Projects Faster with AI \n\nAI can help you speed up research, coding, content creation, automation, debugging, documentation, and many other parts of a freelance project. You can use AI as your assistant to reduce repetitive work and focus more on solving the actual client problem.\n\nTurn Your AI Skills Into Income\n\nKnowing AI tools alone is not enough. You need to package your skills into a service that solves a specific problem. Start with a simple service, create a few demo projects, build your portfolio, approach potential clients, and show them exactly how your solution can save time, reduce costs, or improve their business.\n\nHow to Get Your First Freelancing Client\n\nYou don’t need to wait until you become an AI expert. Choose one problem you can solve, build a working demo, identify businesses that may need it, and reach out with a clear solution. Your portfolio and working projects can become your strongest proof when approaching your first client.\n\nAI Freelancing for Beginners in 2026 \n\nWhether you’re a student, developer, working professional, or complete beginner, AI is creating new opportunities in freelancing. AI automation, AI agents, chatbots, content workflows, websites, data analysis, and business automation are some areas you can explore and turn into freelance services.\n\nStart Your AI Freelancing Journey Today\n\nDon’t just watch AI tutorials and collect tools. Pick one skill, build one useful project, solve one real problem, and start showing your work to potential clients. Your first freelancing project could be the beginning of a much bigger AI journey.\n\n#aifreelancing  #freelancing  #makemoneywithai  #aitools  #freelancingtutorial  #aitamil  #earnmoneyonline  #aiautomation  #freelancer  #ai2026 #freelancingguide #freelancingjobs #freelancerlife"
-    },
     {
       "channel": "AI with Thiru",
       "priority": "high",
@@ -38,6 +27,28 @@
       "durationSeconds": 1938,
       "duration": "32:18",
       "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for boot.dev.\n\nDownload the code from this video here: https://www.aiagentbuilders.co/yt-resources/three-ways-agents\n\nEveryone talks about \"AI agents,\" but there's a huge gap between writing a for-loop that calls a model and building something that can actually explore a codebase, edit files, and run commands on its own. In a previous video I showed you how to build agents completely from scratch in Python — this one is the level up.\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n⏳ Timestamps ⏳\n00:00 | Overview\n01:55 | Boot.Dev\n02:00 | AI Agent Frameworks\n03:25 | Way #1 - CrewAI\n12:25 | Way #2 - OpenAI Agents SDK\n19:39 | Way #3 - LangGraph\n30:25 | Which Framework to Use?\n\nHashtags\n#AIAgents #Python #CrewAI\n\nUAE Media License Number: 3635141"
+    },
+    {
+      "channel": "The AI Dude - Tamil",
+      "priority": "high",
+      "videoId": "cKqnVzgsMhg",
+      "publishedAt": "2026-09-23T15:25:49Z",
+      "title": "Claude Opus 5.5 is Here 🔥 This Changes Everything  (தமிழில்)",
+      "url": "https://www.youtube.com/watch?v=cKqnVzgsMhg",
+      "durationSeconds": 504,
+      "duration": "8:24",
+      "description": "Join our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nClaude Opus 5.5 Released\n\nAnthropic has released Claude Opus 5.5, bringing another major update to the Claude AI ecosystem. In this video, we break down what’s new, what has improved, and what this release means for AI users and developers.\n\nWhat’s New in Claude Opus 5.5?\n\nWe explore the important changes in Claude Opus 5.5, including improvements across reasoning, coding, complex tasks, agentic workflows, and everyday AI use cases.\n\nBetter Reasoning & Coding\n\nHow capable is Claude Opus 5.5 for real-world work? We look at how the new model handles coding, problem solving, long tasks, debugging, planning, and complex instructions.\n\nClaude Opus 5.5 for AI Agents\n\nClaude is increasingly being used for AI agents and autonomous coding workflows. We discuss where Opus 5.5 fits into agentic AI and how developers can potentially use it for more demanding workflows.\n\nOpus 5.5 vs Previous Claude Models\n\nWhat actually changed compared with previous Claude models? We look at the key differences and where the latest Opus model could matter for developers, creators, businesses, and advanced AI users.\n\nShould You Use Claude Opus 5.5?\n\nIf you're already using Claude, ChatGPT, AI coding tools, or AI agents, this video will help you understand where Claude Opus 5.5 fits into your workflow and which kinds of tasks it is designed to handle.\n\n#ClaudeOpus55 #claudeai  #anthropic  #aitamil  #generativeai  #artificialintelligence  #ai2026  #claudecode #opus5 #claude #claudenews #claudecode #claudebot #claude #claudeai #claude"
+    },
+    {
+      "channel": "Krish Naik",
+      "priority": "high",
+      "videoId": "9hf8JzDvWUo",
+      "publishedAt": "2026-09-23T15:53:01Z",
+      "title": "Will BDH replace Transformers? Post-Transformer AI Explained for Everyone",
+      "url": "https://www.youtube.com/watch?v=9hf8JzDvWUo",
+      "durationSeconds": 1684,
+      "duration": "28:04",
+      "description": "This AI thinks without words (no Chain of Thought!). Could it offer an alternative to today’s Transformer-based LLMs?\n\nIn this video, we explore Pathway’s BDH (\"Post-Transformer\") architecture and BDH-CQ, the reasoning paper that topped Hugging Face’s August 2026 papers list. The makers of this model, Pathway, also shared separate pretraining experiments reaching 600 billion parameters, showing Transformer-like scaling. \n\nWe start with the basics and explain latent reasoning, internal memory and ARC-AGI through simple examples. Can AI reason without a written Chain of Thought, and what could this mean for the future of LLMs? \n\nBDH-CQ paper: [https://arxiv.org/abs/2608.09888](https://arxiv.org/abs/2608.09888)\nHF Papers: [https://huggingface.co/papers/month/2026-08](https://huggingface.co/papers/month/2026-08)\n\nCHAPTERS:\n00:00 Introducing BDH-CQ and the 600B scaling report\n03:06 Chain of Thought and the cost of reasoning\n05:32 The LLM memory problem and KV cache\n06:45 Internal memory and continual learning\n08:01 What Post-Transformer AI means\n09:43 How the BDH architecture works\n10:42 Latent reasoning: the chess player example\n12:34 Why BDH is inspired by the brain\n15:41 Four key ideas behind BDH\n20:16 BDH vs BDH-CQ\n23:39 ARC-AGI-1 explained with a puzzle\n26:45 Benchmark costs and reasoning effort"
     },
     {
       "channel": "Raj Shamani",
@@ -71,6 +82,17 @@
       "durationSeconds": 756,
       "duration": "12:36",
       "description": "✅Free 7 Day Fat Burning QuickStart Guide:  https://shorturl.at/5uQvV\n✅Iodine Deficiency Guide:  https://drjockers.com/iodine-deficiency/\n\nIn 1924 America put one mineral into the salt shaker, and in the counties that had been most deficient, children started testing as much as fifteen IQ points higher than their own parents. That mineral is iodine. \n\nAnd a new 2025 study says we're losing it all over again, with the healthiest eaters often testing the lowest, because the sea salt and pink Himalayan salt they switched to doesn't contain a trace of it. \n\nIn this video, Dr. David Jockers breaks down what to check on your own salt container tonight, the three minerals iodine can't work without, exactly how much you need, and why taking more is one of the fastest ways to damage a thyroid… plus the one-dollar fix that puts it back. \n\n00:00 🧂 The 1924 Iodine Experiment\n00:47 📉 Why Modern Iodine Levels Have Crashed\n02:22 🦋 How Iodine Powers Your Thyroid\n03:36 🤰 Pregnancy & the Critical Brain Window\n05:22 🔬 Selenium, Magnesium & Zinc Explained\n08:24 🍽️ Best Food Sources for Each Mineral\n09:49 ❓ Common Questions Answered\n11:36 🎯 Final Thoughts & One Action Step\n\n✅ Subscribe to my Channel:  https://www.youtube.com/djockers\n\n✅ Listen to my Podcast on Apple, and leave a review! \nApple Podcast - https://podcasts.apple.com/us/podcast/dr-jockers-functional-nutrition/id1497791107\n\n✅ Watch on Spotify: https://open.spotify.com/show/37gaDSJMuE9fKo2PRZrSkw\n\nIMPORTANT: Some product links are affiliate links which means if you buy something we’ll receive a small commission.\n\nAFFILIATE DISCLAIMER: Please see the link for our disclaimer policy for all of our videos on the Dr. Jockers YouTube Channel and Dr. Jockers Functional Nutrition Podcast. Thank you for supporting the channel!\n-- https://drjockers.com/drjockers-com-affiliate-disclosure/"
+    },
+    {
+      "channel": "Jay Shetty Podcast",
+      "priority": "low",
+      "videoId": "nk1EpKlLNxE",
+      "publishedAt": "2026-09-23T15:30:29Z",
+      "title": "10 Money Lessons You Must Know in Your 20s",
+      "url": "https://www.youtube.com/watch?v=nk1EpKlLNxE",
+      "durationSeconds": 4905,
+      "duration": "1:21:45",
+      "description": "You can make $30,000 a year and be a millionaire. You can make $1 million a year and not be one.\n\nIn this episode, Jay brings together five of the world's leading money and business minds, Dave Ramsey, Leila Hormozi, Gary Vaynerchuk, Emma Grede and Suneera Madhani, to break down what actually builds wealth and success, and why the \"get rich quick\" dream most of us chase keeps us stuck.\n\nThey cover the credit score myth banks want you to believe, what a study of more than 10,000 millionaires really found, why your friends quietly set your income, why confidence shows up after you do the work, the real reason most businesses shut down, how to build discipline without more willpower, and why following your passion might be the worst career advice you've been given.\n\nWhether you're buried in debt, stuck in a job you don't love, or building a business that feels harder every year, this is the money and success masterclass nobody gave you at school.\n\nWhat you'll learn in this episode:\n✅ Why most millionaires never inherited a cent\n✅ The credit score myth nobody questions\n✅ The two boring habits behind most first-generation millionaires\n✅ Why confidence comes last, not first\n✅ The real reason most businesses fail (it isn't the market)\n✅ How to build discipline without more willpower\n✅ The one skill that matters most in your 20s\n✅ What has to change to grow from $1 million to $1 billion\n\n\nJAY'S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\nJoin 900,000+ readers discovering how small daily shifts create big life change with my free newsletter. Subscribe https://news.jayshetty.me/subscribe\n\nChapters:\n00:00 You're not bad with money\n02:34 DAVE RAMSEY: Losing $4 million and starting over\n04:53 The credit score myth\n12:22 What really makes you a millionaire\n15:17 The 10,000 millionaire study\n17:53 The two habits almost every millionaire shares\n24:38 Why equal isn't fair\n32:13 LEILA HORMOZI: Confidence is an output, not an input\n36:19 What really kills a business\n40:11 Discipline is a system\n46:58 The one focus at $100K, $1M and $10M\n49:12 The #1 skill to build in your 20s\n52:21 GARY VAYNERCHUK: Redefining success\n56:15 EMMA GREDE: Be excellent at the job you have now\n59:10 Why you shouldn't follow your passion\n1:07:12 SUNEERA MADHANI: The $1,000 task vs. the $10 task\n1:10:16 From an empty bank account to a billion-dollar company\n1:15:04 What breaks at every level of growth\n\nThe guests:\nDave Ramsey\n▶️ https://www.youtube.com/watch?v=mc68ZO-5eDY\n\nLeila Hormozi\n▶️ https://www.youtube.com/watch?v=9FtradY1AI4\n\nGary Vaynerchuk\n▶️ https://www.youtube.com/watch?v=mO4esadmNVU\n\nEmma Grede\n▶️ https://www.youtube.com/watch?v=7_IPMmAxBpY\n\nSuneera Madhani\n▶️ https://www.youtube.com/watch?v=enrJL6wk2VQ\n\nWatch the FULL episode on Netflix & Spotify 🎙️\nNetflix - https://dub.sh/QaUsKeD\nSpotify - https://dub.sh/axUXylv"
     }
   ]
 }
