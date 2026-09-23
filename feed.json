@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-09-23T13:24:22.713325Z",
+  "collectedAt": "2026-09-23T15:23:31.038038Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-22T11:24:22.713325Z",
+  "windowStart": "2026-09-22T13:23:31.038038Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 5,
+  "videoCount": 6,
   "videos": [
-    {
-      "channel": "AI with Thiru",
-      "priority": "high",
-      "videoId": "0vBlNFHaj4I",
-      "publishedAt": "2026-09-22T13:21:43Z",
-      "title": "இது தெரியாம AI Agent Learn பண்ணாதீங்க | Agents - Graphs - Loops",
-      "url": "https://www.youtube.com/watch?v=0vBlNFHaj4I",
-      "durationSeconds": 933,
-      "duration": "15:33",
-      "description": "AI Agents, Loops, and Graphs - are they really the same thing? 🤔\n\nIn this video, I break down the difference between AI Agents, Loops, and Graph-based AI systems in simple terms, with practical examples.\n\nYou'll understand when to use an Agent, when a simple Loop is enough, and when a Graph-based workflow makes more sense.\n\n🔥 In this video:\n\nWhat is an AI Agent?\nWhat is an AI Loop?\nWhat is a Graph?\nAgent vs Loop vs Graph\nHow their execution patterns differ\nWhen should you use each approach?\nReal-world AI workflow examples\nHow to choose the right architecture for your AI application\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMembership for Core AI: https://topmate.io/thirumurugan_r\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nAI agents, AI agent vs loop, agents vs loops, agents vs graphs, loops vs graphs, AI loops, AI graphs, AI agent architecture, agentic AI, agentic systems, AI workflow, AI workflow architecture, LLM agents, AI engineering, AI automation, LangGraph, LangGraph tutorial, graph based AI, AI agent explained, AI agents explained, agent architecture, LLM workflow, AI development, AI developer, generative AI, AI with Thiru\n\n#AIAgents #AgenticAI #AIEngineering #LangGraph #LLM #GenerativeAI #AIAutomation #AIWorkflow #AIWithThiru"
-    },
     {
       "channel": "The AI Dude - Tamil",
       "priority": "high",
@@ -40,6 +29,17 @@
       "description": "Claude Opus 5.5 is here, and AI is getting more powerful than ever! 🚀\n\nIn this video, I break down Claude Opus 5.5, its capabilities, what makes it different, and why developers, creators, and AI enthusiasts should pay attention.\n\nFrom coding and reasoning to real-world AI workflows, let's understand what this new Claude model can actually do - without unnecessary hype. 😄\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMembership for Core AI: https://topmate.io/thirumurugan_r\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nClaude Opus 5.5, Claude Opus 5.5 Tamil, Claude Opus 5.5 explained, Claude Opus 5.5 review, Claude Opus 5.5 AI, Claude AI, Anthropic Claude, Claude Opus, latest Claude model, AI models, best AI model, AI coding, AI coding agent, AI reasoning, LLM, Large Language Models, Generative AI, AI tools, AI tools Tamil, AI Tamil, AI in Tamil, Tamil AI, AI with Thiru, Claude vs GPT, Claude vs ChatGPT, AI news, latest AI news, AI developers, AI agents, Agentic AI\n\n#ClaudeOpus55 #Claude #Anthropic #GenerativeAI #GenAI #AI #LLM #AIAgents #AgenticAI #AITamil #TamilAI #AIWithThiru #ArtificialIntelligence #MachineLearning #AITools"
     },
     {
+      "channel": "Tech With Tim",
+      "priority": "high",
+      "videoId": "-RTgK6qX6A8",
+      "publishedAt": "2026-09-23T13:30:32Z",
+      "title": "How to Build AI Agents in Python - 3 Ways",
+      "url": "https://www.youtube.com/watch?v=-RTgK6qX6A8",
+      "durationSeconds": 1938,
+      "duration": "32:18",
+      "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for boot.dev.\n\nDownload the code from this video here: https://www.aiagentbuilders.co/yt-resources/three-ways-agents\n\nEveryone talks about \"AI agents,\" but there's a huge gap between writing a for-loop that calls a model and building something that can actually explore a codebase, edit files, and run commands on its own. In a previous video I showed you how to build agents completely from scratch in Python — this one is the level up.\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n⏳ Timestamps ⏳\n00:00 | Overview\n01:55 | Boot.Dev\n02:00 | AI Agent Frameworks\n03:25 | Way #1 - CrewAI\n12:25 | Way #2 - OpenAI Agents SDK\n19:39 | Way #3 - LangGraph\n30:25 | Which Framework to Use?\n\nHashtags\n#AIAgents #Python #CrewAI\n\nUAE Media License Number: 3635141"
+    },
+    {
       "channel": "Raj Shamani",
       "priority": "medium",
       "videoId": "p4qPp_3_f2Y",
@@ -60,6 +60,17 @@
       "durationSeconds": 2139,
       "duration": "35:39",
       "description": "Most people meditate to escape their problems. Vishen Lakhiani meditates to solve them.\n\nIn this episode, Vishen Lakhiani and Jay Shetty talk about the difference between the meditation you use every morning and the kind you only pull out when life hands you a real problem.\n\nVishen opens up about why he left a waitress a 50% tip after a breakfast where everything went wrong, the night Jay disappeared from dinner for two hours, and what he did with the sadness of missing his son's 15th birthday.\n\nLearn why happiness isn't the goal at all, and how a list of crazy goals Vishen wrote down in 2010 came true within two years, right down to the Emmy.\n\nJAY'S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\nJoin 900,000+ readers discovering how small daily shifts create big life change with my free newsletter. Subscribe https://news.jayshetty.me/subscribe\n\nChapters\n0:00 — Vishen's first meditation experience\n0:42 — Why he gave up Hinduism at 19\n1:23 — Active vs. passive meditation\n3:17 — The coffee maker and the electric drill\n5:11 — Why compassion is something you do for yourself\n6:44 — The 50% tip for a waitress who got everything wrong\n9:29 — Why we mistake kindness for weakness\n10:04 — The night Jay disappeared for two hours\n12:36 — Why happiness isn't the goal\n15:23 — The poem Rockefeller wrote at 83\n16:02 — Missing his son's 15th birthday\n17:20 — How to stop sadness turning into guilt\n20:01 — Forgiveness without narcissism\n23:01 — Your destiny is a highway\n25:04 — Focus on the what and why, not the how\n27:03 — The 100-page vision that came true\n31:17 — How to know you had a good meditation\n33:04 — 5% of the world, 70% of its lawyers\n34:46 — \"You'll never make money with that\"\n\n\n\nWatch the FULL episode on Netflix & Spotify 🎙️\nNetflix - https://dub.sh/QaUsKeD\nSpotify - https://dub.sh/axUXylv\n\nFull Episode With Vishen Lakhiani:\nhttps://www.youtube.com/watch?v=-d1dvrj_fMk"
+    },
+    {
+      "channel": "Dr David Jockers",
+      "priority": "low",
+      "videoId": "VKMYLZsZXxk",
+      "publishedAt": "2026-09-23T14:00:19Z",
+      "title": "This Changes Everything About Iodine & Your Brain (New Study)",
+      "url": "https://www.youtube.com/watch?v=VKMYLZsZXxk",
+      "durationSeconds": 756,
+      "duration": "12:36",
+      "description": "✅Free 7 Day Fat Burning QuickStart Guide:  https://shorturl.at/5uQvV\n✅Iodine Deficiency Guide:  https://drjockers.com/iodine-deficiency/\n\nIn 1924 America put one mineral into the salt shaker, and in the counties that had been most deficient, children started testing as much as fifteen IQ points higher than their own parents. That mineral is iodine. \n\nAnd a new 2025 study says we're losing it all over again, with the healthiest eaters often testing the lowest, because the sea salt and pink Himalayan salt they switched to doesn't contain a trace of it. \n\nIn this video, Dr. David Jockers breaks down what to check on your own salt container tonight, the three minerals iodine can't work without, exactly how much you need, and why taking more is one of the fastest ways to damage a thyroid… plus the one-dollar fix that puts it back. \n\n00:00 🧂 The 1924 Iodine Experiment\n00:47 📉 Why Modern Iodine Levels Have Crashed\n02:22 🦋 How Iodine Powers Your Thyroid\n03:36 🤰 Pregnancy & the Critical Brain Window\n05:22 🔬 Selenium, Magnesium & Zinc Explained\n08:24 🍽️ Best Food Sources for Each Mineral\n09:49 ❓ Common Questions Answered\n11:36 🎯 Final Thoughts & One Action Step\n\n✅ Subscribe to my Channel:  https://www.youtube.com/djockers\n\n✅ Listen to my Podcast on Apple, and leave a review! \nApple Podcast - https://podcasts.apple.com/us/podcast/dr-jockers-functional-nutrition/id1497791107\n\n✅ Watch on Spotify: https://open.spotify.com/show/37gaDSJMuE9fKo2PRZrSkw\n\nIMPORTANT: Some product links are affiliate links which means if you buy something we’ll receive a small commission.\n\nAFFILIATE DISCLAIMER: Please see the link for our disclaimer policy for all of our videos on the Dr. Jockers YouTube Channel and Dr. Jockers Functional Nutrition Podcast. Thank you for supporting the channel!\n-- https://drjockers.com/drjockers-com-affiliate-disclosure/"
     }
   ]
 }
