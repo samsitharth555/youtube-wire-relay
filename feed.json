@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-09-24T13:24:23.873209Z",
+  "collectedAt": "2026-09-24T15:24:27.910781Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-23T11:24:23.873209Z",
+  "windowStart": "2026-09-23T13:24:27.910781Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 11,
   "videos": [
-    {
-      "channel": "AI with Thiru",
-      "priority": "high",
-      "videoId": "z-ZkKqVS9k0",
-      "publishedAt": "2026-09-23T13:09:26Z",
-      "title": "ஒரு Prompt ல 3D Website Ready | Opus 5.5 வந்துடுச்சா 😱 This AI Is Getting TOO Powerful!",
-      "url": "https://www.youtube.com/watch?v=z-ZkKqVS9k0",
-      "durationSeconds": 516,
-      "duration": "8:36",
-      "description": "Claude Opus 5.5 is here, and AI is getting more powerful than ever! 🚀\n\nIn this video, I break down Claude Opus 5.5, its capabilities, what makes it different, and why developers, creators, and AI enthusiasts should pay attention.\n\nFrom coding and reasoning to real-world AI workflows, let's understand what this new Claude model can actually do - without unnecessary hype. 😄\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMembership for Core AI: https://topmate.io/thirumurugan_r\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nClaude Opus 5.5, Claude Opus 5.5 Tamil, Claude Opus 5.5 explained, Claude Opus 5.5 review, Claude Opus 5.5 AI, Claude AI, Anthropic Claude, Claude Opus, latest Claude model, AI models, best AI model, AI coding, AI coding agent, AI reasoning, LLM, Large Language Models, Generative AI, AI tools, AI tools Tamil, AI Tamil, AI in Tamil, Tamil AI, AI with Thiru, Claude vs GPT, Claude vs ChatGPT, AI news, latest AI news, AI developers, AI agents, Agentic AI\n\n#ClaudeOpus55 #Claude #Anthropic #GenerativeAI #GenAI #AI #LLM #AIAgents #AgenticAI #AITamil #TamilAI #AIWithThiru #ArtificialIntelligence #MachineLearning #AITools"
-    },
     {
       "channel": "Tech With Tim",
       "priority": "high",
@@ -82,6 +71,17 @@
       "durationSeconds": 1814,
       "duration": "30:14",
       "description": "Secure your MCP server using Descope for free: https://www.descope.com/\n\nMCP servers are quickly becoming one of the most important pieces of the AI ecosystem. But what actually happens behind the scenes?\n\nIn this video, I break down MCP servers from the ground up and then build one from scratch. We’ll cover what MCP is, how local and remote servers differ, how access control works, and how the MCP protocol connects AI models to external tools and data.\n\nThen we’ll put it all together by building an MCP server and adding authentication so you can see how these systems work in practice. If you’re building AI agents or want to understand how AI connects to real-world tools, this is a great place to start.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n🎞 Video Resources 🎞\nCode in this video: https://github.com/techwithtim/descope-mcp-video\nMCP Protocol: https://modelcontextprotocol.io/specification/2026-07-28/basic/patterns/index\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:15 | What is an MCP Server \n03:08 | Local vs Remote \n04:13 | Access Control \n09:18 | MCP Protocol  \n11:52 | Building the Server \n20:20 | Adding Authentication \n\nHashtags\n#MCP #AIAgents #AI\n\nUAE Media License Number: 3635141"
+    },
+    {
+      "channel": "The AI Dude - Tamil",
+      "priority": "high",
+      "videoId": "FAHgiiomd98",
+      "publishedAt": "2026-09-24T14:51:37Z",
+      "title": "100+ Languages… One AI Model 😱 (தமிழில்)",
+      "url": "https://www.youtube.com/watch?v=FAHgiiomd98",
+      "durationSeconds": 642,
+      "duration": "10:42",
+      "description": "Laya :https://pattasubalu.sbs/laya/#playground \nhostinger  : https://www.hostg.xyz/SHK0l\nAIDUDE - 10% - 12MONTHS\nAIDUDE15 - 15% - 24MONTHS\n\nJoin our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nLaya AI — A Different Kind of AI Model\n\nLaya is a multilingual, non-autoregressive System 1 decision engine. Instead of generating long text like a traditional LLM, it is designed to take an input and make structured decisions such as choice, score, and yes/no-style probability decisions in a single forward pass.\n\n33ms Decision Making\n\nOne of Laya’s headline claims is speed. The project reports about 32.8–33 ms for a single multilingual question on an NVIDIA T4 GPU, with batched workloads reaching roughly 7.2 ms per question for 10 questions. These figures are hardware- and workload-specific benchmark results, rather than a guaranteed latency on every machine.\n\n100+ Languages\n\nLaya includes a dedicated multilingual checkpoint based on mmBERT, and its router can detect the language/script and route non-English requests to that model. The project describes support for 100+ languages, making multilingual decision workflows one of its key differentiators.\n\nDecisions, Not Text Generation\n\nThis is the important difference: Laya isn't trying to replace a general-purpose LLM. It focuses on decisions over existing information. For example, you could give it a customer-support ticket and ask which department should receive it, how urgent it is, or whether the customer shows churn risk. Because the output is structured rather than free-form generated text, it can be useful as a decision/routing layer inside AI systems.\n\nRun Locally & Self-Host\n\nLaya can be installed locally through Python and also provides a self-hosted HTTP server, Docker support, an optional MCP server, ONNX support, and integrations for LangChain/LangGraph. This means developers can deploy it inside their own infrastructure instead of depending exclusively on a hosted model API.\n\nOpen Source & Self-Hosted Cost\n\nThe repository is released under the Apache 2.0 license, and its benchmark comparison describes the model itself as $0 self-hosted versus usage-priced hosted APIs. Of course, “zero cost” here means no model/API usage fee; running it still requires your own CPU/GPU, electricity, or cloud infrastructure.\n\nWhy Laya is Interesting\n\nThe interesting idea behind Laya is combining fast structured decisions + multilingual support + local deployment. Instead of using a large generative model for every classification, routing, scoring, moderation, triage, or guardrail decision, Laya is designed specifically for these narrower decision tasks. The project also provides separate English, multilingual, and typed-decision checkpoints, with a Router choosing between\n\n#LayaAI #aimodel  #opensourceai  #multilingualai  #localai  #selfhostedai  #system1  #aitamil  #artificialintelligence #laya #layangan #claude #claude"
     },
     {
       "channel": "The Diary Of A CEO",
