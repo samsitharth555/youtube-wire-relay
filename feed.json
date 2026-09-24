@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-09-24T11:22:43.951441Z",
+  "collectedAt": "2026-09-24T13:24:23.873209Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-23T09:22:43.951441Z",
+  "windowStart": "2026-09-23T11:24:23.873209Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 8,
+  "videoCount": 11,
   "videos": [
     {
       "channel": "AI with Thiru",
@@ -49,6 +49,39 @@
       "durationSeconds": 1684,
       "duration": "28:04",
       "description": "This AI thinks without words (no Chain of Thought!). Could it offer an alternative to today’s Transformer-based LLMs?\n\nIn this video, we explore Pathway’s BDH (\"Post-Transformer\") architecture and BDH-CQ, the reasoning paper that topped Hugging Face’s August 2026 papers list. The makers of this model, Pathway, also shared separate pretraining experiments reaching 600 billion parameters, showing Transformer-like scaling. \n\nWe start with the basics and explain latent reasoning, internal memory and ARC-AGI through simple examples. Can AI reason without a written Chain of Thought, and what could this mean for the future of LLMs? \n\nBDH-CQ paper: [https://arxiv.org/abs/2608.09888](https://arxiv.org/abs/2608.09888)\nHF Papers: [https://huggingface.co/papers/month/2026-08](https://huggingface.co/papers/month/2026-08)\n\nCHAPTERS:\n00:00 Introducing BDH-CQ and the 600B scaling report\n03:06 Chain of Thought and the cost of reasoning\n05:32 The LLM memory problem and KV cache\n06:45 Internal memory and continual learning\n08:01 What Post-Transformer AI means\n09:43 How the BDH architecture works\n10:42 Latent reasoning: the chess player example\n12:34 Why BDH is inspired by the brain\n15:41 Four key ideas behind BDH\n20:16 BDH vs BDH-CQ\n23:39 ARC-AGI-1 explained with a puzzle\n26:45 Benchmark costs and reasoning effort"
+    },
+    {
+      "channel": "Huberman Lab",
+      "priority": "high",
+      "videoId": "Gu04f6aFuBY",
+      "publishedAt": "2026-09-24T12:00:24Z",
+      "title": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
+      "url": "https://www.youtube.com/watch?v=Gu04f6aFuBY",
+      "durationSeconds": 2134,
+      "duration": "35:34",
+      "description": "In this Huberman Lab Essentials episode, I revisit episode 2 of my six-part guest series with Dr. Andy Galpin, PhD, an exercise scientist and expert in human performance. We discuss how strength and muscle growth (hypertrophy) differ and why resistance training is important for maintaining physical function as we age. We also explain how to build effective training programs using progressive overload, exercise selection, repetition speed and weekly training volume. Dr. Galpin shares practical tools for developing strength, power and muscle size, including how to adapt workouts to your goals, equipment and schedule.\n\nShow notes: https://go.hubermanlab.com/OPn7tfZ\n\nTimestamps\n00:00:00 Andy Galpin\n00:00:51 Strength Training, Aging & Physical Function\n00:04:04 Strength vs. Hypertrophy\n00:05:57 Training Principles, Consistency & Progressive Overload\n00:07:21 Individualization, Specificity & Variation\n00:08:28 Training Variables; Tool: “3 to 5” Approach\n00:11:40 Repetition Speed, Strength vs. Hypertrophy\n00:14:59 Exercise Variation & Standardization\n00:16:59 Power & Strength Training: Exercise Selection, Order & Volume\n00:20:02 Progression, Deloads & Training Intent\n00:21:33 Hypertrophy: Training Stimulus & Exercise Selection\n00:23:41 Targeting Muscles, Squat Technique & Machines\n00:27:23 Exercise Order & Pre-Fatigue\n00:28:24 Training Splits, Balanced Muscle Development\n00:29:55 Weekly Training Volume, Reps in Reserve & Limited Workout Time\n00:32:34 Training Frequency, Workout Duration & Full-Body Training\n00:35:22 Acknowledgements\n\nDisclaimer & Disclosures: https://www.hubermanlab.com/disclaimer"
+    },
+    {
+      "channel": "AI with Thiru",
+      "priority": "high",
+      "videoId": "WymWMAq5fmA",
+      "publishedAt": "2026-09-24T12:17:20Z",
+      "title": "ஒரே Prompt.. Complete AI Video! 🤯 Claude + TopView Full Workflow | இந்த Trick Miss பண்ணாதீங்க!",
+      "url": "https://www.youtube.com/watch?v=WymWMAq5fmA",
+      "durationSeconds": 746,
+      "duration": "12:26",
+      "description": "Topview AI: https://www.topview.ai/?via=thirumurugan\n\nWant to create professional product videos without expensive production setups? 🚀\n\nIn this video, I show you how to connect Claude + TopView and create a complete AI-powered product video using a detailed prompt.\n\n\n1) Install the plugin to get 5 free MiniMax H3 videos + 5 free Wan 3.0 videos\n*Pro plan and above only. Benefits are auto-granted after authorization. Wan 3.0 only - Wan 3.0 Prime is not supported. 720p/480p only.\n\n2) Generate with Seedance 2.5 for just $0.12/second.\nUltra Annual plan gives you 500 monthly credits to power your video creation at an incredible $0.12/sec rate.\n\n🔥 Don't just watch - try the workflow yourself!\n\nIf you're a creator, marketer, entrepreneur, or AI enthusiast, this AI video creation workflow can save you a lot of time and effort.\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nClaude AI, Claude tutorial, Claude TopView, TopView AI, TopView tutorial, Claude MCP, AI product video, AI video generator, product video with AI, create product video with AI, AI video creation, AI marketing, AI tools, AI workflow, AI automation, AI content creation, AI tools for creators, product marketing, AI video editing, Claude AI tutorial Tamil, AI tools Tamil, Tamil AI, AI with Thiru, Claude prompts, product video prompt, AI prompt engineering\n\n#Claude #TopView #AIVideo #AIProductVideo #AITools #AIWorkflow #AIContentCreation #AIForCreators #ProductMarketing #AI #GenerativeAI #ClaudeAI #TamilAI #AIWithThiru"
+    },
+    {
+      "channel": "Tech With Tim",
+      "priority": "high",
+      "videoId": "He8tUwLzLnU",
+      "publishedAt": "2026-09-24T13:00:34Z",
+      "title": "MCP Servers Explained & Built",
+      "url": "https://www.youtube.com/watch?v=He8tUwLzLnU",
+      "durationSeconds": 1814,
+      "duration": "30:14",
+      "description": "Secure your MCP server using Descope for free: https://www.descope.com/\n\nMCP servers are quickly becoming one of the most important pieces of the AI ecosystem. But what actually happens behind the scenes?\n\nIn this video, I break down MCP servers from the ground up and then build one from scratch. We’ll cover what MCP is, how local and remote servers differ, how access control works, and how the MCP protocol connects AI models to external tools and data.\n\nThen we’ll put it all together by building an MCP server and adding authentication so you can see how these systems work in practice. If you’re building AI agents or want to understand how AI connects to real-world tools, this is a great place to start.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n🎞 Video Resources 🎞\nCode in this video: https://github.com/techwithtim/descope-mcp-video\nMCP Protocol: https://modelcontextprotocol.io/specification/2026-07-28/basic/patterns/index\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:15 | What is an MCP Server \n03:08 | Local vs Remote \n04:13 | Access Control \n09:18 | MCP Protocol  \n11:52 | Building the Server \n20:20 | Adding Authentication \n\nHashtags\n#MCP #AIAgents #AI\n\nUAE Media License Number: 3635141"
     },
     {
       "channel": "The Diary Of A CEO",
