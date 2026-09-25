@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-09-25T11:23:09.679287Z",
+  "collectedAt": "2026-09-25T13:24:37.028287Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-24T09:23:09.679287Z",
+  "windowStart": "2026-09-24T11:24:37.028287Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 6,
+  "videoCount": 7,
   "videos": [
     {
       "channel": "Huberman Lab",
@@ -49,6 +49,17 @@
       "durationSeconds": 642,
       "duration": "10:42",
       "description": "Laya :https://pattasubalu.sbs/laya/#playground \nhostinger  : https://www.hostg.xyz/SHK0l\nAIDUDE - 10% - 12MONTHS\nAIDUDE15 - 15% - 24MONTHS\n\nJoin our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nLaya AI — A Different Kind of AI Model\n\nLaya is a multilingual, non-autoregressive System 1 decision engine. Instead of generating long text like a traditional LLM, it is designed to take an input and make structured decisions such as choice, score, and yes/no-style probability decisions in a single forward pass.\n\n33ms Decision Making\n\nOne of Laya’s headline claims is speed. The project reports about 32.8–33 ms for a single multilingual question on an NVIDIA T4 GPU, with batched workloads reaching roughly 7.2 ms per question for 10 questions. These figures are hardware- and workload-specific benchmark results, rather than a guaranteed latency on every machine.\n\n100+ Languages\n\nLaya includes a dedicated multilingual checkpoint based on mmBERT, and its router can detect the language/script and route non-English requests to that model. The project describes support for 100+ languages, making multilingual decision workflows one of its key differentiators.\n\nDecisions, Not Text Generation\n\nThis is the important difference: Laya isn't trying to replace a general-purpose LLM. It focuses on decisions over existing information. For example, you could give it a customer-support ticket and ask which department should receive it, how urgent it is, or whether the customer shows churn risk. Because the output is structured rather than free-form generated text, it can be useful as a decision/routing layer inside AI systems.\n\nRun Locally & Self-Host\n\nLaya can be installed locally through Python and also provides a self-hosted HTTP server, Docker support, an optional MCP server, ONNX support, and integrations for LangChain/LangGraph. This means developers can deploy it inside their own infrastructure instead of depending exclusively on a hosted model API.\n\nOpen Source & Self-Hosted Cost\n\nThe repository is released under the Apache 2.0 license, and its benchmark comparison describes the model itself as $0 self-hosted versus usage-priced hosted APIs. Of course, “zero cost” here means no model/API usage fee; running it still requires your own CPU/GPU, electricity, or cloud infrastructure.\n\nWhy Laya is Interesting\n\nThe interesting idea behind Laya is combining fast structured decisions + multilingual support + local deployment. Instead of using a large generative model for every classification, routing, scoring, moderation, triage, or guardrail decision, Laya is designed specifically for these narrower decision tasks. The project also provides separate English, multilingual, and typed-decision checkpoints, with a Router choosing between\n\n#LayaAI #aimodel  #opensourceai  #multilingualai  #localai  #selfhostedai  #system1  #aitamil  #artificialintelligence #laya #layangan #claude #claude"
+    },
+    {
+      "channel": "AI with Thiru",
+      "priority": "high",
+      "videoId": "NKn87eKcZ1U",
+      "publishedAt": "2026-09-25T12:15:01Z",
+      "title": "Vector Database எப்படி Work ஆகுது? | RAG & Vector DB Explained",
+      "url": "https://www.youtube.com/watch?v=NKn87eKcZ1U",
+      "durationSeconds": 731,
+      "duration": "12:11",
+      "description": "Ever wondered how Vector Databases actually work behind the scenes? \n\nIn this video, I break down the core concepts of Vector Databases in a simple and practical way — from converting data into vectors to storing, indexing, and retrieving the most relevant information.\n\nYou’ll understand how Vector Databases power modern RAG applications, semantic search, AI chatbots, and LLM-based applications.\n\n🔥 In this video:\n\nWhat is a Vector Database?\nWhy do we need Vector Databases?\nHow text becomes vectors\nEmbeddings & similarity search\nHow vector storage works\nHow similarity search retrieves relevant data\nVector Databases in RAG\nReal-world AI use cases\n\n🔥 Don't just watch - try the workflow yourself!\n\nIf you're a creator, marketer, entrepreneur, or AI enthusiast, this AI video creation workflow can save you a lot of time and effort.\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nvector database, how vector database works, vector database explained, vector db, vector databases explained, embeddings, vector embeddings, similarity search, semantic search, RAG, retrieval augmented generation, RAG explained, LLM, GenAI, generative AI, AI database, AI search, vector search, AI chatbot, Pinecone, ChromaDB, FAISS, Weaviate, Milvus, LangChain, AI agents, agentic AI\n\n#VectorDatabase #VectorDB #RAG #GenerativeAI #GenAI #LLM #Embeddings #SemanticSearch #AI #AIAgents #AgenticAI #MachineLearning #AIwithThiru"
     },
     {
       "channel": "Raj Shamani",
