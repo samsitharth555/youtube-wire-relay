@@ -1,44 +1,11 @@
 {
-  "collectedAt": "2026-09-25T13:24:37.028287Z",
+  "collectedAt": "2026-09-25T15:24:28.800536Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-24T11:24:37.028287Z",
+  "windowStart": "2026-09-24T13:24:28.800536Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 7,
+  "videoCount": 5,
   "videos": [
-    {
-      "channel": "Huberman Lab",
-      "priority": "high",
-      "videoId": "Gu04f6aFuBY",
-      "publishedAt": "2026-09-24T12:00:24Z",
-      "title": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
-      "url": "https://www.youtube.com/watch?v=Gu04f6aFuBY",
-      "durationSeconds": 2134,
-      "duration": "35:34",
-      "description": "In this Huberman Lab Essentials episode, I revisit episode 2 of my six-part guest series with Dr. Andy Galpin, PhD, an exercise scientist and expert in human performance. We discuss how strength and muscle growth (hypertrophy) differ and why resistance training is important for maintaining physical function as we age. We also explain how to build effective training programs using progressive overload, exercise selection, repetition speed and weekly training volume. Dr. Galpin shares practical tools for developing strength, power and muscle size, including how to adapt workouts to your goals, equipment and schedule.\n\nShow notes: https://go.hubermanlab.com/OPn7tfZ\n\nTimestamps\n00:00:00 Andy Galpin\n00:00:51 Strength Training, Aging & Physical Function\n00:04:04 Strength vs. Hypertrophy\n00:05:57 Training Principles, Consistency & Progressive Overload\n00:07:21 Individualization, Specificity & Variation\n00:08:28 Training Variables; Tool: “3 to 5” Approach\n00:11:40 Repetition Speed, Strength vs. Hypertrophy\n00:14:59 Exercise Variation & Standardization\n00:16:59 Power & Strength Training: Exercise Selection, Order & Volume\n00:20:02 Progression, Deloads & Training Intent\n00:21:33 Hypertrophy: Training Stimulus & Exercise Selection\n00:23:41 Targeting Muscles, Squat Technique & Machines\n00:27:23 Exercise Order & Pre-Fatigue\n00:28:24 Training Splits, Balanced Muscle Development\n00:29:55 Weekly Training Volume, Reps in Reserve & Limited Workout Time\n00:32:34 Training Frequency, Workout Duration & Full-Body Training\n00:35:22 Acknowledgements\n\nDisclaimer & Disclosures: https://www.hubermanlab.com/disclaimer"
-    },
-    {
-      "channel": "AI with Thiru",
-      "priority": "high",
-      "videoId": "WymWMAq5fmA",
-      "publishedAt": "2026-09-24T12:17:20Z",
-      "title": "ஒரே Prompt.. Complete AI Video! 🤯 Claude + TopView Full Workflow | இந்த Trick Miss பண்ணாதீங்க!",
-      "url": "https://www.youtube.com/watch?v=WymWMAq5fmA",
-      "durationSeconds": 746,
-      "duration": "12:26",
-      "description": "Topview AI: https://www.topview.ai/?via=thirumurugan\n\nWant to create professional product videos without expensive production setups? 🚀\n\nIn this video, I show you how to connect Claude + TopView and create a complete AI-powered product video using a detailed prompt.\n\n\n1) Install the plugin to get 5 free MiniMax H3 videos + 5 free Wan 3.0 videos\n*Pro plan and above only. Benefits are auto-granted after authorization. Wan 3.0 only - Wan 3.0 Prime is not supported. 720p/480p only.\n\n2) Generate with Seedance 2.5 for just $0.12/second.\nUltra Annual plan gives you 500 monthly credits to power your video creation at an incredible $0.12/sec rate.\n\n🔥 Don't just watch - try the workflow yourself!\n\nIf you're a creator, marketer, entrepreneur, or AI enthusiast, this AI video creation workflow can save you a lot of time and effort.\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nClaude AI, Claude tutorial, Claude TopView, TopView AI, TopView tutorial, Claude MCP, AI product video, AI video generator, product video with AI, create product video with AI, AI video creation, AI marketing, AI tools, AI workflow, AI automation, AI content creation, AI tools for creators, product marketing, AI video editing, Claude AI tutorial Tamil, AI tools Tamil, Tamil AI, AI with Thiru, Claude prompts, product video prompt, AI prompt engineering\n\n#Claude #TopView #AIVideo #AIProductVideo #AITools #AIWorkflow #AIContentCreation #AIForCreators #ProductMarketing #AI #GenerativeAI #ClaudeAI #TamilAI #AIWithThiru"
-    },
-    {
-      "channel": "Tech With Tim",
-      "priority": "high",
-      "videoId": "He8tUwLzLnU",
-      "publishedAt": "2026-09-24T13:00:34Z",
-      "title": "MCP Servers Explained & Built",
-      "url": "https://www.youtube.com/watch?v=He8tUwLzLnU",
-      "durationSeconds": 1814,
-      "duration": "30:14",
-      "description": "Secure your MCP server using Descope for free: https://www.descope.com/\n\nMCP servers are quickly becoming one of the most important pieces of the AI ecosystem. But what actually happens behind the scenes?\n\nIn this video, I break down MCP servers from the ground up and then build one from scratch. We’ll cover what MCP is, how local and remote servers differ, how access control works, and how the MCP protocol connects AI models to external tools and data.\n\nThen we’ll put it all together by building an MCP server and adding authentication so you can see how these systems work in practice. If you’re building AI agents or want to understand how AI connects to real-world tools, this is a great place to start.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n🎞 Video Resources 🎞\nCode in this video: https://github.com/techwithtim/descope-mcp-video\nMCP Protocol: https://modelcontextprotocol.io/specification/2026-07-28/basic/patterns/index\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:15 | What is an MCP Server \n03:08 | Local vs Remote \n04:13 | Access Control \n09:18 | MCP Protocol  \n11:52 | Building the Server \n20:20 | Adding Authentication \n\nHashtags\n#MCP #AIAgents #AI\n\nUAE Media License Number: 3635141"
-    },
     {
       "channel": "The AI Dude - Tamil",
       "priority": "high",
@@ -60,6 +27,17 @@
       "durationSeconds": 731,
       "duration": "12:11",
       "description": "Ever wondered how Vector Databases actually work behind the scenes? \n\nIn this video, I break down the core concepts of Vector Databases in a simple and practical way — from converting data into vectors to storing, indexing, and retrieving the most relevant information.\n\nYou’ll understand how Vector Databases power modern RAG applications, semantic search, AI chatbots, and LLM-based applications.\n\n🔥 In this video:\n\nWhat is a Vector Database?\nWhy do we need Vector Databases?\nHow text becomes vectors\nEmbeddings & similarity search\nHow vector storage works\nHow similarity search retrieves relevant data\nVector Databases in RAG\nReal-world AI use cases\n\n🔥 Don't just watch - try the workflow yourself!\n\nIf you're a creator, marketer, entrepreneur, or AI enthusiast, this AI video creation workflow can save you a lot of time and effort.\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nvector database, how vector database works, vector database explained, vector db, vector databases explained, embeddings, vector embeddings, similarity search, semantic search, RAG, retrieval augmented generation, RAG explained, LLM, GenAI, generative AI, AI database, AI search, vector search, AI chatbot, Pinecone, ChromaDB, FAISS, Weaviate, Milvus, LangChain, AI agents, agentic AI\n\n#VectorDatabase #VectorDB #RAG #GenerativeAI #GenAI #LLM #Embeddings #SemanticSearch #AI #AIAgents #AgenticAI #MachineLearning #AIwithThiru"
+    },
+    {
+      "channel": "The AI Dude - Tamil",
+      "priority": "high",
+      "videoId": "Xg729DaCY88",
+      "publishedAt": "2026-09-25T14:44:00Z",
+      "title": "Meta Muse AI is INSANE 🤯 Your Personal AI Agent That Does Everything! (தமிழில்)",
+      "url": "https://www.youtube.com/watch?v=Xg729DaCY88",
+      "durationSeconds": 483,
+      "duration": "8:03",
+      "description": "Check out Muse, your personal AI agent. Redeem my code in Settings within 48 hours of joining and we'll both get 1 billion Muse tokens.\n\nCode: JTMR3H\nCode: FLIOMK\nhttps://muse.ai/join\n\nUse cases of muse ai - http://muse.ai/s/muse-use-cases-xuxf6fkdeq4oxw\n\nJoin our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nMuse AI is a new personal AI agent designed to go beyond simply answering questions. Instead of just generating text, AI agents like Muse focus on understanding a task, taking actions, and helping users complete real-world workflows.\n\nIn this video, we explore what Muse AI is, how it works, and why personal AI agents are becoming important. We’ll look at how agent-based systems can interact with apps and websites, execute multi-step tasks, and reduce the amount of manual work users have to do.\n\nOne of the biggest changes happening in AI is the transition from AI Chatbots → AI Assistants → AI Agents. Rather than asking an AI for instructions and then doing everything yourself, agentic systems are being designed to actually perform parts of the workflow for you.\n\nWe’ll also discuss the idea behind an AI app ecosystem, where different tools, integrations, and services can work together through an intelligent agent. This could change how we use AI for productivity, research, scheduling, browsing, automation, and everyday digital tasks.\n\nMost importantly, this video explains Muse AI in simple Tamil, including where this technology fits in the current AI-agent ecosystem, what makes it different from a normal chatbot, and what you should understand before using autonomous AI systems.\n\nIf you’re interested in AI Agents, Agentic AI, AI Automation, Personal AI Assistants, and the future of AI, this video will give you a simple breakdown of what’s happening and why it matters.\n\n#museai  #aiagents  #agenticai  #aitamil  #aiautomation  #artificialintelligence  #generativeai  #ai2026"
     },
     {
       "channel": "Raj Shamani",
