@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-09-26T13:21:02.669000Z",
+  "collectedAt": "2026-09-26T15:21:45.810651Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-25T11:21:02.669000Z",
+  "windowStart": "2026-09-25T13:21:45.810651Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 7,
+  "videoCount": 8,
   "videos": [
-    {
-      "channel": "AI with Thiru",
-      "priority": "high",
-      "videoId": "NKn87eKcZ1U",
-      "publishedAt": "2026-09-25T12:15:01Z",
-      "title": "Vector Database எப்படி Work ஆகுது? | RAG & Vector DB Explained",
-      "url": "https://www.youtube.com/watch?v=NKn87eKcZ1U",
-      "durationSeconds": 731,
-      "duration": "12:11",
-      "description": "Ever wondered how Vector Databases actually work behind the scenes? \n\nIn this video, I break down the core concepts of Vector Databases in a simple and practical way — from converting data into vectors to storing, indexing, and retrieving the most relevant information.\n\nYou’ll understand how Vector Databases power modern RAG applications, semantic search, AI chatbots, and LLM-based applications.\n\n🔥 In this video:\n\nWhat is a Vector Database?\nWhy do we need Vector Databases?\nHow text becomes vectors\nEmbeddings & similarity search\nHow vector storage works\nHow similarity search retrieves relevant data\nVector Databases in RAG\nReal-world AI use cases\n\n🔥 Don't just watch - try the workflow yourself!\n\nIf you're a creator, marketer, entrepreneur, or AI enthusiast, this AI video creation workflow can save you a lot of time and effort.\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nvector database, how vector database works, vector database explained, vector db, vector databases explained, embeddings, vector embeddings, similarity search, semantic search, RAG, retrieval augmented generation, RAG explained, LLM, GenAI, generative AI, AI database, AI search, vector search, AI chatbot, Pinecone, ChromaDB, FAISS, Weaviate, Milvus, LangChain, AI agents, agentic AI\n\n#VectorDatabase #VectorDB #RAG #GenerativeAI #GenAI #LLM #Embeddings #SemanticSearch #AI #AIAgents #AgenticAI #MachineLearning #AIwithThiru"
-    },
     {
       "channel": "The AI Dude - Tamil",
       "priority": "high",
@@ -49,6 +38,28 @@
       "durationSeconds": 420,
       "duration": "7:00",
       "description": "Join our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nAI Security Is Becoming a Serious Concern\n\nAI is quickly moving from simple chatbots to autonomous AI agents that can browse websites, execute code, access files, call APIs, use MCP tools, and interact with real business systems. As AI gets permission to do more, security becomes much more important because a compromised agent could potentially take an unwanted action instead of simply generating a wrong answer.\n\nPrompt Injection  The Hidden AI Attack\n\nOne of the biggest concerns in AI security is Prompt Injection. Malicious instructions can be hidden inside websites, emails, documents, code, or other content an AI agent processes. If the system doesn't properly separate trusted instructions from untrusted content, this can lead to unintended behavior, tool calls, or sensitive-data exposure.\n\nAI Agents Have Access to Sensitive Systems\n\nModern AI agents can connect to browsers, terminals, databases, APIs, emails, MCP servers, and company data. This creates a larger attack surface. A security issue could potentially move across multiple connected components—from external content to an AI agent, then to a tool or API, and finally to sensitive systems.\n\nAutonomous AI Creates New Security Challenges\n\nThe more autonomy we give an AI agent, the more carefully its permissions need to be controlled. Browser agents, coding agents, and computer-use agents can perform real actions, so sandboxing, least-privilege access, authentication, monitoring, and approval for sensitive actions become important security layers.\n\nVibe Coders  Security Matters\n\nIf you're using AI to quickly build applications, don't ignore security just because the code works. API keys, .env files, database credentials, authentication tokens, and private user data should never be accidentally exposed in client-side code or public repositories. AI generated code should still be reviewed and tested before production deployment.\n\nBuild AI Agents Securely\n\nIn this video, we'll understand AI Security, Prompt Injection, Agent Hijacking, MCP Security, API Key Security, tool permissions, sandboxing, and data protection in simple Tamil. As AI moves from “Generate an Answer”-“Take an Action,” building secure systems becomes an essential part of working with AI agents.\n\n#aisecurity  #aiagents  #cybersecurity  #promptinjection  #agenticai  #llmsecurity  #aitamilcomedynews  #ai2026 #ai #aisecurity #aisecurity #genai #vibecoder #vibecoding #vibecoding"
+    },
+    {
+      "channel": "Dr. Sahar Yousef",
+      "priority": "high",
+      "videoId": "5pcw25mQxCg",
+      "publishedAt": "2026-09-26T14:00:05Z",
+      "title": "The Psychology of People Who Don't Post on Social Media (Explained by a Neuroscientist)",
+      "url": "https://www.youtube.com/watch?v=5pcw25mQxCg",
+      "durationSeconds": 790,
+      "duration": "13:10",
+      "description": "People who never post aren't shy or too cool for it. Most of them were TRAINED into silence.\n\nEvery like, every notification, every post that flopped has been quietly shaping how much you share, WHAT you share, and whether you share AT ALL. And the research shows that just scrolling and watching comes with its own cost. In this video I break down what's actually going on in your brain, and give you simple ways to take some control back.\n\nBy the end you'll know which type of poster you are according to science, what trained you into it, and why the best thing you can do on these apps might be to post anyway. \n\n---\nREFERENCES\n\nThe Four Posting Types:\nA questionnaire of 835 young people in Spain, Chile and Colombia that sorted them into four posting types based on how often and what they post. (Rodríguez-Illera et al. (2021), Pixel-Bit)\nLink: https://doi.org/10.12795/pixelbit.74205\n\nHow Likes Change What We Post:\nAn online experiment where 248 users got more or fewer likes than expected on a simulated post. More likes made people want to post sooner; fewer made them change what they'd post next. (Stsiampkouskaya et al. (2021), Computers in Human Behavior)\nLink: https://doi.org/10.1016/j.chb.2021.106940\n\nViewing selfies vs. group photos:\nA survey of 275 people linking frequent selfie viewing to lower self-esteem and group photo viewing to higher self-esteem. Posting had no effect. (Wang, Yang & Haigh (2017), Telematics and Informatics)\nhttps://doi.org/10.1016/j.tele.2016.07.004\n\nAdditional background references: \n\n1. The foundational work on reinforcement and extinction. (Skinner (1938), The Behavior of Organisms)\n2. Shows dopamine responds to the gap between what we expect and what we get. (Schultz, Dayan & Montague (1997), Science)\nhttps://doi.org/10.1126/science.275.5306.1593\n3. The original theory of how we judge ourselves by comparing to others. (Festinger (1954), Human Relations)\nhttps://doi.org/10.1177/001872675400700202\n\n--\nI'm Dr. Sahar Yousef, a cognitive neuroscientist and MBA Faculty at UC Berkeley, where I run the Becoming Superhuman Lab. My goal is to make neuroscience accessible and actionable for anyone looking for better ways of living and working. Everything on this channel is built on the realities of how your brain and body actually work.\n\nFIND ME ONLINE:\nWebsite: https://www.saharyousef.com/\nInstagram:   / drsaharyousef  \nLinkedIn: linkedin.com/in/saharyousef\nBecoming Superhuman Lab: https://www.becomingsuperhuman.science/"
+    },
+    {
+      "channel": "Y Combinator",
+      "priority": "high",
+      "videoId": "Jv5B5CEaPJI",
+      "publishedAt": "2026-09-26T14:00:37Z",
+      "title": "New LLMs Are Unlocking Robot-Use Agents",
+      "url": "https://www.youtube.com/watch?v=Jv5B5CEaPJI",
+      "durationSeconds": 1789,
+      "duration": "29:49",
+      "description": "One of the biggest surprises in AI over the last few years has been how well coding agents generalize beyond software. In a recent essay, MIT professor Philip Isola argued that we may be entering the era of robot-use agents: general-purpose models that can control different robots, write policies, and learn new physical tasks with little or no robot-specific training.\n\nIn this episode of Decoded, we're joined by the founders of Waddle Labs and RoboCurve, two of the startups whose work helped drive this realization. They're working at the frontier of using general-purpose models to control robots, and their recent demos helped inspire the growing conversation around robot-use agents. \n\nTogether, we dig into the research behind that idea, from code-as-policies and vision-language-action models to the harnesses and evals needed to make these systems work in the real world.\n\nChapters:\n\n00:00 — Intro + The Rise Of Robot Use Agents\n04:07 — The Bitter Lesson for Robotics\n07:40 — From Coding Agents to Robot Policies\n10:41 — In-Context Learning vs Model Training\n14:22 — Building a Harness for Robot Control\n17:50 — Turning Robot Actions Into Reusable Skills\n20:55 — How AI Models Learn the Physical World\n26:05 — How Close Are We To General Purpose Robots?\n\nhttps://www.waddlelabs.ai/\nhttps://robocurve.org/\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs"
     },
     {
       "channel": "Dr David Jockers",
