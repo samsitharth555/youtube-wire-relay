@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-09-26T15:21:45.810651Z",
+  "collectedAt": "2026-09-26T17:20:33.070166Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-25T13:21:45.810651Z",
+  "windowStart": "2026-09-25T15:20:33.070166Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 8,
+  "videoCount": 9,
   "videos": [
-    {
-      "channel": "The AI Dude - Tamil",
-      "priority": "high",
-      "videoId": "Xg729DaCY88",
-      "publishedAt": "2026-09-25T14:44:00Z",
-      "title": "Meta Muse AI is INSANE 🤯 Your Personal AI Agent That Does Everything! (தமிழில்)",
-      "url": "https://www.youtube.com/watch?v=Xg729DaCY88",
-      "durationSeconds": 483,
-      "duration": "8:03",
-      "description": "Check out Muse, your personal AI agent. Redeem my code in Settings within 48 hours of joining and we'll both get 1 billion Muse tokens.\n\nCode: JTMR3H\nCode: FLIOMK\nhttps://muse.ai/join\n\nUse cases of muse ai - http://muse.ai/s/muse-use-cases-xuxf6fkdeq4oxw\n\nJoin our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nMuse AI is a new personal AI agent designed to go beyond simply answering questions. Instead of just generating text, AI agents like Muse focus on understanding a task, taking actions, and helping users complete real-world workflows.\n\nIn this video, we explore what Muse AI is, how it works, and why personal AI agents are becoming important. We’ll look at how agent-based systems can interact with apps and websites, execute multi-step tasks, and reduce the amount of manual work users have to do.\n\nOne of the biggest changes happening in AI is the transition from AI Chatbots → AI Assistants → AI Agents. Rather than asking an AI for instructions and then doing everything yourself, agentic systems are being designed to actually perform parts of the workflow for you.\n\nWe’ll also discuss the idea behind an AI app ecosystem, where different tools, integrations, and services can work together through an intelligent agent. This could change how we use AI for productivity, research, scheduling, browsing, automation, and everyday digital tasks.\n\nMost importantly, this video explains Muse AI in simple Tamil, including where this technology fits in the current AI-agent ecosystem, what makes it different from a normal chatbot, and what you should understand before using autonomous AI systems.\n\nIf you’re interested in AI Agents, Agentic AI, AI Automation, Personal AI Assistants, and the future of AI, this video will give you a simple breakdown of what’s happening and why it matters.\n\n#museai  #aiagents  #agenticai  #aitamil  #aiautomation  #artificialintelligence  #generativeai  #ai2026"
-    },
     {
       "channel": "Tech With Tim",
       "priority": "high",
@@ -55,11 +44,22 @@
       "priority": "high",
       "videoId": "Jv5B5CEaPJI",
       "publishedAt": "2026-09-26T14:00:37Z",
-      "title": "New LLMs Are Unlocking Robot-Use Agents",
+      "title": "Robot-Use Agents: Why General-Purpose Models May Win in Robotics",
       "url": "https://www.youtube.com/watch?v=Jv5B5CEaPJI",
       "durationSeconds": 1789,
       "duration": "29:49",
       "description": "One of the biggest surprises in AI over the last few years has been how well coding agents generalize beyond software. In a recent essay, MIT professor Philip Isola argued that we may be entering the era of robot-use agents: general-purpose models that can control different robots, write policies, and learn new physical tasks with little or no robot-specific training.\n\nIn this episode of Decoded, we're joined by the founders of Waddle Labs and RoboCurve, two of the startups whose work helped drive this realization. They're working at the frontier of using general-purpose models to control robots, and their recent demos helped inspire the growing conversation around robot-use agents. \n\nTogether, we dig into the research behind that idea, from code-as-policies and vision-language-action models to the harnesses and evals needed to make these systems work in the real world.\n\nChapters:\n\n00:00 — Intro + The Rise Of Robot Use Agents\n04:07 — The Bitter Lesson for Robotics\n07:40 — From Coding Agents to Robot Policies\n10:41 — In-Context Learning vs Model Training\n14:22 — Building a Harness for Robot Control\n17:50 — Turning Robot Actions Into Reusable Skills\n20:55 — How AI Models Learn the Physical World\n26:05 — How Close Are We To General Purpose Robots?\n\nhttps://www.waddlelabs.ai/\nhttps://robocurve.org/\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs"
+    },
+    {
+      "channel": "Raj Shamani",
+      "priority": "medium",
+      "videoId": "GhZgfEfz8og",
+      "publishedAt": "2026-09-26T15:39:03Z",
+      "title": "Boring Business Masterclass: ₹1000 Cr Opportunity | Asish Mohapatra | FO567 Raj Shamani",
+      "url": "https://www.youtube.com/watch?v=GhZgfEfz8og",
+      "durationSeconds": 12235,
+      "duration": "3:23:55",
+      "description": "Download Porter here: https://porter.in/enterprise\n\n--------------\n\nGet your hand-picked playbook here: https://www.figuringout.co/pdf/fo-567\n\n--------------\n\nGuest Suggestion Form: https://forms.gle/bnaeY3FpoFU9ZjA47\n\n--------------\n\nDesign Your Own Podcast Episode: https://forms.gle/sx8iyUF9vnqhgvru7\n\n--------------\n\nTrying to grow your Social Media? Talk to us - https://forms.gle/sJfksjy4K3rpNnvF9\n\n--------------\n\nDisclaimer: This video is intended solely for educational purposes and opinions shared by the guest are his personal views. We do not intent to defame or harm any person/ brand/ product/ country/ profession mentioned in the video. Our goal is to provide information to help audience make informed choices. The media used in this video are solely for informational purposes and belongs to their respective owners.\n\n---------------\n\nOrder 'Build, Don't Talk' (in English) here: https://amzn.eu/d/eCfijRu\nOrder 'Build Don't Talk' (in Hindi) here: https://amzn.eu/d/4wZISO0\n\n--------------\n\nFollow Our WhatsApp Channel: https://www.whatsapp.com/channel/0029VaokF5x0bIdi3Qn9ef2J\n\n--------------\n\nSubscribe To Our Other YouTube Channels:-\n\nhttps://www.youtube.com/@rajshamaniclips\n\nhttps://www.youtube.com/@RajShamani.Shorts\n\n🎧 Stream Figuring Out episodes on Spotify: \nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4\n\n📺 Watch Figuring Out episodes on YouTube:\nhttps://youtube.com/playlist?list=PLE0Jo6NF_JYO5-phess8GKafKMtPv3tfZ\n\n---------------\n\nTimestamps - \n\n00:00 - Intro  \n03:37 - How to Build a ₹1,000 Crore Business Without Burning Cash  \n06:20 - Solving India's Biggest MSME Financing Problem  \n10:11 - How OfBusiness Makes Money on Every Transaction  \n15:34 - How the Construction Material Supply Chain Works  \n21:32 - Why Traders Don't Trust Each Other & How Business Credit Works  \n36:04 - 4 Ways to Build a Massive Business  \n42:05 - Should You Start a Business as a Teenager?  \n59:15 - India's $300 Billion Industrial Chemicals Opportunity  \n1:09:42 - How to Spot Big Business Opportunities in Any Industry  \n1:19:36 - Why Trust Is Everything in Business  \n1:24:35 - How to Handle Costly Mistakes in Business  \n1:46:20 - How to Pitch Your Business Idea to Investors  \n1:49:52 - How to Identify a Great Business Executor  \n1:53:14 - How to Fire Employees the Right Way  \n1:54:18 - Why He Doesn't Believe in Work-Life Balance  \n1:57:45 - How to Build a High-Performance Company Culture  \n2:06:25 - The 3-Step Framework for Building a Strong Work Culture  \n2:17:09 - Why Entrepreneurs Need a High Pain Tolerance  \n2:24:42 - Why Great Salespeople Are Great Listeners  \n2:29:57 - Debt vs Equity: Which Is Better for Your Business?  \n2:37:33 - How He Raised Money From SoftBank's Masayoshi Son  \n2:48:04 - How to Use Capital Efficiently to Grow a Business  \n3:01:39 - What It's Like to Build Unicorn Startups With Your Partner   \n3:09:50 - 3 Industries He Would Never Invest In  \n3:13:10 - Common Ways Entrepreneurs Get Screwed in Business  \n3:19:43 - The Cost of Building a Billion-Dollar Business  \n3:21:47 - Behind the Scenes\n\n---------------\n\nIn today's episode, we sit down with Asish Mohapatra - Co-Founder & CEO of OfBusiness and Co-Founder of Oxyzo who built one of India's rarest companies: high-revenue, high-profit and fast-scaling, all at once, in a \"boring\" industry.\n\nWe discuss why the most boring industries are the biggest opportunities, why almost nobody builds for India's real economy (its small and medium businesses), and how solving a customer's whole problem becomes an unbeatable moat. Ashish also breaks down his framework for spotting where the big money is, why you should make money first and worry about your USP later, the only three things he believes people actually work for, and how he defines his entire company culture in a single word.\n\nA genuine masterclass in building something durable this one is for every founder and operator.\n\nSubscribe for more such conversations.\n\nFollow Asish Mohapatra:\nLinkedin: https://www.linkedin.com/in/asish-mohapatra-3aab70318/\n\n---------------\n\nAbout Raj Shamani\nRaj Shamani is an entrepreneur and the host of the Figuring Out Podcast. He sits down with experts, athletes, celebrities, billionaires, and world leaders to break down how they actually win: money, business, mindset, relationships, and life. He's also a bestselling author, speaker, and angel investor. His work sits at the intersection of business, psychology, and human behaviour.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani/\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://www.linkedin.com/in/rajshamani/\n\n•   •   •\n\n#podcast #FiguringOut #RajShamani #india #business #economy #money #real \nAbout Figuring Out\nFiguring Out Podcast is a Candid Conversations University where Raj Shamani brings raw conversations with the Top 1% in India."
     },
     {
       "channel": "Dr David Jockers",
@@ -93,6 +93,17 @@
       "durationSeconds": 830,
       "duration": "13:50",
       "description": "✅Free 7 Day Fat Burning QuickStart Guide:  https://shorturl.at/5uQvV\n✅Re-Lyte:  https://redmond.life/drjockers\nUse coupon code JOCKERS at checkout for 15% off your order\n\nThis video explains that the drug most people over 60 are handed for insulin resistance performed no better than placebo in the largest prevention trial ever run… while the lifestyle arm cut new diabetes by 71% in that same age group… and then walks through the 14 day plan that gets fasting glucose and liver fat moving inside the first week, using the one lab number most viewers already have sitting in a drawer.\n\n00:00 💉 Reversing Insulin Resistance Naturally\n00:47 📊 Check Your TyG Index First\n02:22 🩸 The Better Fasting Insulin Test\n03:32 💊 Metformin vs. Lifestyle: The DPP Study\n04:52 🥩 Day 1: Build Meals Around Protein\n07:19 🥤 Day 1: Cut Liquid Sugar\n08:08 🍽️ Day 3: Stop Grazing Between Meals\n08:24 🚶 Days 4-6: Walk After Meals\n08:39 🏋️ Day 7: Add Resistance Training\n08:55 😴 Day 8: Fix Your Sleep Schedule\n09:26 ⏳ Days 9-11: Start Overnight Fasting\n10:19 📈 Day 14: Re-Check Your Numbers\n11:00 ❓ Q&A: How Long Until Improvement?\n11:46 ❓ Q&A: Do I Need to Cut All Carbs?\n12:11 ❓ Q&A: Signs Insulin Sensitivity Is Improving\n12:43 🎯 Final Thoughts & Prayer\n\n✅ Subscribe to my Channel:  https://www.youtube.com/djockers\n\n✅ Listen to my Podcast on Apple, and leave a review! \nApple Podcast - https://podcasts.apple.com/us/podcast/dr-jockers-functional-nutrition/id1497791107\n\n✅ Watch on Spotify: https://open.spotify.com/show/37gaDSJMuE9fKo2PRZrSkw\n\nIMPORTANT: Some product links are affiliate links which means if you buy something we’ll receive a small commission.\n\nAFFILIATE DISCLAIMER: Please see the link for our disclaimer policy for all of our videos on the Dr. Jockers YouTube Channel and Dr. Jockers Functional Nutrition Podcast. Thank you for supporting the channel!\n-- https://drjockers.com/drjockers-com-affiliate-disclosure/"
+    },
+    {
+      "channel": "Jay Shetty Podcast",
+      "priority": "low",
+      "videoId": "8kAW1LyaAUI",
+      "publishedAt": "2026-09-26T15:30:38Z",
+      "title": "5 Money Rules Nobody Taught You in School | Money & Business Expert Codie Sanchez",
+      "url": "https://www.youtube.com/watch?v=8kAW1LyaAUI",
+      "durationSeconds": 3466,
+      "duration": "57:46",
+      "description": "Watch the FULL episode today on Netflix & Spotify 🎙️"
     }
   ]
 }
