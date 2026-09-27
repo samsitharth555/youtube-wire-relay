@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-09-27T11:21:39.153160Z",
+  "collectedAt": "2026-09-27T13:21:34.934418Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-26T09:21:39.153160Z",
+  "windowStart": "2026-09-26T11:21:34.934418Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 7,
+  "videoCount": 8,
   "videos": [
     {
       "channel": "Tech With Tim",
@@ -49,6 +49,17 @@
       "durationSeconds": 1789,
       "duration": "29:49",
       "description": "One of the biggest surprises in AI over the last few years has been how well coding agents generalize beyond software. In a recent essay, MIT professor Philip Isola argued that we may be entering the era of robot-use agents: general-purpose models that can control different robots, write policies, and learn new physical tasks with little or no robot-specific training.\n\nIn this episode of Decoded, we're joined by the founders of Waddle Labs and RoboCurve, two of the startups whose work helped drive this realization. They're working at the frontier of using general-purpose models to control robots, and their recent demos helped inspire the growing conversation around robot-use agents. \n\nTogether, we dig into the research behind that idea, from code-as-policies and vision-language-action models to the harnesses and evals needed to make these systems work in the real world.\n\nChapters:\n\n00:00 — Intro + The Rise Of Robot Use Agents\n04:07 — The Bitter Lesson for Robotics\n07:40 — From Coding Agents to Robot Policies\n10:41 — In-Context Learning vs Model Training\n14:22 — Building a Harness for Robot Control\n17:50 — Turning Robot Actions Into Reusable Skills\n20:55 — How AI Models Learn the Physical World\n26:05 — How Close Are We To General Purpose Robots?\n\nhttps://www.waddlelabs.ai/\nhttps://robocurve.org/\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs"
+    },
+    {
+      "channel": "Tech With Tim",
+      "priority": "high",
+      "videoId": "FGBUPD-SHMw",
+      "publishedAt": "2026-09-27T13:00:09Z",
+      "title": "5 Python Coding Skills That Get You Hired in 2026",
+      "url": "https://www.youtube.com/watch?v=FGBUPD-SHMw",
+      "durationSeconds": 725,
+      "duration": "12:05",
+      "description": "Best courses to learn the Python skills companies are hiring for:\nDataCamp Python for Software Engineering Track - https://datacamp.pxf.io/xJ6OMR\nDataCamp Python Developer Track - https://datacamp.pxf.io/k42V63\n\nOnly about 3% of Python job listings ask for just Python — the average role expects you to be comfortable with around eight surrounding tools and technologies. So if you've done the courses, built the to-do apps, and know your loops and functions... and you're still wondering why nobody's calling back, this video is for you.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:47 | What Changed?\n01:37 | Skill #1\n03:15 | Skill #2\n04:48 | How to Learn It\n06:18 | Skill #3\n07:36 | Skill #4\n08:56 | Skill #5\n10:43 | How to Get Hired\n\nHashtags\n#LearnPython #TechJobs #SoftwareEngineering\n\nUAE Media License Number: 3635141"
     },
     {
       "channel": "Raj Shamani",
