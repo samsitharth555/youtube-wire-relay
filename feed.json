@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-09-28T13:26:03.526589Z",
+  "collectedAt": "2026-09-28T15:27:12.079939Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-27T11:26:03.526589Z",
+  "windowStart": "2026-09-27T13:27:12.079939Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 7,
   "videos": [
-    {
-      "channel": "Tech With Tim",
-      "priority": "high",
-      "videoId": "FGBUPD-SHMw",
-      "publishedAt": "2026-09-27T13:00:09Z",
-      "title": "5 Python Coding Skills That Get You Hired in 2026",
-      "url": "https://www.youtube.com/watch?v=FGBUPD-SHMw",
-      "durationSeconds": 725,
-      "duration": "12:05",
-      "description": "Best courses to learn the Python skills companies are hiring for:\nDataCamp Python for Software Engineering Track - https://datacamp.pxf.io/xJ6OMR\nDataCamp Python Developer Track - https://datacamp.pxf.io/k42V63\n\nOnly about 3% of Python job listings ask for just Python — the average role expects you to be comfortable with around eight surrounding tools and technologies. So if you've done the courses, built the to-do apps, and know your loops and functions... and you're still wondering why nobody's calling back, this video is for you.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:47 | What Changed?\n01:37 | Skill #1\n03:15 | Skill #2\n04:48 | How to Learn It\n06:18 | Skill #3\n07:36 | Skill #4\n08:56 | Skill #5\n10:43 | How to Get Hired\n\nHashtags\n#LearnPython #TechJobs #SoftwareEngineering\n\nUAE Media License Number: 3635141"
-    },
     {
       "channel": "The AI Dude - Tamil",
       "priority": "high",
@@ -71,6 +60,17 @@
       "durationSeconds": 1666,
       "duration": "27:46",
       "description": "Want to understand LLMs from the ground up? Start here!\n\nLarge Language Models (LLMs) are powering ChatGPT, Claude, Gemini, and the next generation of AI applications. But what exactly is an LLM, and how does it actually work?\n\nIn this video, I break down the fundamentals of LLMs in a simple, beginner-friendly way — without making it unnecessarily complicated.\n\n🔥 What You'll Learn:\n\n00:00 – Introduction\n00:58 – What Is an LLM?\n09:46 – What Can LLMs Actually Do?\n12:36 – Different Types of LLMs\n18:20 – LLM Size: Understanding Parameters\n21:51 – LLM Limitations\n25:11 – LLM Context Window\n26:55 – Conclusion\n\nIf you're a creator, marketer, entrepreneur, or AI enthusiast, this AI video creation workflow can save you a lot of time and effort.\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nLLM basics Tamil, LLM explained in Tamil, what is LLM, large language model explained, LLM for beginners, learn LLM from scratch, ChatGPT basics Tamil, generative AI basics Tamil, AI basics Tamil, LLM tutorial for beginners, context window explained, tokens explained in LLM, how ChatGPT works, LLM concepts for beginners\n\n#LLM #LLMBasics #GenerativeAI #ChatGPT #AI #ArtificialIntelligence #MachineLearning #NLP #GenAI #AITamil #TamilTech #AIForBeginners"
+    },
+    {
+      "channel": "The AI Dude - Tamil",
+      "priority": "high",
+      "videoId": "Ua3qqL1b-Hc",
+      "publishedAt": "2026-09-28T14:33:06Z",
+      "title": "xAI Just Dropped a BEAST in 2026🤯 Meet Grok Bot!(தமிழில்)",
+      "url": "https://www.youtube.com/watch?v=Ua3qqL1b-Hc",
+      "durationSeconds": 617,
+      "duration": "10:17",
+      "description": "Join our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nWhat is Grok Bot?\nGrok Bot is an AI teammate from xAI designed to go beyond normal chatbot conversations. Instead of only answering questions, it can work on multi step tasks using its own cloud computer and interact with tools such as a browser, terminal, and files.\n\nMore Than Just an AI Chatbot\nTraditional AI chatbots mainly follow the Ask → Answer model. Grok Bot is designed around Give a Task → Take Action, allowing it to work through longer workflows and perform tasks across different tools.\n\nAI That Can Work in the Cloud\nGrok Bot can operate using a persistent cloud computer, meaning work can continue remotely instead of depending entirely on your local computer. This makes it useful for longer running research, coding, browser, and automation workflows.\n\nGrok Bot Use Cases\nIn this video, we’ll explore how Grok Bot works and look at practical use cases involving AI automation, coding, research, browser tasks, terminal workflows, and autonomous AI agents.\n\nGrok Bot the Future of AI Agents?\n2026 is becoming a major year for Agentic AI. In this Tamil video, we’ll test Grok Bot, understand its capabilities, and see where it fits in the rapidly evolving world of autonomous AI agents.\n\n#grokbot  #grok  #xai  #aiagents  #agenticai  #aiautomation  #aitamil  #grokai #tamilainews #grokipedia #grokvideo #grokvideo #grokai #grokmemecoin"
     },
     {
       "channel": "The Diary Of A CEO",
