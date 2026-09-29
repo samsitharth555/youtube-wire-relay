@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-09-28T17:23:59.091201Z",
+  "collectedAt": "2026-09-29T01:22:46.714573Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-27T15:23:59.091201Z",
+  "windowStart": "2026-09-27T23:22:46.714573Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 9,
+  "videoCount": 8,
   "videos": [
-    {
-      "channel": "The AI Dude - Tamil",
-      "priority": "high",
-      "videoId": "9Tp0ScgKfOw",
-      "publishedAt": "2026-09-27T15:40:53Z",
-      "title": "Is AI Dangerous? | Zoholics 2026 | Sunday uncut video (தமிழில்)",
-      "url": "https://www.youtube.com/watch?v=9Tp0ScgKfOw",
-      "durationSeconds": 429,
-      "duration": "7:09",
-      "description": "zoholics link - https://www.youtube.com/live/s20WSSXNCrs?si=qv003AxW-amVtlwN\n\nai agents, zia chat, subscription and new updates"
-    },
     {
       "channel": "Krish Naik",
       "priority": "high",
