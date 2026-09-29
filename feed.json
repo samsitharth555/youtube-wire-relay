@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-09-29T11:23:40.186760Z",
+  "collectedAt": "2026-09-29T13:29:26.964244Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-28T09:23:40.186760Z",
+  "windowStart": "2026-09-28T11:29:26.964244Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 6,
+  "videoCount": 8,
   "videos": [
     {
       "channel": "Huberman Lab",
@@ -49,6 +49,28 @@
       "durationSeconds": 617,
       "duration": "10:17",
       "description": "Join our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nWhat is Grok Bot?\nGrok Bot is an AI teammate from xAI designed to go beyond normal chatbot conversations. Instead of only answering questions, it can work on multi step tasks using its own cloud computer and interact with tools such as a browser, terminal, and files.\n\nMore Than Just an AI Chatbot\nTraditional AI chatbots mainly follow the Ask → Answer model. Grok Bot is designed around Give a Task → Take Action, allowing it to work through longer workflows and perform tasks across different tools.\n\nAI That Can Work in the Cloud\nGrok Bot can operate using a persistent cloud computer, meaning work can continue remotely instead of depending entirely on your local computer. This makes it useful for longer running research, coding, browser, and automation workflows.\n\nGrok Bot Use Cases\nIn this video, we’ll explore how Grok Bot works and look at practical use cases involving AI automation, coding, research, browser tasks, terminal workflows, and autonomous AI agents.\n\nGrok Bot the Future of AI Agents?\n2026 is becoming a major year for Agentic AI. In this Tamil video, we’ll test Grok Bot, understand its capabilities, and see where it fits in the rapidly evolving world of autonomous AI agents.\n\n#grokbot  #grok  #xai  #aiagents  #agenticai  #aiautomation  #aitamil  #grokai #tamilainews #grokipedia #grokvideo #grokvideo #grokai #grokmemecoin"
+    },
+    {
+      "channel": "AI with Thiru",
+      "priority": "high",
+      "videoId": "1Ffjyg8Qze8",
+      "publishedAt": "2026-09-29T12:38:18Z",
+      "title": "Agentic Engineering Era Started😱 | Explained தமிழில்",
+      "url": "https://www.youtube.com/watch?v=1Ffjyg8Qze8",
+      "durationSeconds": 768,
+      "duration": "12:48",
+      "description": "AI Agents மட்டும் build பண்ணினா போதுமா? 🤯\nProduction-ready AI systems build பண்ண Agentic Engineering தான் next big skill!\n\nIn this video, we dive deep into Agentic Engineering — what it means, why traditional AI agent development is not enough, and how modern AI engineers are designing reliable, scalable and production-ready agentic systems.\n\nIf you're a creator, marketer, entrepreneur, or AI enthusiast, this AI video creation workflow can save you a lot of time and effort.\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nAgentic Engineering, Agentic Engineering Tamil, What is Agentic Engineering, Agentic AI, AI Agents, AI Agent Development, Production AI Agents, Production Grade AI Systems, AI Engineering, LLM Agents, Agent Architecture, Agent Orchestration, Context Engineering, AI Automation, Generative AI, AI Engineer, Agentic Systems, Building AI Agents\n\n#AgenticEngineering #AIAgents #AgenticAI #AIEngineering #GenerativeAI #LLM #AIAutomation #AIEngineer #ContextEngineering #AIAgentsTamil #AITamil #AIwithThiru"
+    },
+    {
+      "channel": "Tech With Tim",
+      "priority": "high",
+      "videoId": "lFA-zuZRG4Q",
+      "publishedAt": "2026-09-29T13:00:38Z",
+      "title": "Why You NEED This New Python Tool",
+      "url": "https://www.youtube.com/watch?v=lFA-zuZRG4Q",
+      "durationSeconds": 1032,
+      "duration": "17:12",
+      "description": "Get started with Pyrefly: https://pyrefly.org/twt\n\nThis code looks completely fine — it even runs — right up until it crashes on a line that should never have shipped. Python won't warn you, because it doesn't check types until your code is actually running.\n\nIn this video I show you Pyrefly, Meta's new static type checker for Python. It's free, it's open source, and it's already running in production at Instagram and PyTorch. I'll show you exactly why Python lets these bugs slip through, why type hints alone don't save you, and how Pyrefly catches these errors before you ever hit run.\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n🎞 Video Resources 🎞\nGet started with Pyrefly: https://pyrefly.org/twt\nMigrate from your current typechecker: https://pyrefly.org/twt/migrate\nGet your agent to use Pyrefly: https://pyrefly.org/twt/agents\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:33 | Dynamic Typing\n03:44 | Type Hints in Python\n05:20 | What is a Static Type Checker\n07:10 | Pyrefly Install\n07:52 | Using Pyrefly\n09:41 | Migration from mypy\n11:33 | Type Checking Demo\n13:19 | Speed Test\n15:20 | Using Pyrefly from Agents\n\nHashtags\n#Python #Pyrefly #TypeChecking\n\nUAE Media License Number: 3635141"
     },
     {
       "channel": "Jay Shetty Podcast",
