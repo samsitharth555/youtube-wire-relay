@@ -1,33 +1,11 @@
 {
-  "collectedAt": "2026-10-01T13:29:49.382835Z",
+  "collectedAt": "2026-10-01T15:27:04.374018Z",
   "lookbackHours": 26,
-  "windowStart": "2026-09-30T11:29:49.382835Z",
+  "windowStart": "2026-09-30T13:27:04.374018Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 11,
+  "videoCount": 9,
   "videos": [
-    {
-      "channel": "Tech With Tim",
-      "priority": "high",
-      "videoId": "x6siPRkPAeQ",
-      "publishedAt": "2026-09-30T13:00:29Z",
-      "title": "The Only Guide You Need for Local AI Hardware",
-      "url": "https://www.youtube.com/watch?v=x6siPRkPAeQ",
-      "durationSeconds": 1155,
-      "duration": "19:15",
-      "description": "🎙️ Get the Memoket Gem for $179 with code TECHWITHTIM (10% off)\nOfficial: https://memoket.ai/?utm_source=youtube&utm_medium=sponsorship&utm_campaign=tech_with_tim\nAmazon: https://amzn.to/4662EMh | https://amzn.to/4gTrXpJ | https://amzn.to/4ysF3S8\n\nMac or PC for running AI models locally — I own both, plus Nvidia's DGX Spark, and in this video I'm using real benchmark numbers to finally settle the debate.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n🎞 Video Resources\nBenchmark Ref: https://www.contextstudios.ai/blog/qwen-3-8-27b-hardware-guide\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:46 | Local AI Crash Course\n01:48 | Capacity vs Bandwidth\n02:53 | Speed Formula\n03:44 | Mac vs PC Debate\n04:48 | Speed Benchmarks\n06:16 | VRAM Spillover\n07:04 | Capacity Benchmarks\n08:33 | Prompt Processing\n09:11 | Memoket\n10:22 | Recent Trends\n12:38 | Buying Ladder\n17:36 | Overall Verdict\n\nHashtags\n#LocalAI #MacVsPC #DGXSpark\n\nUAE Media License Number: 3635141"
-    },
-    {
-      "channel": "AI with Thiru",
-      "priority": "high",
-      "videoId": "hFsk_BXR69c",
-      "publishedAt": "2026-09-30T13:06:03Z",
-      "title": "How to Translate Videos into ANY Language at Scale with AI Dubbing Tool | Vosko AI",
-      "url": "https://www.youtube.com/watch?v=hFsk_BXR69c",
-      "durationSeconds": 405,
-      "duration": "6:45",
-      "description": "Free 200 credits for new user: https://www.vosko.ai/tools/video-translator/ \n\n10% OFF coupon: WMD01\n\nWhat if you could translate your videos into multiple languages while keeping YOUR original voice? \n\nIn this video, I explore Vosko AI, an AI-powered video localization and dubbing platform that helps creators translate their content into multiple languages while preserving voice characteristics, emotion, background music, and synchronization.\n\nWith Vosko, you can translate videos, dub content, generate subtitles, and even handle multi-speaker videos making it useful for YouTubers, educators, marketers, businesses, and content creators looking to reach a global audience.\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nGitHub: https://github.com/Thirumurugan240/TensorFlow_Masterclass.git\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\n#VoskoAI #AI #AITools #AIVideo #AIDubbing #VideoTranslation #VideoLocalization #AITranslator #VoiceAI #AIForCreators #YouTubeTools #GenerativeAI #GenAI #ArtificialIntelligence #AIWithThiru"
-    },
     {
       "channel": "The AI Dude - Tamil",
       "priority": "high",
@@ -59,7 +37,7 @@
       "url": "https://www.youtube.com/watch?v=Z_hyZLV7Z8E",
       "durationSeconds": 618,
       "duration": "10:18",
-      "description": "Google Gemini 4 Argon is creating a lot of curiosity around what the next generation of AI could look like. But what happens when we think beyond today's AI systems and imagine Super Intelligence?\n\nIn this video, I break down Gemini 4 Argon in a simple way and explain how its capabilities could connect to the bigger idea of AI Super Intelligence.\n\nIf you're learning AI, Machine Learning, Generative AI, LLMs and AI Agents, this is a video you don't want to miss.\nIf you're a creator, marketer, entrepreneur, or AI enthusiast, this AI video creation workflow can save you a lot of time and effort.\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nGemini 4 Argon, Gemini 4 Argon explained, Google Gemini 4, Gemini 4 AI model, Gemini Argon, Super Intelligence AI, AI Super Intelligence, Google DeepMind AI, future of artificial intelligence, next generation AI, advanced AI models, Gemini AI explained, Generative AI, LLM, future of AI, AI revolution, AI technology, artificial intelligence explained, AI models 2026\n\n#Gemini4 #Gemini4Argon #GoogleAI #SuperIntelligence #AI #ArtificialIntelligence #GenerativeAI #GoogleDeepMind #LLM #AIRevolution #FutureOfAI #AIWithThiru"
+      "description": "Google Gemini 4 Argon is creating a lot of curiosity around what the next generation of AI could look like. But what happens when we think beyond today's AI systems and imagine Super Intelligence?\n\nIn this video, I break down Gemini 4 Argon in a simple way and explain how its capabilities could connect to the bigger idea of AI Super Intelligence.\n\nIf you're learning AI, Machine Learning, Generative AI, LLMs and AI Agents, this is a video you don't want to miss.\nIf you're a creator, marketer, entrepreneur, or AI enthusiast, this AI video creation workflow can save you a lot of time and effort.\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nGoogle gemini 4: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nGemini 4 Argon, Gemini 4 Argon explained, Google Gemini 4, Gemini 4 AI model, Gemini Argon, Super Intelligence AI, AI Super Intelligence, Google DeepMind AI, future of artificial intelligence, next generation AI, advanced AI models, Gemini AI explained, Generative AI, LLM, future of AI, AI revolution, AI technology, artificial intelligence explained, AI models 2026\n\n#Gemini4 #Gemini4Argon #GoogleAI #SuperIntelligence #AI #ArtificialIntelligence #GenerativeAI #GoogleDeepMind #LLM #AIRevolution #FutureOfAI #AIWithThiru"
     },
     {
       "channel": "The AI Dude - Tamil",
