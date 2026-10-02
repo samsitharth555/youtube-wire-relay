@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-10-02T11:24:02.460579Z",
+  "collectedAt": "2026-10-02T13:27:29.072421Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-01T09:24:02.460579Z",
+  "windowStart": "2026-10-01T11:27:29.072421Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 5,
+  "videoCount": 7,
   "videos": [
     {
       "channel": "Huberman Lab",
@@ -38,6 +38,28 @@
       "durationSeconds": 660,
       "duration": "11:00",
       "description": "Join our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nGoogle’s BIG AI Update - Gemini 4 Argon\nGoogle has officially announced Gemini 4 Argon, its new frontier AI model built for complex, long-running tasks across software engineering, enterprise knowledge work, reasoning, and cybersecurity. Google announced the model on September 30, 2026, positioning Argon as a major step forward in the Gemini family. \n\n What Makes Gemini 4 Argon Different?\nGemini 4 Argon is designed to sustain deeper reasoning across long-horizon workflows rather than simply generating short answers. One of its standout technical changes is an output limit of up to 1 million tokens, compared with the previous 64K limit cited by Google, allowing much longer reasoning and execution trajectories.\n\nCoding & Agentic AI\nCoding is one of Argon’s major focus areas. Google reports a 77.9% score on DeepSWE v1.1, a benchmark focused on long horizon software-engineering tasks. Google also says its own engineers are already using Argon internally for debugging, algorithm design, codebase migrations, research, and other engineering workflows. \n\nBusiness Automation & Real World Work\nThis isn't positioned purely as a coding model. Google is targeting professional workflows involving finance, legal work, research, business automation, multimodal understanding, and enterprise tasks. On Zapier's AutomationBench, Google reports Argon scoring 51.3% and ranking first at announcement time.\n\nCybersecurity is a BIG Part of Argon\nOne of the most interesting parts of Gemini 4 Argon is its focus on cyber defense. Google says Argon can help identify, validate, and patch software vulnerabilities. It also reports a 68% score on CWE-bench v1, tied for the top score reported in Google's comparison. \n\nCan Everyone Use Gemini 4 Argon?\nNot yet. Google is initially rolling out Gemini 4 Argon to a selected group of trusted cyber defenders through its Fairwind Program while it continues safety testing and strengthens safeguards. Google says access will expand later to developers, enterprises, and consumers, starting with paid API customers and Google AI Ultra subscribers. \n\nGemini 4 Argon & The AI Race\nIn this Tamil video, we'll break down Gemini 4 Argon, its new capabilities, benchmarks, coding performance, AI-agent potential, cybersecurity features, availability, and what Google's latest move means for the broader AI landscape.\n\nWe'll also look beyond the hype and understand where the benchmark numbers come from and what they actually tell us about the model.\n\nIf you're interested in Gemini, Google AI, ChatGPT, Claude, AI Agents, coding with AI, Agentic AI, or the latest AI updates, this video is for you.\n\n#Gemini4 #Gemini4Argon #geminiai  #googleai  #aiagents  #agenticai  #ainews  #aitamil #gemini4Argon #googlegemini  #geminiai  #googleai  #ainews  #ai2026  #aiagents  #agenticai  #aitamil  #techtamil"
+    },
+    {
+      "channel": "AI with Thiru",
+      "priority": "high",
+      "videoId": "UYXyOh-Xv8s",
+      "publishedAt": "2026-10-02T12:41:49Z",
+      "title": "AI Agent Architecture Explained 🔥 | இத தெரியாம Agents Build பண்ணாதீங்க!",
+      "url": "https://www.youtube.com/watch?v=UYXyOh-Xv8s",
+      "durationSeconds": 929,
+      "duration": "15:29",
+      "description": "AI Agents are everywhere — but do you actually understand what happens inside an AI Agent? 🤯\n\nIn this video, I break down the complete AI Agent Architecture and explain how different components work together to make an AI agent intelligent, autonomous, and capable of using tools.\n\nYou'll learn:\nWhat is AI Agent Architecture?\nHow the LLM acts as the brain\nAgent reasoning & decision-making\nTool calling and external APIs\nMemory in AI Agents\nKnowledge & RAG integration\nAgent loops and execution\nHow agents interact with the real world\nHow to think about designing production-ready AI agents\n\nIf you're learning Generative AI, AI Agents, Agentic AI, or planning to build your own AI agents, this video will help you understand the architecture from the ground up.\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nAI agent architecture, AI agent architecture explained, AI agents, AI agent, agentic AI, agentic AI architecture, how AI agents work, AI agent workflow, AI agent system architecture, AI agent framework, LLM agents, autonomous AI agents, AI agent development, build AI agents, AI agents tutorial, generative AI agents, AI agent memory, AI agent tools, tool calling, RAG agents, AI automation, LLM architecture, agent workflow, AI engineering\n\n#AIAgents #AgenticAI #AIAgentArchitecture #GenerativeAI #GenAI #LLM #AIEngineering #AIAutomation #RAG #LLMAgents #AIAgent #AIwithThiru #TamilAI"
+    },
+    {
+      "channel": "The AI Dude - Tamil",
+      "priority": "high",
+      "videoId": "VA6DkCb46Zc",
+      "publishedAt": "2026-10-02T13:00:28Z",
+      "title": "QA Engineer? Don’t MISS This in 2026! 🔥 (தமிழில்)",
+      "url": "https://www.youtube.com/watch?v=VA6DkCb46Zc",
+      "durationSeconds": 944,
+      "duration": "15:44",
+      "description": "Join our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nComplete QA Engineer Roadmap 2026 Beginner to Job Ready\n\nWant to become a QA Engineer / Software Tester in 2026 but don’t know where to start? In this video, I explain a complete Software Testing Roadmap step by step starting from QA fundamentals and Manual Testing all the way to Automation Testing, API Testing, Database Testing, Performance Testing, CI/CD, and real-world projects.2\n\n What you’ll learn:\nQA & Software Testing Fundamentals • SDLC & STLC • Manual Testing • Test Cases & Bug Reporting • Testing Techniques • Jira & Test Management • Agile & Scrum • Automation Testing • Python / Java • Selenium & Playwright • API Testing • Postman • SQL & Database Testing • JMeter • Git & CI/CD • Jenkins / GitHub Actions • Real-World Projects • QA Interview Preparation\n\nIf you are a beginner, fresher, developer switching to testing, or someone planning to become an Automation QA Engineer, this roadmap will help you understand what to learn and in what order.\n\nThe goal is not just to learn testing concepts it is to move from Beginner → Manual Tester → Automation Tester → Job-Ready QA Engineer with practical skills and projects.\n\n#softwaretesting  #qaengineer  #QARoadmap #automationtesting    #manualtesting  #selenium  #playwright  #apitesting  #qualityassurance  #softwaretesters  #TestingRoadmap #tamiltech  #tamilnadunews"
     },
     {
       "channel": "Raj Shamani",
