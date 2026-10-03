@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-10-03T09:24:55.739303Z",
+  "collectedAt": "2026-10-03T14:32:12.338368Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-02T07:24:55.739303Z",
+  "windowStart": "2026-10-02T12:32:12.338368Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 6,
+  "videoCount": 8,
   "videos": [
     {
       "channel": "AI with Thiru",
@@ -51,6 +51,17 @@
       "description": "Create your AI Avatar using Synthesia: https://www.synthesia.io/features/avatars/interactive-avatars?utm_source=youtube&utm_medium=creator&utm_campaign=interactive_avatar_api&utm_content=tim\n\nWhat you just watched isn't a demo of a chatbot — it's a live AI avatar named Ava taking a restaurant order, recommending dishes, and actually controlling the webpage in real time as we talk. In this video I break down exactly how that works, piece by piece, and show you how to build it yourself.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n🎞 Video Resources 🎞\nSynthesia: https://www.synthesia.io/features/avatars/interactive-avatars?utm_source=youtube&utm_medium=creator&utm_campaign=interactive_avatar_api&utm_content=tim\nCode Download:  https://github.com/techwithtim/realtime-ai-avatar\n\n⏳ Timestamps ⏳\n00:00 | Overview\n01:08 | AI Avatars\n02:00 | The One Problem\n03:29 | The 8 Pieces\n06:58 | How The Face Works\n08:50 | Architecture of the System\n12:05 | Setup/Install\n13:43 | Code Walkthrough\n\nHashtags\n#AIAvatar #Synthesia #LiveKit\n\nUAE Media License Number: 3635141"
     },
     {
+      "channel": "Tech With Tim",
+      "priority": "high",
+      "videoId": "0F7fGYpqOZg",
+      "publishedAt": "2026-10-03T14:00:26Z",
+      "title": "Local AI + Cloud AI Is INSANE - Hybrid Computer FULL Tutorial",
+      "url": "https://www.youtube.com/watch?v=0F7fGYpqOZg",
+      "durationSeconds": 740,
+      "duration": "12:20",
+      "description": "Get started with Perplexity Computer: https://www.perplexity.ai/products/computer\n\nThe best AI models in the world run in data centers on hardware you'll never own. But the files I most want AI to work with — bank exports, contracts, client information — are the exact files I'd never upload to one of those models. For years you've had to pick: smart but public, or private but limited.\n\nIn this video I show you the first product I've seen that refuses to pick. Perplexity's Hybrid Compute runs a single task across both a frontier cloud model and a local model on your own Mac, at the same time. I break down exactly how it works, how to set it up, and run it live on real sensitive files.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n⏳ Timestamps ⏳\n00:00 | Overview\n01:03 | Local vs Cloud\n02:36 | What is Hybrid Compute\n03:32 | How it Works\n05:35 | Full Setup Guide\n07:34 | Demos\n\nHashtags\n#LocalAI #Perplexity #HybridAI\n\nUAE Media License Number: 3635141"
+    },
+    {
       "channel": "Think School",
       "priority": "medium",
       "videoId": "MGRTpIyJRIk",
@@ -71,6 +82,17 @@
       "durationSeconds": 662,
       "duration": "11:02",
       "description": "✅Check out My Fat Burning Foods Guide:  https://shorturl.at/POVDQ\n✅Get Your Bottle of Fresh Pressed Olive Oil For $1 Here: DrJockersOliveOil.com\n\nIn this video, I go over a secret olive oil trick that turns on fat burning and autophagy at the cellular level in just one day.  \n\n00:00 🫒 Olive Oil Trick for Autophagy & Fat Burning\n00:52 ⚠️ Warning About Olive Oil Quality\n01:26 🔬 Olive Oil Compounds & Autophagy\n02:36 ⚡ mTOR & AMPK Activation\n03:31 5️⃣ Five Major Ways to Activate Autophagy\n04:51 🌱 Polyphenols & Mitochondrial Repair\n07:48 🔥 How Do We Reduce Heat Exposure?\n08:50 🫒 Polyphenol Content in Olive Oil\n09:45 🛡️ Protecting and Using Olive Oil for Maximum Benefits\n10:31 🛒 How to Get the Olive Oil\n\nTo read more about olive oil go here:  https://drjockers.com/olive-oil-health-benefits/\nGet Your Bottle of Fresh Pressed Olive Oil For $1 Here: DrJockersOliveOil.com\n\nLearn More About Autophagy:  https://drjockers.com/autophagy/\n-------------------------------------------------------------------------------------------------------------------------------\n✅ Subscribe to my Channel:  https://www.youtube.com/djockers\n\n✅ Listen to my Podcast on Apple, and leave a review! \nApple Podcast - https://podcasts.apple.com/us/podcast/dr-jockers-functional-nutrition/id1497791107\n\n✅ Watch on Spotify: https://open.spotify.com/show/37gaDSJMuE9fKo2PRZrSkw\n\n[TIMESTAMPS]\n\nIMPORTANT: Some product links are affiliate links which means if you buy something we’ll receive a small commission.\n\nAFFILIATE DISCLAIMER: Please see the link for our disclaimer policy for all of our videos on the Dr. Jockers YouTube Channel and Dr. Jockers Functional Nutrition Podcast. Thank you for supporting the channel!\n-- https://drjockers.com/drjockers-com-affiliate-disclosure/"
+    },
+    {
+      "channel": "Dr David Jockers",
+      "priority": "low",
+      "videoId": "4ArtdA7eJ7w",
+      "publishedAt": "2026-10-03T12:30:19Z",
+      "title": "NEW Biblical Method Kills Belly Fat In 14 Days",
+      "url": "https://www.youtube.com/watch?v=4ArtdA7eJ7w",
+      "durationSeconds": 997,
+      "duration": "16:37",
+      "description": "✅Free 7 Day Fat Burning QuickStart Guide:  https://shorturl.at/5uQvV\n✅Cortisol Defense:  https://store.drjockers.com/products/cortisol-defense\n✅Brain Calm Magnesium:  https://shorturl.at/YusZs\nUse Code Jockers10 to save 10%\n\nThis video explains that belly fat is a rhythm problem, not a willpower problem… sleep loss raises next-evening cortisol 37 to 45% and controlled trials show sleep restriction alone increases visceral fat… which is why the oldest command in the book prescribes a scheduled stop instead of a feeling of calm.\n\n00:00 📖 The Biblical Fat Loss Method\n00:44 😴 Mayo Clinic: 4 Hours of Sleep & Fat Gain\n01:23 📈 Chicago Study: More Sleep, Less Eating\n01:50 🕯️ The Sabbath & Cortisol Rhythm\n03:49 📅 Days 1-3: Build Consistency\n05:03 🌙 Days 4-7: Create Your Daily Shabbat\n06:05 💡 Days 8-10: Protect Light Signals\n07:25 🔒 Days 11-14: Stay the Course\n08:15 💧 Hydration & Electrolytes Matter Too\n10:20 ❓ Q&A: Can I Catch Up on Sleep?\n11:16 ❓ Q&A: What If I Work Night Shifts?\n12:17 ❓ Q&A: Should I Take Melatonin?\n13:22 ❓ Q&A: Other Supplements for Sleep?\n15:36 🙏 Final Prayer & Thoughts\n\n✅ Subscribe to my Channel:  https://www.youtube.com/djockers\n\n✅ Listen to my Podcast on Apple, and leave a review! \nApple Podcast - https://podcasts.apple.com/us/podcast/dr-jockers-functional-nutrition/id1497791107\n\n✅ Watch on Spotify: https://open.spotify.com/show/37gaDSJMuE9fKo2PRZrSkw\n\nIMPORTANT: Some product links are affiliate links which means if you buy something we’ll receive a small commission.\n\nAFFILIATE DISCLAIMER: Please see the link for our disclaimer policy for all of our videos on the Dr. Jockers YouTube Channel and Dr. Jockers Functional Nutrition Podcast. Thank you for supporting the channel!\n-- https://drjockers.com/drjockers-com-affiliate-disclosure/"
     }
   ]
 }
