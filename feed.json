@@ -1,7 +1,7 @@
 {
-  "collectedAt": "2026-10-03T19:02:26.468367Z",
+  "collectedAt": "2026-10-04T04:01:16.874980Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-02T17:02:26.468367Z",
+  "windowStart": "2026-10-03T02:01:16.874980Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 6,
@@ -55,7 +55,7 @@
       "priority": "low",
       "videoId": "hLSo7gpQMjY",
       "publishedAt": "2026-10-03T15:30:34Z",
-      "title": "You're Only ONE Decision Away From a Different Life | Tony Robbins",
+      "title": "Do This Every Day and Watch Your Life Change | Tony Robbins",
       "url": "https://www.youtube.com/watch?v=hLSo7gpQMjY",
       "durationSeconds": 3389,
       "duration": "56:29",
