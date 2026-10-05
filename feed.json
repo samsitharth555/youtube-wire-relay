@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-10-05T09:29:55.577924Z",
+  "collectedAt": "2026-10-05T11:26:11.600244Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-04T07:29:55.577924Z",
+  "windowStart": "2026-10-04T09:26:11.600244Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 2,
+  "videoCount": 3,
   "videos": [
     {
       "channel": "Tech With Tim",
@@ -16,6 +16,17 @@
       "durationSeconds": 2263,
       "duration": "37:43",
       "description": "Check out the AI stack I use for my own business (in partnership with HubSpot): https://clickhubspot.com/5dedde\n\nIn this video, I build a full AI agent harness in Python completely from scratch — no LangChain, no CrewAI, no framework of any kind — just Python, an LLM, and the actual mechanics that make an agent an agent.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n🎞 Video Resources 🎞\nDownload the code in this video: https://www.aiagentbuilders.co/yt-resources/python-agent-harness\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:45 | Environment/Project Setup\n03:38 | What is an LLM & How it Works\n05:50 | V0: Calling LLMs\n09:25 | Model Selection & Local Models\n13:47 | HubSpot Free Resource\n14:44 | V1: Tool Calling\n22:56 | V2: Agentic Loop\n25:36 | V3: MCP Servers\n 30:53 | V4: Saving Memory\n33:55 | Full Harness Build\n\nHashtags\n#PythonAI #AIAgents #MCP\n\nUAE Media License Number: 3635141"
+    },
+    {
+      "channel": "Krish Naik",
+      "priority": "high",
+      "videoId": "92VIddlqE8Q",
+      "publishedAt": "2026-10-05T09:41:46Z",
+      "title": "Complete Guide to Build With An AI Software Engineer -Devin AI",
+      "url": "https://www.youtube.com/watch?v=92VIddlqE8Q",
+      "durationSeconds": 3632,
+      "duration": "1:00:32",
+      "description": "You can check out Devin Ai here:-https://get.aspr.app/SH21SY\r\nWhat can Devin, Cognition’s AI software engineer, actually do?\r\nIn this video, we put Devin through a real engineering workflow by building an Agentic RAG\r\nsystem from end to end — while exploring the capabilities that make Devin more than an AI\r\ncoding assistant.\n\r\n00:00 Introduction\r\n06:32 Devin AI Setup & GitHub Connection\r\n07:54 Exploring Devin Modes\r\n08:36 Connecting GitHub Repo for Agentic RAG\r\n10:27 Prompting the RAG Build\r\n12:27 Slack Integration\r\n13:54 Enabling Computer Use Capability\r\n16:19 Automated Repository Setup & Build\r\n20:30 Configuring API Secrets\r\n22:09 Build Completion & Streamlit Testing\r\n25:20 Setting Up Automations via Slack\r\n30:48 Task Management with Linear\r\n34:14 Devin Outpost & Self-Hosted Infrastructure\r\n41:57 Automated Code Review (Devin Review)\r\n45:58 Deep Security Scanning & Fixes\r\n52:29 Managed Devins & Parallel Sessions\r\n54:58 Live Application Testing\r\n58:06 Generating Architecture Wikis\r\n59:18 Final Summary & Conclusion\n\n\r\n🚀 Devin features covered:\r\n- ☁️ Devin Cloud — cloud-based development environments and isolated sandboxes\r\n- 🧠 Ask, Plan & Code Modes — understand, plan, and implement software\r\n- 🤖 Model Selection & Adaptive Routing\r\n- 🔗 GitHub & Slack Integration\r\n- 🖥️ Computer Use — browser, desktop, terminal, mouse & keyboard interaction\r\n- 🧪 Automated Testing — including recorded proof that the application works\r\n- ⚙️ Automations — automatically respond to CI failures, bugs, and events\r\n- 🔍 Devin Review & Auto-Fix — detect and fix bugs directly in pull requests\r\n- 🧩 Skills, MCP & Plugins — extend Devin with reusable workflows and tools\r\n- 🔐 Security & Security Swarm — identify, validate, and remediate vulnerabilities\r\n- 🖥️ Outposts & Custom VMs — run Devin on your own infrastructure\r\n- ⚡ Managed Devins — run multiple Devin sessions in parallel\r\n- 📚 DeepWiki — automatically generate architecture documentation\r\nThe goal is simple: show Devin actually working — not just talk about what it can do. By the end, you'll see the complete workflow:\r\nPlan → Build → Test → Review → Fix → Secure → Document.\r\n🔗 Devin: https://devin.ai\r\n🔗 Devin Review: https://devinreview.com\r\n🔗 DeepWiki: https://deepwiki.com\r\nWhat would you give Devin to build? Let us know in the comments!\r\n#Devin #DevinAI #Cognition #AIAgents #AIEngineering #SoftwareEngineering #AgenticAI"
     },
     {
       "channel": "The Diary Of A CEO",
