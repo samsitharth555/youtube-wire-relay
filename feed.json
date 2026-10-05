@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-10-04T17:59:05.233120Z",
+  "collectedAt": "2026-10-05T01:25:24.856705Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-03T15:59:05.233120Z",
+  "windowStart": "2026-10-03T23:25:24.856705Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 2,
+  "videoCount": 1,
   "videos": [
     {
       "channel": "Tech With Tim",
@@ -16,17 +16,6 @@
       "durationSeconds": 2263,
       "duration": "37:43",
       "description": "Check out the AI stack I use for my own business (in partnership with HubSpot): https://clickhubspot.com/5dedde\n\nIn this video, I build a full AI agent harness in Python completely from scratch — no LangChain, no CrewAI, no framework of any kind — just Python, an LLM, and the actual mechanics that make an agent an agent.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n🎞 Video Resources 🎞\nDownload the code in this video: https://www.aiagentbuilders.co/yt-resources/python-agent-harness\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:45 | Environment/Project Setup\n03:38 | What is an LLM & How it Works\n05:50 | V0: Calling LLMs\n09:25 | Model Selection & Local Models\n13:47 | HubSpot Free Resource\n14:44 | V1: Tool Calling\n22:56 | V2: Agentic Loop\n25:36 | V3: MCP Servers\n 30:53 | V4: Saving Memory\n33:55 | Full Harness Build\n\nHashtags\n#PythonAI #AIAgents #MCP\n\nUAE Media License Number: 3635141"
-    },
-    {
-      "channel": "GaryVee",
-      "priority": "low",
-      "videoId": "ZT4kiDO_g7M",
-      "publishedAt": "2026-10-03T17:02:09Z",
-      "title": "Why Your Business Content Gets Ignored",
-      "url": "https://www.youtube.com/watch?v=ZT4kiDO_g7M",
-      "durationSeconds": 564,
-      "duration": "9:24",
-      "description": "Thanks for watching!\n \nGary Vaynerchuk is a serial entrepreneur and serves as the Chairman of VaynerX, the CEO of VaynerMedia, and the CEO and creator of VeeFriends. Gary is considered one of the leading global minds on what's next in culture, business, and the internet.\n\nKnown as \"GaryVee,\" he is described as one of the most forward thinkers in business. He acutely recognizes trends and patterns early to help others understand how shifts in consumer attention impact the realities of the business world today. Gary's approach sits at the intersection of business and pop culture. He keenly understands how to bring brand relevance to the forefront. He is a prolific angel investor with early investments in companies like Facebook, Twitter, Tumblr, Venmo, Snapchat, Coinbase, and Uber.\n\nGary is an entrepreneur at heart – he builds businesses. Today, he helps Fortune 1000 brands leverage consumer attention through his full-service advertising agency, VaynerMedia, which has offices in New York, Los Angeles, Chicago, Miami, Toronto, Mexico City, London, Amsterdam, Sydney, Singapore, Tokyo, Bangkok, Delhi, and Kuala Lumpur. VaynerMedia is part of the VaynerX holding company, which also includes Gallery Media Group, The Sasha Group, VaynerSpeakers, and Tingley Lane Trading. Gary is the Co-Founder of VaynerSports, VCR Group, VaynerWatt, ArtOfficial, Resy, and Empathy Wines. He guided Resy and Empathy to successful exits -- which he later sold to American Express and Constellation Brands, respectively. He also owns a Major League Pickleball team called the 5s, is part owner of a Big3 basketball team, and is an investor in the revival of the SlamBall League.\n\nIn 2021, Gary created VeeFriends, an entertainment company that has become a rising powerhouse in modern entertainment and collectibles. Often described as Pokemon meets Sesame Street, the company leverages stories, games, events, collectibles, and technology to scale its character universe. Vaynerchuk also has negotiated partnerships with brand powerhouses such as Crocs, Fanatics, Macy’s/Toys “R” Us, Mattel’s UNO, Mattel’s Masters of the Universe, Moonbug Entertainment, Reebok, Squishmallows, Topps, and more.\n\nGary is also the founder and creator of VeeCon – a contemporary super conference that converges business and pop culture with innovation and technology. He is a six-time New York Times bestselling author, with titles including Crush It!, Jab, Jab, Jab, Right Hook, Twelve and a Half and Day Trading Attention. In addition to running multiple businesses, Gary documents his daily life as a CEO through his social media channels, which have more than 45 million followers and garner more than 300 million monthly impressions/views across all platforms. His podcast, \"The GaryVee Audio Experience,\" ranks among the top podcasts globally.\n\nGary serves on the board of MikMak, Bojangles Restaurants, Global Citizen Forum, The Paley Center, and Pencils of Promise. He is also a longtime Well Member of charity: water.\n\nGary's life ambition is to buy the New York Jets."
     }
   ]
 }
