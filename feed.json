@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-10-05T15:28:58.915148Z",
+  "collectedAt": "2026-10-05T17:25:05.375594Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-04T13:28:58.915148Z",
+  "windowStart": "2026-10-04T15:25:05.375594Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 6,
   "videos": [
-    {
-      "channel": "Tech With Tim",
-      "priority": "high",
-      "videoId": "H5o1P8RMiMw",
-      "publishedAt": "2026-10-04T14:11:56Z",
-      "title": "Build Your Own Agentic Harness in Python - Full Tutorial",
-      "url": "https://www.youtube.com/watch?v=H5o1P8RMiMw",
-      "durationSeconds": 2263,
-      "duration": "37:43",
-      "description": "Check out the AI stack I use for my own business (in partnership with HubSpot): https://clickhubspot.com/5dedde\n\nIn this video, I build a full AI agent harness in Python completely from scratch — no LangChain, no CrewAI, no framework of any kind — just Python, an LLM, and the actual mechanics that make an agent an agent.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n🎞 Video Resources 🎞\nDownload the code in this video: https://www.aiagentbuilders.co/yt-resources/python-agent-harness\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:45 | Environment/Project Setup\n03:38 | What is an LLM & How it Works\n05:50 | V0: Calling LLMs\n09:25 | Model Selection & Local Models\n13:47 | HubSpot Free Resource\n14:44 | V1: Tool Calling\n22:56 | V2: Agentic Loop\n25:36 | V3: MCP Servers\n 30:53 | V4: Saving Memory\n33:55 | Full Harness Build\n\nHashtags\n#PythonAI #AIAgents #MCP\n\nUAE Media License Number: 3635141"
-    },
     {
       "channel": "Krish Naik",
       "priority": "high",
@@ -71,6 +60,17 @@
       "durationSeconds": 5292,
       "duration": "1:28:12",
       "description": "Are you letting the past or fear of failure hold you back from achieving ultimate business success? Dana White, the relentless CEO behind the UFC, reveals the exact psychological frameworks and savage business tactics required to dominate your industry and build an empire.\n\nDana White is the President of the Ultimate Fighting Championship (UFC) and the driving force who transformed a $2 million struggling fight promotion into a global sports juggernaut currently valued alongside the world's most elite sports leagues. Now expanding his empire into Power Slap and Zuffa Boxing, White has mastered the brutal mechanics of scaling businesses in highly competitive, chaotic environments. \n\n*In this episode, he explains:*\n■ *The Victimhood Trap:* Why using your childhood trauma as an excuse guarantees failure, and how to psychologically reframe it into fuel for resilience instead.\n■ *The Loyalty Mandate:* How treating business like a literal war requires building a tight-knit team of absolute \"killers\".\n■ *Biohacking as an Asset:* The radical 12 week protocol of cold plunging, fasting, and targeted supplementation reversed his debilitating sleep apnea and fundamentally rewired his baseline energy for peak performance.\n■ *The Myth of \"Making It\":* Why true entrepreneurs must become addicted to solving daily chaos to stay ahead of competitors and reach the top of your industry.\n■ *Weaponizing Your Gut:* The exact mindset shift required to take massive risks when everyone else claims your vision is entirely impossible.\n\n00:00:00 Intro\n00:02:10 What Made Dana White a Fighter\n00:04:30 What His Childhood Really Looked Like\n00:06:00 How His Relationship With His Dad Changed\n00:07:58 Why Dana White Has Always Challenged Authority\n00:10:11 What He’s Trying to Teach His Son\n00:11:04 Why There’s No Such Thing as a Day Off\n00:13:18 How Getting Kicked in the Face by Business Changed Him\n00:14:39 Why Nobody Owes You Anything\n00:15:59 Why Most People Aren’t Cut Out to Be Entrepreneurs\n00:17:38 The Principles That Made the UFC Successful\n00:19:48 Why Who You Hire Can Make or Break a Business\n00:21:44 The Rare Skills Behind Dana White’s Success\n00:27:34 Why He Built a Family Through Business\n00:32:02 Why Great Leaders Stay in the Weeds\n00:33:15 I Love the Haters\n00:35:10 How Extreme Focus Fueled His Success\n00:37:22 What Transformed His Energy and Health\n00:39:47 Ads\n00:39:48 Why You Either Have the Killer Instinct or You Don’t\n00:41:54 Why You Have to Be a Savage in Business\n00:44:36 Can You Learn the Killer Instinct?\n00:45:14 Why a Chip on Your Shoulder Can Drive Success\n00:46:20 Who Dana White Would Never Want to Compete Against\n00:48:48 Do You Believe in Manifestation?\n00:52:56 How He Learned to Leave the Past Behind\n00:58:49 Has Dana White Forgiven His Mom?\n01:04:26 Ads\n01:04:27 Why You Should Trust Your Gut Over Focus Groups\n01:06:51 Why Chasing a Paycheck Means You’ve Already Lost\n01:07:47 How Much of Your Success Was Luck?\n01:11:07 Why You Can’t Be Afraid to Take Risks\n01:18:04 What Are You Still Chasing?\n01:22:06 The One Last Goal He Has to Accomplish\n01:24:33 Why Dana Believes He’ll Win at Boxing\n\n*Follow Dana White:*\nYouTube - https://link.thediaryofaceo.com/Fgajy25\nInstagram - https://link.thediaryofaceo.com/6pRqwZs\nFacebook - https://link.thediaryofaceo.com/GmEyz0C\nTwitter/X - https://link.thediaryofaceo.com/Ddv4Kda\nUFC - https://link.thediaryofaceo.com/F71pA3\n\n*The Diary Of A CEO:*\n◼ Join DOAC circle here - https://doaccircle.com/\n◼ Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK\n◼ Shop The Diary Of A CEO collection: https://thediary.com/collections/shop\n◼ Get email updates - https://link.thediaryofaceo.com/5IB1H6E\n◼ Follow Steven - https://link.thediaryofaceo.com/AGU9QP4\n\n*Sponsors:*\nCometeer - https://cometeer.com/DOAC use code DOAC for $20 off\nFunction Health - https://functionhealth.com/DOAC"
+    },
+    {
+      "channel": "Jay Shetty Podcast",
+      "priority": "low",
+      "videoId": "xO4wEerAuZY",
+      "publishedAt": "2026-10-05T15:30:27Z",
+      "title": "KIM KARDASHIAN: You're Not Selfish, You're Just Finally Choosing Yourself",
+      "url": "https://www.youtube.com/watch?v=xO4wEerAuZY",
+      "durationSeconds": 2873,
+      "duration": "47:53",
+      "description": "The first time a fire came for her house, Kim Kardashian packed every designer bag she owned. The fourth time, she left all of it behind.\n\nIn this episode, Kim Kardashian and Jay Shetty talk about what's left when you stop trying to make everyone happy, and why it took her until 40 to put herself first.\n\nKim opens up about the 20 minutes a day she keeps for herself, the nights when four kids all want the same mom at bedtime, and the case that pulled her into justice reform and changed how she sees people.\n\nJAY'S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\nJoin 900,000+ readers discovering how small daily shifts create big life change with my free newsletter. Subscribe https://news.jayshetty.me/subscribe\n\nChapters\n0:00 — The place nobody asks her for a photo\n0:49 — Her 20 minutes alone every day\n2:06 — \"Blood is thicker than water\"\n4:04 — Why self-help doesn't make everyone happy\n6:09 — The people pleaser who figured it out at 40\n8:47 — What opened up when she chose herself\n10:29 — The lesson about people she wishes she'd learned sooner\n13:55 — What parenting four kids is really like\n17:58 — Why she can't wait for the teenage years\n21:45 — The case that changed her life\n27:07 — You can't help people who don't want help\n31:21 — Mom guilt\n35:27 — Failing the bar exam in front of her kids\n41:06 — Four fires and what she packed each time\n45:31 — Does she want to be in love again?\n\nWatch the FULL episode on Netflix & Spotify 🎙️\nNetflix - https://dub.sh/QaUsKeD\nSpotify - https://dub.sh/axUXylv\n\nFull Episode With Kim Kardashian:\nhttps://youtu.be/3I482TBLEzc"
     }
   ]
 }
