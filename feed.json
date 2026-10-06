@@ -1,44 +1,11 @@
 {
-  "collectedAt": "2026-10-06T13:28:02.904029Z",
+  "collectedAt": "2026-10-06T15:26:18.752189Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-05T11:28:02.904029Z",
+  "windowStart": "2026-10-05T13:26:18.752189Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 6,
+  "videoCount": 4,
   "videos": [
-    {
-      "channel": "Huberman Lab",
-      "priority": "high",
-      "videoId": "SFX8FIHFLE4",
-      "publishedAt": "2026-10-05T12:00:01Z",
-      "title": "Bringing Extinct Species Back to Life | Dr. Beth Shapiro",
-      "url": "https://www.youtube.com/watch?v=SFX8FIHFLE4",
-      "durationSeconds": 8137,
-      "duration": "2:15:37",
-      "description": "Dr. Beth Shapiro, PhD, is an evolutionary biologist and Chief Science Officer at @Colossal Biosciences. Her work focuses on de-extinction and wildlife conservation efforts. We discuss genetic differences among humans, and how ancient DNA and modern embryology are being used to de-extinct and protect woolly mammoths, dodo birds, and dire wolves, as well as to help conserve endangered species. We also explore the ethical implications of de-extinction and how synthetic biology can help build a more bio diverse and resilient world.\n\nShow notes: https://go.hubermanlab.com/JKtj3zr\n\nThank you to our sponsors\nAG1: https://drinkag1.com/huberman\nJoovv: https://joovv.com/huberman\nEight Sleep: https://eightsleep.com/huberman\nFunction: https://functionhealth.com/huberman\n\nHuberman Lab\nInstagram: https://www.instagram.com/hubermanlab \nThreads: https://www.threads.net/@hubermanlab\nX: https://x.com/hubermanlab \nFacebook: https://www.facebook.com/hubermanlab \nTikTok: https://www.tiktok.com/@hubermanlab \nLinkedIn: https://www.linkedin.com/in/andrew-huberman\n\nDr. Beth Shapiro\nColossal Biosciences: https://colossal.com/team/beth-shapiro-ph-d-3\nAcademic profile: https://directory.ucsc.edu/cd_detail?guid=G024262336\nNational Geographic: https://explorers.nationalgeographic.org/directory/beth-shapiro \nLab: https://pgl.soe.ucsc.edu\nPublications: https://scholar.google.com/citations?user=8Mv9l1oAAAAJ\nLinkedIn: https://www.linkedin.com/in/beth-shapiro-27344222\nX: https://x.com/bonesandbugs\n\nTimestamps\n00:00:00 Beth Shapiro\n00:02:35 What is a Species?, Taxonomy, Bison\n00:09:13 Neanderthals, Denisovans, Homo Sapiens\n00:12:38 Sponsors: Joovv & Eight Sleep\n00:15:27 Hybrid Ancestry, “Grolar” Bears\n00:20:30 Homo Sapiens & Neanderthal Interbreeding, Genes; Denisovans\n00:25:53 Neanderthal Genes, Immunity, Red Hair; Eye Color\n00:30:17 De-Extinction, Species Selection, Woolly Mammoths\n00:38:08 Sponsor: AG1\n00:39:21 Bird De-Extinction, Dodo; Reproduction & Genes\n00:47:40 Development Biology, Woolly Mammoth, Elephants\n00:54:49 Dire Wolf, Synthetic Biology, Ethics\n01:03:26 De-Extinction, Ecology, Conservation, Ethics\n01:09:22 Ecosystem Resilience, Thylacine; Preventing Extinction, Quolls\n01:15:45 Sponsor: Function\n01:17:23 Modeling Ecological Impact, Mosquitoes, Gene Drives; Panthers\n01:25:50 Advisory Panels, Synthetic Biology Education\n01:29:13 Genetic Selection in Humans, Human-Shaped World\n01:38:25 Black-Footed Ferrets, Genetic Rescue\n01:47:05 Dire Wolf; Ecological Modeling, New Technology & Public Fear\n01:55:09 Artificial Wombs; Current Issues, Conservation & Red Wolf\n02:01:26 Science Pioneers; Colossal Public Education\n02:04:31 Beth’s Science Origin Story; Dinosaurs\n02:13:42 Zero-Cost Support, YouTube, Spotify & Apple Follow, Reviews & Feedback, Sponsors, Social Media, Neural Network Newsletter\n\nDisclaimer & Disclosures: https://www.hubermanlab.com/disclaimer"
-    },
-    {
-      "channel": "AI with Thiru",
-      "priority": "high",
-      "videoId": "aTqVvMaU3XE",
-      "publishedAt": "2026-10-05T12:42:31Z",
-      "title": "Ollama + CrewAI வைத்து Local AI Agent Build பண்ணலாம் | FREE AI Agent",
-      "url": "https://www.youtube.com/watch?v=aTqVvMaU3XE",
-      "durationSeconds": 824,
-      "duration": "13:44",
-      "description": "Build your own AI Agent with ZERO API COST using Ollama + CrewAI! 🚀\n\nIn this practical tutorial, I’ll show you how to run an LLM locally with Ollama and use CrewAI to build powerful AI agents — without paying for OpenAI, Gemini, Claude, or other paid APIs.\n\n🔥 What you'll learn:\n\nWhat is an AI Agent?\nHow Ollama runs LLMs locally\nSetting up Ollama for local AI\nInstalling and configuring CrewAI\nConnecting Ollama with CrewAI\nBuilding your first AI Agent\nCreating agent workflows with multiple tasks\nRunning AI Agents completely locally\nHow to build AI projects with ₹0 API cost\n\n💡 If you're learning AI Agents, Agentic AI, LLMs, CrewAI, or Local LLMs, this tutorial is a must-watch.\n\nNo expensive API. No monthly subscription. Just your laptop + open-source AI. 🔥\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nGitHub: https://github.com/Thirumurugan240/Local_AI_Agent.git\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nAI agent tutorial, build AI agent, AI agent using Ollama, CrewAI Ollama, Ollama CrewAI tutorial, CrewAI tutorial, Ollama tutorial, local AI agent, local LLM, AI agent zero cost, free AI agent, AI agent without API, AI agent without OpenAI API, build AI agent for free, Agentic AI tutorial, AI agents Tamil, AI agent Tamil, CrewAI Tamil, Ollama Tamil, local LLM tutorial, open source AI agent, Python AI agent, multi agent AI, CrewAI agents, Ollama local LLM, AI automation, generative AI, LLM agents\n\n#AIAgent #Ollama #CrewAI #AgenticAI #LocalLLM #GenerativeAI #AI #Python #OpenSourceAI #AIAgents #AIwithThiru"
-    },
-    {
-      "channel": "The AI Dude - Tamil",
-      "priority": "high",
-      "videoId": "xA2FN1jFP1k",
-      "publishedAt": "2026-10-05T13:00:22Z",
-      "title": "9 UI Skills Every AI Developer MUST Learn in 2026 🔥 (தமிழில்)",
-      "url": "https://www.youtube.com/watch?v=xA2FN1jFP1k",
-      "durationSeconds": 444,
-      "duration": "7:24",
-      "description": "Claude Code UI Skills CheatSheet : https://tinyurl.com/5e9mkuzy\n\nJoin our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nStop Building AI Slop — Build Professional UI!\nAI tools can generate websites and applications in seconds but why do most AI-generated UIs still look the same? Generic layouts, unnecessary gradients, random cards, excessive icons, poor spacing, and that obvious  AI generated look.\n\nIn this video, I’ll show you how to fix your AI generated UI and make it look clean, professional, and human-designed.\n\nWhat You’ll Learn\nWe’ll break down 9 essential UI design skills that can dramatically improve the output you get from AI coding tools. You’ll learn how to handle typography, spacing, visual hierarchy, colors, layouts, components, consistency, responsive design, and better prompting.\n\nAI Can Code  But You Need Design Sense\nWhether you're using Claude Code, Codex, Cursor, Lovable, Bolt, Replit, or other AI coding tools, simply asking AI to “make it beautiful” usually isn't enough.\nThe real skill in 2026 is knowing how to guide AI, identify bad UI decisions, and iterate until the application actually looks production ready.\n\nNo More AI Slop\nIf you're into Vibe Coding, AI App Development, Generative AI, UI/UX Design, or building SaaS products with AI, this video will help you take your UI from AI Slop → Professional Product UI.\n\n\"Watch till the end\" your AI can already code. Now make it design better. \n\n#ai  #uidesign  #vibecoding   #aicoding  #AIUI #webdesign  #uxdesign  #generativeai  #ClaudeCode #codex  #aitools  #appdevelopment #aivideo #uidesign #uiuxdesign #webpagedesign #uiux #aiwebsites"
-    },
     {
       "channel": "The AI Dude - Tamil",
       "priority": "high",
@@ -60,6 +27,17 @@
       "durationSeconds": 597,
       "duration": "9:57",
       "description": "AI Slop is everywhere… but do you actually know what it means? \n\nIn this video, we break down AI Slop — the massive wave of low-quality, repetitive, AI-generated content flooding YouTube, Instagram, TikTok, websites, and the internet.\n\nFrom AI-generated videos and images to blogs, social media posts, and spam content, you’ll understand:\n\nWhat exactly is AI Slop?\nWhy is AI Slop exploding right now?\nHow AI is flooding social media with low-quality content\nIs AI Slop killing creativity?\nWhy people are creating AI Slop for money\nHow to identify AI Slop\nWhat this means for the future of AI creators and content\n\nAI can help us create faster — but when everyone starts generating content without adding any real value, the internet changes completely.\n\nWatch till the end and decide for yourself: Are we entering the era of AI Slop? 👀\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nGitHub: https://github.com/Thirumurugan240/TensorFlow_Masterclass.git\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nAI Slop, what is AI Slop, AI slop explained, AI generated content, AI content, AI spam, AI generated videos, AI generated images, artificial intelligence, generative AI, AI future, AI creators, AI content creation, AI trends, AI news, AI explained, AI automation, ChatGPT, Gemini AI, AI revolution, future of AI, low quality AI content, AI social media, AI internet\n\n#AISlop #ArtificialIntelligence #GenerativeAI #AI #AIContent #AIContentCreation #AITrends #AIFuture #AIExplained #TamilAI #AIWithThiru"
+    },
+    {
+      "channel": "Tech With Tim",
+      "priority": "high",
+      "videoId": "uccBE9Tun6M",
+      "publishedAt": "2026-10-06T13:54:31Z",
+      "title": "I Unleashed 100 AI Agents at Once. Here’s What Happened.",
+      "url": "https://www.youtube.com/watch?v=uccBE9Tun6M",
+      "durationSeconds": 1254,
+      "duration": "20:54",
+      "description": "Get started with EvoX Agent for free: https://evomap.ai/evox/beta?utm_source=32060595&utm_campaign=kol&utm_content=tech_with_tim\n\nStop relying on a single AI agent for complex coding tasks. See how an agent swarm can drastically improve your problem-solving accuracy.\n\nMost developers treat LLMs as a single point of failure, but the real power lies in orchestrating multiple AI agents to work in parallel. Today, I test a new approach where splitting 563 problems among a swarm of agents yields a 71% success rate, compared to just 26% for a single model. Nothing about the core logic changed; only the task distribution did.\n\nWe are going to walk through the setup for EvoX Agent, a specialized AI coding assistant designed to handle this workflow. I will show you how to configure the specific modes and settings required to get it running, along with connecting the tool to your external services like GitHub and Slack for real-world utility.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:35 | What is EvoX Agent\n02:42 | Setup & Install\n03:42 | Setting & Model Config\n05:03 | Code, Work and Chat Modes\n08:06 | Self Evolution\n11:52 | AI Agent Swarm\n20:02 | Channels & Connections\n\nHashtags\n#EvoXAgent #EvoMap #AIAgent\n\nUAE Media License Number: 3635141"
     },
     {
       "channel": "Jay Shetty Podcast",
