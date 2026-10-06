@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-10-06T11:25:08.297390Z",
+  "collectedAt": "2026-10-06T13:28:02.904029Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-05T09:25:08.297390Z",
+  "windowStart": "2026-10-05T11:28:02.904029Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 5,
+  "videoCount": 6,
   "videos": [
-    {
-      "channel": "Krish Naik",
-      "priority": "high",
-      "videoId": "92VIddlqE8Q",
-      "publishedAt": "2026-10-05T09:41:46Z",
-      "title": "Complete Guide to Build With An AI Software Engineer -Devin AI",
-      "url": "https://www.youtube.com/watch?v=92VIddlqE8Q",
-      "durationSeconds": 3632,
-      "duration": "1:00:32",
-      "description": "You can check out Devin Ai here:-https://get.aspr.app/SH21SY\r\nWhat can Devin, Cognition’s AI software engineer, actually do?\r\nIn this video, we put Devin through a real engineering workflow by building an Agentic RAG\r\nsystem from end to end — while exploring the capabilities that make Devin more than an AI\r\ncoding assistant.\n\r\n00:00 Introduction\r\n06:32 Devin AI Setup & GitHub Connection\r\n07:54 Exploring Devin Modes\r\n08:36 Connecting GitHub Repo for Agentic RAG\r\n10:27 Prompting the RAG Build\r\n12:27 Slack Integration\r\n13:54 Enabling Computer Use Capability\r\n16:19 Automated Repository Setup & Build\r\n20:30 Configuring API Secrets\r\n22:09 Build Completion & Streamlit Testing\r\n25:20 Setting Up Automations via Slack\r\n30:48 Task Management with Linear\r\n34:14 Devin Outpost & Self-Hosted Infrastructure\r\n41:57 Automated Code Review (Devin Review)\r\n45:58 Deep Security Scanning & Fixes\r\n52:29 Managed Devins & Parallel Sessions\r\n54:58 Live Application Testing\r\n58:06 Generating Architecture Wikis\r\n59:18 Final Summary & Conclusion\n\n\r\n🚀 Devin features covered:\r\n- ☁️ Devin Cloud — cloud-based development environments and isolated sandboxes\r\n- 🧠 Ask, Plan & Code Modes — understand, plan, and implement software\r\n- 🤖 Model Selection & Adaptive Routing\r\n- 🔗 GitHub & Slack Integration\r\n- 🖥️ Computer Use — browser, desktop, terminal, mouse & keyboard interaction\r\n- 🧪 Automated Testing — including recorded proof that the application works\r\n- ⚙️ Automations — automatically respond to CI failures, bugs, and events\r\n- 🔍 Devin Review & Auto-Fix — detect and fix bugs directly in pull requests\r\n- 🧩 Skills, MCP & Plugins — extend Devin with reusable workflows and tools\r\n- 🔐 Security & Security Swarm — identify, validate, and remediate vulnerabilities\r\n- 🖥️ Outposts & Custom VMs — run Devin on your own infrastructure\r\n- ⚡ Managed Devins — run multiple Devin sessions in parallel\r\n- 📚 DeepWiki — automatically generate architecture documentation\r\nThe goal is simple: show Devin actually working — not just talk about what it can do. By the end, you'll see the complete workflow:\r\nPlan → Build → Test → Review → Fix → Secure → Document.\r\n🔗 Devin: https://devin.ai\r\n🔗 Devin Review: https://devinreview.com\r\n🔗 DeepWiki: https://deepwiki.com\r\nWhat would you give Devin to build? Let us know in the comments!\r\n#Devin #DevinAI #Cognition #AIAgents #AIEngineering #SoftwareEngineering #AgenticAI"
-    },
     {
       "channel": "Huberman Lab",
       "priority": "high",
@@ -49,6 +38,28 @@
       "durationSeconds": 444,
       "duration": "7:24",
       "description": "Claude Code UI Skills CheatSheet : https://tinyurl.com/5e9mkuzy\n\nJoin our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nStop Building AI Slop — Build Professional UI!\nAI tools can generate websites and applications in seconds but why do most AI-generated UIs still look the same? Generic layouts, unnecessary gradients, random cards, excessive icons, poor spacing, and that obvious  AI generated look.\n\nIn this video, I’ll show you how to fix your AI generated UI and make it look clean, professional, and human-designed.\n\nWhat You’ll Learn\nWe’ll break down 9 essential UI design skills that can dramatically improve the output you get from AI coding tools. You’ll learn how to handle typography, spacing, visual hierarchy, colors, layouts, components, consistency, responsive design, and better prompting.\n\nAI Can Code  But You Need Design Sense\nWhether you're using Claude Code, Codex, Cursor, Lovable, Bolt, Replit, or other AI coding tools, simply asking AI to “make it beautiful” usually isn't enough.\nThe real skill in 2026 is knowing how to guide AI, identify bad UI decisions, and iterate until the application actually looks production ready.\n\nNo More AI Slop\nIf you're into Vibe Coding, AI App Development, Generative AI, UI/UX Design, or building SaaS products with AI, this video will help you take your UI from AI Slop → Professional Product UI.\n\n\"Watch till the end\" your AI can already code. Now make it design better. \n\n#ai  #uidesign  #vibecoding   #aicoding  #AIUI #webdesign  #uxdesign  #generativeai  #ClaudeCode #codex  #aitools  #appdevelopment #aivideo #uidesign #uiuxdesign #webpagedesign #uiux #aiwebsites"
+    },
+    {
+      "channel": "The AI Dude - Tamil",
+      "priority": "high",
+      "videoId": "zeKuh1gNu04",
+      "publishedAt": "2026-10-06T12:59:39Z",
+      "title": "Instinct AI is the Next AI Wave of 2026?",
+      "url": "https://www.youtube.com/watch?v=zeKuh1gNu04",
+      "durationSeconds": 414,
+      "duration": "6:54",
+      "description": "1. Instinct Invite Link : https://app.instinct.com/invite?t=aidudetamil\n2. Instinct Invite Link : https://app.instinct.com/invite?t=aidudetamil2\n\nJoin our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nInstinct AI - The Next Generation of Personal AI?\nWhat if your AI assistant didn't just answer questions, but could actually understand your context, remember what matters, and help you through your everyday conversations? In this video, we're exploring Instinct AI, a personal AI experience that's taking a different approach to the traditional chatbot.\n\nWhat Makes Instinct AI Different?\nInstead of opening another AI app every time you need help, Instinct is designed around a more personal assistant experience. In this video, I'll show you the onboarding experience, messaging interface, personal AI features, how the product works, and what makes the concept interesting compared with the AI assistants we're already using.\n\nWe'll also look at whether this could represent the next evolution from AI chatbot → AI assistant → personal AI.\n\nPersonal AI Inside Messaging\nOne of the most interesting ideas is bringing your AI closer to the communication tools you already use. Imagine having an assistant available within your messaging workflow that can help with things like planning, recommendations, reminders, information and everyday tasks.\n\nThat's where the idea of an AI becoming a second brain  starts getting interesting.\n\nInvite Only Access\nInstinct is currently something I'm exploring through its invite/onboarding flow. In the video, I'll walk through the experience and show you how I accessed it, so you can understand what the product actually offers rather than just looking at the hype.\n\nThe Personal AI Race is Getting Serious\nChatGPT and other AI assistants have already changed how we interact with AI. But the next battle may be about something bigger: Which AI understands you best?\n\nIf personal AI becomes a major trend in 2026, products like Instinct could be worth watching. In this video, we'll test the experience and answer the big question:\n\nInstinct AI is it really worth the hype?\nSubscribe for more videos about AI Agents, Personal AI, Agentic AI, Generative AI, AI Tools and the latest AI technology  explained in Tamil.\n\n#InstinctAI #personalaircraft  #aiassistant   #aiagents  #agenticai  #aitools  #generativeai  #artificialintelligence  #ai2026  #aitamil #aivideo #aiautomation #aiassistant #aiassist"
+    },
+    {
+      "channel": "AI with Thiru",
+      "priority": "high",
+      "videoId": "sg6sckWTkLA",
+      "publishedAt": "2026-10-06T13:27:44Z",
+      "title": "'AI slob' என்றால் என்ன? | The Dark Side of AI 😱",
+      "url": "https://www.youtube.com/watch?v=sg6sckWTkLA",
+      "durationSeconds": 597,
+      "duration": "9:57",
+      "description": "AI Slop is everywhere… but do you actually know what it means? \n\nIn this video, we break down AI Slop — the massive wave of low-quality, repetitive, AI-generated content flooding YouTube, Instagram, TikTok, websites, and the internet.\n\nFrom AI-generated videos and images to blogs, social media posts, and spam content, you’ll understand:\n\nWhat exactly is AI Slop?\nWhy is AI Slop exploding right now?\nHow AI is flooding social media with low-quality content\nIs AI Slop killing creativity?\nWhy people are creating AI Slop for money\nHow to identify AI Slop\nWhat this means for the future of AI creators and content\n\nAI can help us create faster — but when everyone starts generating content without adding any real value, the internet changes completely.\n\nWatch till the end and decide for yourself: Are we entering the era of AI Slop? 👀\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nGitHub: https://github.com/Thirumurugan240/TensorFlow_Masterclass.git\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nAI Slop, what is AI Slop, AI slop explained, AI generated content, AI content, AI spam, AI generated videos, AI generated images, artificial intelligence, generative AI, AI future, AI creators, AI content creation, AI trends, AI news, AI explained, AI automation, ChatGPT, Gemini AI, AI revolution, future of AI, low quality AI content, AI social media, AI internet\n\n#AISlop #ArtificialIntelligence #GenerativeAI #AI #AIContent #AIContentCreation #AITrends #AIFuture #AIExplained #TamilAI #AIWithThiru"
     },
     {
       "channel": "Jay Shetty Podcast",
