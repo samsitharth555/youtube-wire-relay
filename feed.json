@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-10-07T11:25:48.395704Z",
+  "collectedAt": "2026-10-07T13:28:46.218218Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-06T09:25:48.395704Z",
+  "windowStart": "2026-10-06T11:28:46.218218Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 5,
+  "videoCount": 8,
   "videos": [
     {
       "channel": "The AI Dude - Tamil",
@@ -40,6 +40,28 @@
       "description": "Get started with EvoX Agent for free: https://evomap.ai/evox/beta?utm_source=32060595&utm_campaign=kol&utm_content=tech_with_tim\n\nStop relying on a single AI agent for complex coding tasks. See how an agent swarm can drastically improve your problem-solving accuracy.\n\nMost developers treat LLMs as a single point of failure, but the real power lies in orchestrating multiple AI agents to work in parallel. Today, I test a new approach where splitting 563 problems among a swarm of agents yields a 71% success rate, compared to just 26% for a single model. Nothing about the core logic changed; only the task distribution did.\n\nWe are going to walk through the setup for EvoX Agent, a specialized AI coding assistant designed to handle this workflow. I will show you how to configure the specific modes and settings required to get it running, along with connecting the tool to your external services like GitHub and Slack for real-world utility.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:35 | What is EvoX Agent\n02:42 | Setup & Install\n03:42 | Setting & Model Config\n05:03 | Code, Work and Chat Modes\n08:06 | Self Evolution\n11:52 | AI Agent Swarm\n20:02 | Channels & Connections\n\nHashtags\n#EvoXAgent #EvoMap #AIAgent\n\nUAE Media License Number: 3635141"
     },
     {
+      "channel": "The AI Dude - Tamil",
+      "priority": "high",
+      "videoId": "T6o-_RuQpIQ",
+      "publishedAt": "2026-10-07T12:51:34Z",
+      "title": "Google Just Solved RAG’s BIGGEST Problem in 2026 🤯 (தமிழில்)",
+      "url": "https://www.youtube.com/watch?v=T6o-_RuQpIQ",
+      "durationSeconds": 468,
+      "duration": "7:48",
+      "description": "Join our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\nRAG is NOT Enough Anymore  What’s Next?\nIn 2023, RAG (Retrieval-Augmented Generation) became one of the most important techniques for building Generative AI applications. If companies wanted to connect an LLM with their own documents, business data, or knowledge base, RAG was often at the center of the architecture.\n\nBut AI applications have evolved. Today we're building AI Agents, Agentic RAG, Agent Search and more context aware AI systems and traditional RAG alone may not be enough for every use case.\n\nThe Problem With Traditional RAG\nAs your knowledge base becomes larger and your AI application becomes more complex, you need to think about retrieval quality, context size, latency, accuracy and cost.\nSimply adding more documents doesn't automatically create a better AI application. The system needs to identify the right context at the right time and give the model only what it actually needs.\n\nRAG → Agentic RAG → What’s Next?\nIn this video, I break down how the AI knowledge/retrieval layer is evolving beyond basic RAG and why newer approaches are becoming important for modern AI applications.\n\nWe'll explore the ideas behind RAG, Agentic RAG, Agent Search, context engineering, retrieval strategies and Google's approach to handling larger context-driven AI workflows.\n\nWhy AI Engineers Should Learn This\nIf you're building Generative AI applications, RAG systems, AI Agents or enterprise AI products, understanding how to manage context efficiently is becoming an important engineering skill.\n\nDon't just learn how to call an LLM API. Learn how to give your AI system the right knowledge, context and retrieval strategy to produce useful results.\n\nRAG was the beginning. Now it's time to understand what comes next. \n\n#RAG #AgenticRAG #aiengineering  #aiagents  #agenticai  #generativeai  #llm  #contextengineering  #ai2026  #googleai  #aitamil #okf #vectors #md #llmviki #llms #langchaintutorial #whatisai"
+    },
+    {
+      "channel": "AI with Thiru",
+      "priority": "high",
+      "videoId": "wHIC_uCcD74",
+      "publishedAt": "2026-10-07T13:03:33Z",
+      "title": "JEV + RAG 🔥| Build RAG-Powered AI Apps with JEV (தமிழில்)",
+      "url": "https://www.youtube.com/watch?v=wHIC_uCcD74",
+      "durationSeconds": 729,
+      "duration": "12:09",
+      "description": "Want to make your AI application smarter with RAG (Retrieval-Augmented Generation)? 🚀\n\nIn this video, I show you how to integrate RAG with JEV and build an AI application that can retrieve information from your own data and generate more relevant responses.\n\nYou’ll learn how JEV and RAG can work together to create powerful AI applications without relying only on the model’s built-in knowledge.\n\n🔥 In this video:\n\nWhat is RAG?\nHow RAG works\nJEV + RAG integration\nConnecting your own data\nRetrieving relevant information\nGenerating context-aware AI responses\nBuilding a practical RAG-powered AI application\n\nWatch till the end and start building your own RAG-powered AI apps\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nGitHub: https://github.com/Thirumurugan240/Rag_with_Jev_AI.git\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nJEV RAG, JEV AI, JEV RAG integration, how to integrate RAG with JEV, RAG tutorial, RAG with JEV, Retrieval Augmented Generation, RAG AI, RAG tutorial for beginners, Generative AI, GenAI, LLM, AI application, AI development, vector database, embeddings, AI agents, AI with JEV, JEV tutorial, RAG implementation, build RAG application, Tamil AI tutorial, AI tutorial Tam\n\n#JEV #RAG #GenerativeAI #RAGTutorial #AI #GenAI #LLM #AIAgents #AIEngineering #VectorDatabase #MachineLearning #AIwithThiru #TamilAI #AITam"
+    },
+    {
       "channel": "Raj Shamani",
       "priority": "medium",
       "videoId": "vNvCQpGYdLo",
@@ -55,11 +77,22 @@
       "priority": "low",
       "videoId": "1vhPIOFSNSc",
       "publishedAt": "2026-10-06T15:30:28Z",
-      "title": "Give Me 19 Minutes & You Will Know If It’s Time to Leave Your Relationship...",
+      "title": "Give Me 19 Minutes & You Will Know If It’s Time to LEAVE Your Relationship...",
       "url": "https://www.youtube.com/watch?v=1vhPIOFSNSc",
       "durationSeconds": 1183,
       "duration": "19:43",
       "description": "When you fall for someone's potential, you're often falling for a version of them that only exists in your head.\n\nIn this clip, Jay Shetty talks about what to do when the people you love don't change, whether it's a partner, a parent, or someone in your family.\n\nJay shares the quote that changed his life about how people reveal themselves, the question to ask before you spend another year hoping, and the moment he realized his vision for his wife was more selfish than it looked.\n\nLearn why trying to change someone is often control dressed up as care, what a plant can teach you about your role in their life, and why the most loving choice can sometimes be to let go.\n\nJAY'S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\nJoin 900,000+ readers discovering how small daily shifts create big life change with my free newsletter. Subscribe https://news.jayshetty.me/subscribe\n\nChapters\n0:00 — People change when they're ready, not when you beg\n1:14 — The quote that changed everything\n2:42 — Why potential is a projection of your own wound\n4:19 — The question to ask if the pattern stays the same\n5:28 — Believe what they do, not what they say\n8:02 — Stop mistaking your control for love\n10:21 — Why radical acceptance isn't resignation\n12:28 — Why we stay\n13:13 — The selfish side of seeing potential\n14:10 — You're not their mirror, you're their environment\n16:00 — When the most loving choice is to let go\n17:01 — Why people shout when they're angry\n18:02 — Priorities vs. preferences\n18:59 — What's actually under your control\n\nWatch the FULL episode on Netflix & Spotify 🎙️\nNetflix - https://dub.sh/QaUsKeD\nSpotify - https://dub.sh/axUXylv"
+    },
+    {
+      "channel": "Dr David Jockers",
+      "priority": "low",
+      "videoId": "OKFx85sCN9U",
+      "publishedAt": "2026-10-07T13:14:16Z",
+      "title": "Why is NO ONE Talking About This Biblical Discovery…",
+      "url": "https://www.youtube.com/watch?v=OKFx85sCN9U",
+      "durationSeconds": 813,
+      "duration": "13:33",
+      "description": "✅Free 7 Day Fat Burning QuickStart Guide:  https://shorturl.at/5uQvV\n✅Re-Lyte:  https://redmond.life/drjockers\nUse coupon code JOCKERS at checkout for 15% off your order\n\nThe image that's been forwarded around church for twenty years, a protein shaped like a cross is real, and Jockers verifies it as a doctor. \n\nLaminin is what anchors every cell to the tissue around it, which makes it the structural protein behind skin firmness, gut lining integrity and blood vessel walls. \n\nHe explains what it does, what degrades it after 50, and the foods and daily habits that rebuild it. Ends on the verse.\n\n00:00 ✝️ The Cross-Shaped Protein: Laminin\n01:08 🔬 What the Famous Picture Gets Right & Wrong\n01:50 🕸️ What Laminin Actually Does in Your Body\n02:40 💧 Structured Water & the Basement Membrane\n03:51 📖 John 7:38 & \"Rivers of Living Water\"\n04:27 🩹 Skin, Blood Vessels & Healing After 50\n05:19 🔥 Why Inflammation Breaks Laminin Down\n06:11 🥩 Fix 1: Get Enough Protein\n07:20 🍊 Fix 2: Get Enough Vitamin C\n07:47 🩸 Fix 3: Manage Your Blood Sugar\n08:24 ☀️ Fix 4: Protect (But Get) Sun Exposure\n09:04 😴 Fix 5: Lower Chronic Inflammation\n09:41 🔋 Recharging Structured Water\n11:13 ❓ Q&A: Is Laminin Really the \"God Protein\"?\n12:11 ❓ Q&A: Does It Affect Joints & Bruising?\n12:50 🙏 Final Thoughts\n\n✅ Subscribe to my Channel:  https://www.youtube.com/djockers\n\n✅ Listen to my Podcast on Apple, and leave a review! \nApple Podcast - https://podcasts.apple.com/us/podcast/dr-jockers-functional-nutrition/id1497791107\n\n✅ Watch on Spotify: https://open.spotify.com/show/37gaDSJMuE9fKo2PRZrSkw\n\nIMPORTANT: Some product links are affiliate links which means if you buy something we’ll receive a small commission.\n\nAFFILIATE DISCLAIMER: Please see the link for our disclaimer policy for all of our videos on the Dr. Jockers YouTube Channel and Dr. Jockers Functional Nutrition Podcast. Thank you for supporting the channel!\n-- https://drjockers.com/drjockers-com-affiliate-disclosure/"
     }
   ]
 }
