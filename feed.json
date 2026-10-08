@@ -1,7 +1,7 @@
 {
-  "collectedAt": "2026-10-08T07:28:49.510504Z",
+  "collectedAt": "2026-10-08T09:27:39.376924Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-07T05:28:49.510504Z",
+  "windowStart": "2026-10-07T07:27:39.376924Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 9,
@@ -66,7 +66,7 @@
       "priority": "medium",
       "videoId": "qDzg-xvkeXw",
       "publishedAt": "2026-10-08T07:00:35Z",
-      "title": "AI Safety Whistleblower: 700 AI Agents Attacked A Company To Cover Their Tracks! | Jeffrey Ladish",
+      "title": "AI Safety Whistleblower: 10,000 AI Agents Worked Together To Do The Impossible! | Jeffrey Ladish",
       "url": "https://www.youtube.com/watch?v=qDzg-xvkeXw",
       "durationSeconds": 7412,
       "duration": "2:03:32",
