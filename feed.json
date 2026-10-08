@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-10-08T11:26:55.501733Z",
+  "collectedAt": "2026-10-08T13:30:09.961994Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-07T09:26:55.501733Z",
+  "windowStart": "2026-10-07T11:30:09.961994Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 9,
+  "videoCount": 11,
   "videos": [
     {
       "channel": "The AI Dude - Tamil",
@@ -51,11 +51,33 @@
       "description": "Check out Vidya AI: https://www.krishnaik.in/ai-tutorials\n\nJoin our AI FDE Bootcamp \nEnrollment link:\nhttps://www.krishnaik.in/liveclass2/Forward_Deployed_Engineer?id=14\n\nReach out to Krish Naik's counselling team on 📞 +919111533440 or +918484837781 in case of any queries we are there to help you out.\n\nBuild Production-Ready Enterprise AI Systems\n\nMaster the skills to become an AI Forward Deployed Engineer—from software engineering and AWS deployment to RAG, Knowledge Graphs, Multimodal AI, Agentic AI, enterprise integrations, security, and observability\n\nBuild real-world enterprise AI solutions using LangGraph, MCP, FastAPI, Docker, AWS, Neo4j, Pinecone, and more with two end-to-end enterprise capstone projects.\n\nPrerequisites: Basic knowledge of Python, SQL, APIs, and Git with a strong problem-solving mindset. No prior experience in GenAI, RAG, Agents, Cloud, or DevOps is required.\n\nLearn. Build. Deploy. Secure. Scale AI for the enterprise."
     },
     {
+      "channel": "Huberman Lab",
+      "priority": "high",
+      "videoId": "RqMWvhvt0DQ",
+      "publishedAt": "2026-10-08T12:00:29Z",
+      "title": "Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel",
+      "url": "https://www.youtube.com/watch?v=RqMWvhvt0DQ",
+      "durationSeconds": 1846,
+      "duration": "30:46",
+      "description": "In this Huberman Lab Essentials episode, my guest is Dr. Elissa Epel, PhD, a Professor of Psychiatry and Behavioral Sciences at the University of California, San Francisco (UCSF). We discuss how acute and chronic stress affect the body and brain, including their links to cellular aging and mitochondrial health. We also explain tools to reduce rumination, reframe stress as a challenge and build resilience, as well as how radical acceptance and a sense of purpose can help us navigate stressors we cannot change.\n\nShow notes: https://go.hubermanlab.com/fqVKGyP\n\nHuberman Lab\nInstagram: https://www.instagram.com/hubermanlab \nThreads: https://www.threads.net/@hubermanlab\nX: https://x.com/hubermanlab \nFacebook: https://www.facebook.com/hubermanlab \nTikTok: https://www.tiktok.com/@hubermanlab \nLinkedIn: https://www.linkedin.com/in/andrew-huberman\n\nDr. Elissa Epel\nLinkedIn: https://www.linkedin.com/in/elissa-epel\nInstagram: https://www.instagram.com/elissa.epel\nX: https://x.com/Dr_Epel\n\nTimestamps\n00:00:00 Elissa Epel\n00:00:22 Good & Bad Stress, Stress Responses\n00:01:55 Rumination, Body Awareness\n00:03:23 Tools: Mindset, Body & Environment\n00:04:51 Acute & Chronic Stress, Energy & Recovery\n00:07:44 Sponsor: Eight Sleep\n00:09:27 Healthy Aging, Purpose & Brain Health\n00:10:54 Stress Resilience, Threat vs. Challenge\n00:14:40 Tool: Reframe Stress, “Stress Shields”\n00:16:54 Sponsor: AG1\n00:18:30 Mitochondrial Health, Caregiving & Daily Mood\n00:21:24 Chronic Stress, Tool: Radical Acceptance\n00:25:19 Tool: “Drop the Rope”, Uncontrollable Stressors\n00:26:48 Uncertainty, Tool: Posture & Slow Breathing\n00:29:10 Sponsor: ROKA\n00:30:34 Taking Action vs. Letting Go\n00:32:55 Journaling, Narrative & Purpose\n00:34:15 Acknowledgements\n\nDisclaimer & Disclosures: https://www.hubermanlab.com/disclaimer"
+    },
+    {
+      "channel": "The AI Dude - Tamil",
+      "priority": "high",
+      "videoId": "LVptMLngku0",
+      "publishedAt": "2026-10-08T12:52:54Z",
+      "title": "Master AI Engineering in 2026 🔥 Zero to Hero (தமிழில்)",
+      "url": "https://www.youtube.com/watch?v=LVptMLngku0",
+      "durationSeconds": 1032,
+      "duration": "17:12",
+      "description": "Watch the Full Masterclass!!!\nBecome a channel member and unlock the full video.\n\n👉 Click the **Join** button below to become a member and start watching!!!\n\nJoin our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\n1. AI Fundamentals — How AI Actually Works\n\nBefore building AI applications, you need to understand what's happening behind the scenes.\n\nWe'll explore Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, and Large Language Models (LLMs). You'll also understand important concepts like tokens, embeddings, transformers, and how AI models process information and generate responses.\n\nThe goal is to make AI concepts simple, practical, and easy to understand, even if you're completely new to AI.\n\n2. Local LLM Setup — Run AI on Your Own Computer\n\nDo you really need expensive AI APIs to start building AI applications? Not necessarily!\n\nIn this section, we'll explore Ollama and Local LLMs, including how to set up your development environment, download compatible AI models, run them locally, and interact with them directly from your computer.\n\nYou'll understand the difference between cloud-based and local AI models and how to start experimenting without depending on paid API services.\n\n3. Build Your First Generative AI Application\n\nLearning AI becomes more interesting when you actually build something.\n\nWe'll explore how to use Python and Local LLMs to create a basic Generative AI application. You'll understand how user prompts are processed, how applications communicate with language models, and how AI-generated responses are returned to users.\n\nThis section introduces the fundamental workflow behind real AI-powered applications, from input to output.\n\n4. RAG — Build AI Applications Using Your Own Data\n\nHow can you make an AI application answer questions based on your own documents, PDFs, or company knowledge?\n\nThat's where Retrieval-Augmented Generation (RAG) comes in.\n\nWe'll break down how document processing, text chunking, embeddings, vector databases, and semantic search work together to retrieve relevant information and provide it to an LLM.\n\nYou'll learn the basic architecture behind document-based AI assistants and knowledge-powered applications.\n\n5. AI Automation — Make AI Work for You\n\nAI isn't just about generating text. It can also help automate repetitive tasks and business workflows.\n\nIn this section, we'll explore AI Automation, including how AI models can be connected with external applications, APIs, and automation tools such as n8n.\n\nYou'll understand how triggers, actions, and AI powered workflows can help with document processing, content creation, information extraction, and other real-world tasks.\n\n6. AI Agents — Beyond Traditional Chatbots\n\nWhat happens when AI moves beyond answering questions and starts using tools to complete tasks?\n\nWelcome to the world of AI Agents and Agentic AI.\n\nWe'll explore how AI agents work, including tool calling, reasoning, planning, memory, and multi-step execution.\n\nYou'll also understand the differences between Generative AI applications, AI Automation, AI Agents, and Agentic AI, along with their practical use cases.\n\n7. AI Engineering Roadmap — Skills You Need in 2026\n\nAI Engineering is much more than prompt engineering.\n\nTo become a skilled AI Engineer, you need to understand how different technologies work together to create reliable applications.\n\nWe'll discuss essential skills such as Python, LLM integration, prompt engineering, context engineering, RAG, AI automation, agent development, evaluation, and deployment.\n\nThe focus is on helping you understand what to learn, why it matters, and how to start implementing it.\n\nWho Should Watch This Masterclass?\n\nThis masterclass is designed for:\n\nBeginners who want to learn Artificial Intelligence\n\nStudents preparing for AI-related careers\n\nSoftware developers exploring Generative AI\n\nQA Engineers looking to upgrade their AI skills\n\nWorking professionals interested in AI Automation\n\nFreelancers building AI-powered applications\n\nEntrepreneurs exploring AI business opportunities\n\nNo matter where you're starting, the goal is to help you build a strong foundation in practical AI Engineering.\n\nStop Just Learning AI. Start Building AI!\n\nYou don't need to master every AI tool available in the market. What matters is understanding the fundamentals and knowing how to implement them.\n\nLearn AI. Build AI. Implement AI.\n\n#aiengineering  #aiengineering2026 #generativeai  #aimasterclass  #localllm  #ollama  #pythonai  #RAG #aiautomation  #aiagents  #agenticai  #llm  #aiengineer  #aitamil  #llms #genai #generativeai #ai #aivideo #youtubememes #youtubemembership"
+    },
+    {
       "channel": "Ali Abdaal",
       "priority": "medium",
       "videoId": "dKsp8aXrwJw",
       "publishedAt": "2026-10-07T16:29:26Z",
-      "title": "I spent $100,000s on business advice & here’s what I learned",
+      "title": "The Business Advice You Won't Find on YouTube",
       "url": "https://www.youtube.com/watch?v=dKsp8aXrwJw",
       "durationSeconds": 1253,
       "duration": "20:53",
