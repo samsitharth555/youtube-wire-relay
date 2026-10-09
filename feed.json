@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-10-09T11:25:18.351970Z",
+  "collectedAt": "2026-10-09T13:29:17.310968Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-08T09:25:18.351970Z",
+  "windowStart": "2026-10-08T11:29:17.310968Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 9,
+  "videoCount": 10,
   "videos": [
     {
       "channel": "Huberman Lab",
@@ -71,6 +71,17 @@
       "durationSeconds": 1325,
       "duration": "22:05",
       "description": "Get started with OpenRouter here: https://openrouter.plug.dev/DQFLEpP\n\nThis AI model can't write a single sentence. It can't code, it can't chat, and it can't summarize anything for you. Compared to a frontier model like GPT 5.5, it's about 65x cheaper to run, and for a lot of what we actually use LLMs for, I think it's the better choice.\n\nIt's called Jev, from TypeSafe AI, and it's a \"System One\" model: built to make one fast, structured decision instead of generating text. I spent a few weeks testing it across four real tests, including 1,000+ real customer messages and 350 sneaky shell commands, and compared it against a cheap LLM (Gemini 3.1 Flash Lite) and an expensive one (GPT 5.5).\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n🎞 Video Resources 🎞\nOpenRouter: https://openrouter.plug.dev/DQFLEpP\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:43 | How it Works\n02:33 | Why it Matters\n03:13 | Jev Request/Response Structure\n04:35 | TypeSafe's Claims\n05:31 | OpenRouter\n06:52 | The 4 Tests\n07:43 | Test 1\n09:52 | Test 2\n14:55 | Test 3\n16:12 | Test 4\n20:37 | When to Use It\n\nHashtags\n#Jev #TypeSafe #OpenRouter \n\nUAE Media License Number: 3635141"
+    },
+    {
+      "channel": "The AI Dude - Tamil",
+      "priority": "high",
+      "videoId": "eNMDgjGyi1s",
+      "publishedAt": "2026-10-09T12:51:54Z",
+      "title": "Stop Recording Videos! 🤯 Google Gemini AI Avatar 2026 (தமிழில்)",
+      "url": "https://www.youtube.com/watch?v=eNMDgjGyi1s",
+      "durationSeconds": 2917,
+      "duration": "48:37",
+      "description": "Join our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nCreate Realistic AI Avatars with Gemini\n\nLearn how to create professional-looking AI avatars using your own reference photos. We'll explore how to generate realistic images, customize outfits, change backgrounds, improve lighting, and maintain facial consistency using effective AI prompts.\n\n AI Image to Video Generation\n\nDiscover how to transform AI generated images into videos using Google's AI video generation capabilities. Understand the complete Image → AI Avatar → AI Video workflow, including camera movements, realistic animations, and cinematic video generation.\n\nAI Content Creation Without Traditional Recording\n\nCreating videos no longer has to depend entirely on cameras, lighting setups, and repeated recordings. With Google Gemini, you can experiment with AI generated content for YouTube Shorts, Instagram Reels, personal branding, marketing, and educational videos, reducing the need to record every scene manually.\n\nPrompt Engineering for Better AI Videos\n\nThe quality of AI-generated content depends heavily on how you write your prompts. In this tutorial, we'll explore practical prompting techniques for realistic characters, consistent faces, professional visuals, natural movements, and better AI video outputs.\n\nThe Future of AI Video Creation in 2026\n\nAI image and video generation is becoming an important skill for content creators, freelancers, marketers, and entrepreneurs. Whether you're a beginner or an experienced creator, this tutorial will help you understand how to use Google Gemini for AI Avatar Creation, AI Image Generation, and AI Video Generation.\n\nYour Face + Gemini AI = Your Own AI Avatar! \n\nWatch the complete tutorial, experiment with the prompts, and start creating your own AI powered content.\n\nWatch, Like & Share! Let's Spread the AI Hype!\n\n#geminiai  #googlegemini  #aiavatar  #AIAvatar2026 #aivideogenerator  #aiimagegeneration  #imagetovideo  #geminiaitutorial  #aicontentcreation  #googleai  #generativeai  #aitools2026  #aiinfluencer  #aitamil  #NoCameraNeeded #AIAvatarVideos #createvideoswithai   #aivideocreation  #YourAITwin #aicontentcreator   #facelessyoutube  #aireels  #aishorts"
     },
     {
       "channel": "Think School",
