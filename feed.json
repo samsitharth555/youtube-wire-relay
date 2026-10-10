@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-10-10T13:25:04.540245Z",
+  "collectedAt": "2026-10-10T15:23:38.448627Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-09T11:25:04.540245Z",
+  "windowStart": "2026-10-09T13:23:38.448627Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 6,
+  "videoCount": 5,
   "videos": [
-    {
-      "channel": "The AI Dude - Tamil",
-      "priority": "high",
-      "videoId": "eNMDgjGyi1s",
-      "publishedAt": "2026-10-09T12:51:54Z",
-      "title": "Stop Recording Videos! 🤯 Google Gemini AI Avatar 2026 (தமிழில்)",
-      "url": "https://www.youtube.com/watch?v=eNMDgjGyi1s",
-      "durationSeconds": 2917,
-      "duration": "48:37",
-      "description": "Join our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nCreate Realistic AI Avatars with Gemini\n\nLearn how to create professional-looking AI avatars using your own reference photos. We'll explore how to generate realistic images, customize outfits, change backgrounds, improve lighting, and maintain facial consistency using effective AI prompts.\n\n AI Image to Video Generation\n\nDiscover how to transform AI generated images into videos using Google's AI video generation capabilities. Understand the complete Image → AI Avatar → AI Video workflow, including camera movements, realistic animations, and cinematic video generation.\n\nAI Content Creation Without Traditional Recording\n\nCreating videos no longer has to depend entirely on cameras, lighting setups, and repeated recordings. With Google Gemini, you can experiment with AI generated content for YouTube Shorts, Instagram Reels, personal branding, marketing, and educational videos, reducing the need to record every scene manually.\n\nPrompt Engineering for Better AI Videos\n\nThe quality of AI-generated content depends heavily on how you write your prompts. In this tutorial, we'll explore practical prompting techniques for realistic characters, consistent faces, professional visuals, natural movements, and better AI video outputs.\n\nThe Future of AI Video Creation in 2026\n\nAI image and video generation is becoming an important skill for content creators, freelancers, marketers, and entrepreneurs. Whether you're a beginner or an experienced creator, this tutorial will help you understand how to use Google Gemini for AI Avatar Creation, AI Image Generation, and AI Video Generation.\n\nYour Face + Gemini AI = Your Own AI Avatar! \n\nWatch the complete tutorial, experiment with the prompts, and start creating your own AI powered content.\n\nWatch, Like & Share! Let's Spread the AI Hype!\n\n#geminiai  #googlegemini  #aiavatar  #AIAvatar2026 #aivideogenerator  #aiimagegeneration  #imagetovideo  #geminiaitutorial  #aicontentcreation  #googleai  #generativeai  #aitools2026  #aiinfluencer  #aitamil  #NoCameraNeeded #AIAvatarVideos #createvideoswithai   #aivideocreation  #YourAITwin #aicontentcreator   #facelessyoutube  #aireels  #aishorts"
-    },
     {
       "channel": "Tech With Tim",
       "priority": "high",
@@ -55,7 +44,7 @@
       "priority": "low",
       "videoId": "F7w955j8SjE",
       "publishedAt": "2026-10-09T16:21:53Z",
-      "title": "If You Want To Lose 30 Pounds In 7 Days, Copy This Sunset Routine",
+      "title": "If I Had Only 7 Days To Burn Belly Fat, I'd Do THIS",
       "url": "https://www.youtube.com/watch?v=F7w955j8SjE",
       "durationSeconds": 1179,
       "duration": "19:39",
