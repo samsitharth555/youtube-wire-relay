@@ -1,10 +1,10 @@
 {
-  "collectedAt": "2026-10-14T11:38:39.209218Z",
+  "collectedAt": "2026-10-14T13:42:27.952598Z",
   "lookbackHours": 26,
-  "windowStart": "2026-10-13T09:38:39.209218Z",
+  "windowStart": "2026-10-13T11:42:27.952598Z",
   "channelsTracked": 15,
   "channelsFailed": [],
-  "videoCount": 4,
+  "videoCount": 5,
   "videos": [
     {
       "channel": "AI with Thiru",
@@ -27,6 +27,17 @@
       "durationSeconds": 559,
       "duration": "9:19",
       "description": "Check out Gemini 4 Argon \nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/ \n\nGemini 4 Argon is now globally available today for developers and enterprises via the API in AI Studio and Gemini platform, for Google AI Ultra subscribers in Google Antigravity, and Google AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search.\n\nArgon excels at deep work in complex, real-world tasks across domains including coding, finance, legal, cybersecurity, and science. Its depth and precision across multi-step tasks leads Argon to outperform other frontier models on benchmarks across domains, ranking #1 on the Vals Index, which measures model performance across critical economic sectors like finance, coding, legal, and tax work.\n\nThe model launches today at an introductory price \n1\n of $2 per million input tokens and $10 per million output tokens (with cached input tokens at 95% off)."
+    },
+    {
+      "channel": "AI with Thiru",
+      "priority": "high",
+      "videoId": "cZPg-ntT25Q",
+      "publishedAt": "2026-10-14T13:03:38Z",
+      "title": "Reverse Engineer Anything 😱 Github Explained (தமிழில்)",
+      "url": "https://www.youtube.com/watch?v=cZPg-ntT25Q",
+      "durationSeconds": 837,
+      "duration": "13:57",
+      "description": "Want to reverse engineer anything? 🤯 In this video, we'll explore an interesting GitHub repository that helps you understand and analyze existing projects, systems, and implementations.\n\n🔥 What you'll learn:\n\nWhat the Reverse Engineer Anything GitHub repository is\n\nHow the project works\n\nHow to explore and analyze existing implementations\n\nHow developers can use this tool in their workflow\n\nPractical use cases for AI engineers and developers\n\nIf you're interested in AI, machine learning, software development, and open-source tools, this is something worth exploring!\n\n⏱️ TIMESTAMPS\n00:00 – Introduction\n01:23 – GitHub Repo Explained\n02:05 – Explained Reverse Engineering Concepts\n03:54 – Reversing the Product\n12:24 – Product Overview\n\nTo learn Gen AI, AI Agents, Agentic AI, AI Automation and Microsaas Building, Join GEN AI Architect Community Now: https://becomeaneagle.edgeone.app/?form=form_thiru-interest-youtube\n\nMachine Learning Book: https://topmate.io/thirumurugan_r/1919355\n\nInstagram: https://www.instagram.com/ai_with_thiru?igsh=MWkzeWdsOXU4c3o0Ng==\n\nLinkedIn: https://www.linkedin.com/in/thirumurugan-r-85a41b24a\n\nGitHub: https://github.com/Thirumurugan240/Reverse_Engineered_Voicetype.git\n\nIf you want to learn ML, DL, NLP, Gen AI, AI Agents, and Agentic AI in Tamil, subscribe now.\n\nreverse engineer anything, reverse engineering GitHub repo, reverse engineering tool, GitHub AI tools, best GitHub repositories, reverse engineering tutorial, AI developer tools, open source AI tools, software reverse engineering, analyze code with AI, developer productivity tools, AI tools for developers, GitHub projects, AI with Thiru, Tamil tech tutorial, reverse engineering in Tamil\n\n#ReverseEngineering #GitHub #AITools #OpenSource #Coding #DeveloperTools #AI #Programming #TechTamil #AIwithThiru"
     },
     {
       "channel": "Raj Shamani",
