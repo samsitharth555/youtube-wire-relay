@@ -1,22 +1,11 @@
 {
-  "collectedAt": "2026-11-17T18:33:56.449136Z",
+  "collectedAt": "2026-11-18T08:29:47.775986Z",
   "lookbackHours": 26,
-  "windowStart": "2026-11-16T16:33:56.449136Z",
+  "windowStart": "2026-11-17T06:29:47.775986Z",
   "channelsTracked": 15,
   "channelsFailed": [],
   "videoCount": 8,
   "videos": [
-    {
-      "channel": "Tech With Tim",
-      "priority": "high",
-      "videoId": "DweFQOPbCz0",
-      "publishedAt": "2026-11-16T17:03:05Z",
-      "title": "I Let an AI Company Run Itself for 7 Days (Real Results)",
-      "url": "https://www.youtube.com/watch?v=DweFQOPbCz0",
-      "durationSeconds": 1077,
-      "duration": "17:57",
-      "description": "Deploy an AI company for yourself using Paperclip on Hostinger (use code 'techwithtim' for an additional 10% off): https://www.hostg.xyz/SHKOC\n\nI gave a company of 8 AI agents one job: sell a $9 guide to strangers on the internet in 7 days, without using my audience. They wrote the guide in 21 minutes, completed 721 tasks and sent 329 emails. In this video I show you how to set up a Paperclip company yourself, what the agents did better than a human team, where they fell apart, and why I think this can still make real money.\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-nov26\n\n🎞 Video Resources 🎞\nPaperclip Full Tutorial: https://www.youtube.com/watch?v=RHZLJhp-JMM\n\n⏳ Timestamps ⏳\n00:00 | 8 AI Agents, 7 Days, $0\n00:46 | How Paperclip Works\n03:37 | Running It 24/7 on a Hostinger VPS\n05:38 | The Rules of the Experiment\n06:48 | The Guide Was Built in 21 Minutes\n08:46 | What the Agents Did Better Than Humans\n09:58 | What Went Wrong\n11:58 | Day-by-Day Breakdown\n13:40 | The Real Replies\n14:22 | The Final Numbers\n15:05 | Why $0 Isn't the Full Story\n16:38 | How I'd Use an AI Company Next Time\n17:04 | Final Thoughts\n\nHashtags\n#Paperclip #AICompany #AIAgents\n\nUAE Media License Number: 3635141"
-    },
     {
       "channel": "Tech With Tim",
       "priority": "high",
@@ -51,6 +40,28 @@
       "description": "Join our 6weeks GenAI architect course:\n🔗 https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp\n\n1:1 Mentorship:\n🔗 https://topmate.io/the_ai_dude\n\nFollow and support me:\n📺 YouTube –    / @theaidude-tamil  \n📸 Instagram –   / the_ai_dude  \n💼 LinkedIn –   / manojkumar-vasudevan-6369b1131\n\nWhat if you could manage your team, track business activities, and generate sales reports using an AI agent connected to WhatsApp? \n\nIn this video, I'll demonstrate a practical AI automation use case that combines WhatsApp team management, sales reporting, secure data handling, and browser-based AI automation.\n\nInstead of manually checking multiple dashboards and collecting business updates, imagine having an AI assistant that helps you organize information, execute supported workflows, and generate useful reports.\n\nI'll walk you through the setup process step by step and explain how the system works.\n\n What You'll Learn\n\n•  How to set up an AI-powered WhatsApp management workflow\n\n•  How to use AI agents for team coordination\n\n•  How to collect and organize business updates\n\n•  How to generate sales reports from connected data\n\n•  How to use dashboards for business reporting\n\n•  How secure Vault features help manage sensitive information\n\n•  How sandboxed AI agent environments work\n\n•  How AI agents use browsers to perform supported tasks\n\n•  How to connect tools and automate repetitive workflows\n\n•  Practical business automation examples\n\nWhatsApp AI Team Management\n\nImagine managing a team where daily updates, tasks, and business information are communicated through WhatsApp.\n\nWith an appropriately configured AI agent and authorized integrations, you can build workflows that help organize updates, summarize activities, and assist with team coordination.\n\nThis can be useful for small businesses, startups, agencies, and remote teams.\n\nAI-Powered Sales Reporting\n\nSales reporting often requires collecting information from multiple sources, analyzing performance, and preparing summaries.\n\nAI agents can assist with retrieving authorized business data, analyzing sales trends, and generating reports.\n\nWe'll explore how these capabilities can be connected to a dashboard for easier business monitoring.\n\nVault, Sandbox & Browser Automation\n\nOne of the interesting aspects of modern AI agent systems is their ability to work with isolated execution environments.\n\nIn this tutorial, we'll explore:\n\n• Vault-based credential and secret management\n\n• Sandboxed execution environments\n\n• Browser-based AI task execution\n\n• Agent tool integrations\n\n• Secure workflow configuration\n\n• How agents process requests and return results\n\nA sandbox can help isolate agent activity, but it does not automatically guarantee complete security. Always review permissions and protect sensitive business data.\n\nWhy This Matters\n\nAI automation is no longer limited to simple chatbots.\n\nWith the right tools, integrations, and permissions, AI agents can help businesses reduce repetitive administrative work and improve access to operational information.\n\nWhether you're building AI solutions for your own company or exploring AI automation services for clients, this tutorial provides a practical example of what is possible.\n\n#whatsappautomation  #aiagents  #AIManager #businessautomation  #AISalesReporting #browserautomation  #agenticai  #aitamil #aiautomation #automation #nod #nodwhatsapp #24/7aiagent"
     },
     {
+      "channel": "Tech With Tim",
+      "priority": "high",
+      "videoId": "IKHF1u7N75o",
+      "publishedAt": "2026-11-17T22:10:24Z",
+      "title": "Claude Can Now Ship Real Apps (IT Approved)",
+      "url": "https://www.youtube.com/watch?v=IKHF1u7N75o",
+      "durationSeconds": 759,
+      "duration": "12:39",
+      "description": "🔗 Try Superblocks: https://superblocks.com/?utm_source=youtube&utm_medium=influencer&utm_content=techwithtim\n\nMost apps people build with Claude never leave one laptop. In this video I take a real internal tool, a vendor renewals tracker built in a Claude chat, and ship it to production without leaving that same conversation. Using the new Superblocks MCP connector and App Database, the app gets its own Postgres database inside the company's AWS account, connects to live data, passes security checks before it can go live, and ends up behind company sign-in. I also show the admin side, so you can see what IT and security teams get to control.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/pro\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10\nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-nov26\n\n🎞 Video Resources 🎞\nTry Superblocks: https://superblocks.com/?utm_source=youtube&utm_medium=influencer&utm_content=techwithtim\n\n⏳ Timestamps ⏳\n0:00 | Hook\n01:07 | The problem\n02:33 | What Superblocks released\n03:45 | The app on one laptop\n04:59 | Import from the chat\n07:14 | Live data\n08:55 | Publish and security checks\n09:46 | Live in production\n10:36 | The admin view\n\n#Claude #Superblocks #MCP #AIAgents #VibeCoding #EnterpriseAI\n\nUAE Media License Number: 3635141"
+    },
+    {
+      "channel": "Krish Naik",
+      "priority": "high",
+      "videoId": "USiUp4kF3yE",
+      "publishedAt": "2026-11-18T05:21:14Z",
+      "title": "4 New Udemy AI Courses for 2027: AI FDE, Codex, Governance & Production Engineering",
+      "url": "https://www.youtube.com/watch?v=USiUp4kF3yE",
+      "durationSeconds": 835,
+      "duration": "13:55",
+      "description": "Avail these courses for 399 rs INR or 9.99$. Offer available for 2 days.\n\nAI Governance Bootcamp: Build Secure AI Systems\nhttps://www.udemy.com/course/ai-governance-bootcamp-build-secure-ai-systems/?couponCode=AIBEST\n\n\nAI Forward Deployed Engineer (FDE) Bootcamp\nhttps://www.udemy.com/course/ai-forward-deployed-engineer-fde-bootcamp/?couponCode=AIBEST\n\nChatGPT & OpenAI Masterclass 2027: Work, Codex & AI Agents\nhttps://www.udemy.com/course/chatgpt-openai-masterclass-2027-work-codex-ai-agents/?couponCode=AIBEST\n\nProduction Agentic AI Engineering Bootcamp\nhttps://www.udemy.com/course/production-agentic-ai-engineering-bootcamp/?couponCode=AIBEST"
+    },
+    {
       "channel": "Raj Shamani",
       "priority": "medium",
       "videoId": "8ol3j7o1U7o",
@@ -73,22 +84,11 @@
       "description": "Try Brilliant's tutor for free 👉 https://brilliant.org/aliabdaal and get 20% off an annual Premium subscription\n\n🚀 Free live masterclass: how to turn your skills into independent income in the next 8 weeks, without quitting your job. Save your free spot 👉 https://go.lifestylebusiness.com/bf26-skills-desc\n\n📓 The Head Start Workbook: the free workbook from this video, with the problems list and every step → https://go.lifestylebusiness.com/ytd_headstart\n\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business → https://lifestylebusiness.com/academy?utm_source=youtube&utm_medium=organic_social&utm_campaign=ali_yt&utm_term=video-desc&utm_content=L9GHmwO4-uw\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time → https://superfocus.me/?utm_source=youtube&utm_medium=organic_social&utm_campaign=ali_yt&utm_term=video-desc&utm_content=L9GHmwO4-uw\n\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS → https://go.aliabdaal.com/lifeos/ytd\n🤑 Grow / Monetise your YouTube Channel → https://go.aliabdaal.com/PTYA/yt\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free → https://go.aliabdaal.com/voicepal/ytd\n\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) → https://go.feelgoodproductivity.com/amazon/yt\n\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I'm reading & learning: https://go.aliabdaal.com/lifenotes/yt\n📸  Instagram: https://instagram.com/aliabdaal\n📱 TikTok: https://www.tiktok.com/@aliabdaal\n👨‍💻 Linkedin: https://www.linkedin.com/in/ali-abdaal/\n🐥 X/Twitter: https://x.com/aliabdaal\n🌍  My website/blog: https://www.aliabdaal.com/\n\n---\n\nHey friends, if you're earning a good salary but feel like there's a ceiling on what you can make, this video is for you. I'm breaking down why most salaries are capped, the two ways past it, how to package your skills around the problems people will happily pay to solve, and the leverage ladder from your first client all the way to scalable products. And you can start all of it without quitting your job just yet. Hope you enjoy xx\n\n\n🔗 LINKS MENTIONED IN THIS VIDEO \n\n📗 $100M Offers by Alex Hormozi (the \"grand slam offer\"): https://geni.us/100mOffers\n- Harvard Business Review on the cost of winning vs keeping customers: https://hbr.org/2014/10/the-value-of-keeping-the-right-customers\n\n⌚️ TIMESTAMPS \n0:00 Intro\n0:33 Part 1: Why your salary has a ceiling\n3:11 Part 2: Winning it for who?\n6:08 Part 3: Selling problems\n9:52 What the client actually wants\n11:33 What if you don't have the right skills?\n13:04 Part 4: How do you get those sales?\n16:13 Part 5: The leverage ladder\n19:10 What to do this week\n\nPS: I donate 10% of my income to charity every year. Would you like to join me? Learn more about the 10% Pledge: https://aliabdaal.com/giving-what-we-can/"
     },
     {
-      "channel": "Dr David Jockers",
-      "priority": "low",
-      "videoId": "Rrzaln7aLZI",
-      "publishedAt": "2026-11-16T17:16:04Z",
-      "title": "10 Minutes Kills Cortisol Belly Better Than 10,000 Steps",
-      "url": "https://www.youtube.com/watch?v=Rrzaln7aLZI",
-      "durationSeconds": 782,
-      "duration": "13:02",
-      "description": "✅Free 7 Day Fat Burning QuickStart Guide:  https://shorturl.at/5uQvV\n✅Cortisol Defense:  https://store.drjockers.com/products/cortisol-defense\n✅Brain Calm Magnesium:  https://shorturl.at/YusZs\nUse Code Jockers10 to save 10%\n\nThere's one 10-minute window in your day when an easy walk does more for your blood sugar than a 30-minute walk at any other time. \n\nAnd that blood sugar spike is exactly what cortisol belly feeds on. In this video, Dr. David Jockers shows you when that window opens, the backup move you can do from a chair, and the 7-day plan he'd follow if he only had one week. \n\n00:00 🚶 Why 10,000 Steps Isn't the Answer\n00:31 📜 Where the 10,000-Step Myth Came From\n01:55 ⏰ Timing Matters More Than Distance\n02:37 🔬 Why 10 Minutes Beats 30\n04:47 📏 The 4 Rules for Walking After Meals\n07:09 🪑 The Backup: Soleus Push-Ups\n08:25 📅 The Exact 7-Day Plan\n11:25 ⚠️ If You Take Diabetes Medication\n12:10 🙏 Final Thoughts & Prayer\n\n✅ Subscribe to my Channel:  https://www.youtube.com/djockers\n\n✅ Listen to my Podcast on Apple, and leave a review! \nApple Podcast - https://podcasts.apple.com/us/podcast/dr-jockers-functional-nutrition/id1497791107\n\n✅ Watch on Spotify: https://open.spotify.com/show/37gaDSJMuE9fKo2PRZrSkw\n\nIMPORTANT: Some product links are affiliate links which means if you buy something we’ll receive a small commission.\n\nAFFILIATE DISCLAIMER: Please see the link for our disclaimer policy for all of our videos on the Dr. Jockers YouTube Channel and Dr. Jockers Functional Nutrition Podcast. Thank you for supporting the channel!\n-- https://drjockers.com/drjockers-com-affiliate-disclosure/"
-    },
-    {
       "channel": "Jay Shetty Podcast",
       "priority": "low",
       "videoId": "Rnr-gWPNFzM",
       "publishedAt": "2026-11-17T16:30:39Z",
-      "title": "HILARY DUFF: The Hardest Relationships Are With Your Own Family",
+      "title": "HILARY DUFF: The Family Truth Behind Lizzie McGuire's Smile",
       "url": "https://www.youtube.com/watch?v=Rnr-gWPNFzM",
       "durationSeconds": 1914,
       "duration": "31:54",
